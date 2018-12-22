@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+  .names {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+  }
+
+    /* Tooltip CSS */
+    .d3-tip {
+    line-height: 1.5;
+    font-weight: 400;
+    font-family:"avenir next", Arial, sans-serif;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #FFA500;
+    border-radius: 1px;
+    pointer-events: none;
+    }
+
+    /* Creates a small triangle extender for the tooltip */
+    .d3-tip:after {
+      box-sizing: border-box;
+      display: inline;
+      font-size: 8px;
+      width: 100%;
+      line-height: 1.5;
+      color: rgba(0, 0, 0, 0.6);
+      position: absolute;
+      pointer-events: none;
+
+    }
+
+    /* Northward tooltips */
+    .d3-tip.n:after {
+      content: "\25BC";
+      margin: -1px 0 0 0;
+      top: 100%;
+      left: 0;
+      text-align: center;
+    }
+
+    /* Eastward tooltips */
+    .d3-tip.e:after {
+      content: "\25C0";
+      margin: -4px 0 0 0;
+      top: 50%;
+      left: -8px;
+    }
+
+    /* Southward tooltips */
+    .d3-tip.s:after {
+      content: "\25B2";
+      margin: 0 0 1px 0;
+      top: -8px;
+      left: 0;
+      text-align: center;
+    }
+
+    /* Westward tooltips */
+    .d3-tip.w:after {
+      content: "\25B6";
+      margin: -4px 0 0 -1px;
+      top: 50%;
+      left: 100%;
+    }
+
+/*    text{
+      pointer-events:none;
+    }*/
+
+    .details{
+      color:white;
+    }
+.disLeg{}
+.selector{
+      display: inline-block;
+      width: 775px;
+      height: 25px;
+}
+
+</style>
+<html>
+<body>
+    <table  cellpadding="0" cellspacing="0" border="0" >
+        <tr>
+		    <td>
+			    <span class = "selector" id="modeSelector"></span>
+                <div class = "selector" id="diseaseSelector1"></div>
+                <div class = "selector" id="yearSelector1"></div>
+		        <div id="diseaseMapSpan">
+	                <svg width="700" height="500" id="diseaseMap" aria-labelledby="title">
+                        <title>Map of Disease Incidents</title>
+                    </svg>
+	            </div>
+              <div class = "legend" id = "diseaseLegend1">
+                   <svg width = "700" height = "250" id = "disLegend1">
+                   </svg>
+               </div>
+			</td>
+
+		    <td>
+			    <span class = "selector" id="modeSelector" visibility="hidden"></span>
+                <div class = "selector" id="diseaseSelector2"></div>
+                <div class = "selector" id="yearSelector2"></div>
+	            <div id="vaccineMapSpan">
+	                <svg width="700" height="500" id="vaccineMap" aria-labelledby="title">
+			            <title>Map of Vaccine Percentage</title>
+                    </svg>
+	            </div>
+                <div class = "legend" id = "vaccineLegend" >
+                    <svg width = "700" height = "250" id = "vaccLegend">
+                    </svg>
+                </div>
+			    <div class = "legend" id = "diseaseLegend2">
+                   <svg width = "700" height = "250" id = "disLegend2">
+                   </svg>
+                </div>
+			</td>
+        </tr>
+	</table>
+</body>
+</html>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/queue.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script src="d3-tip.js"></script>
+<script>
+
+
+var format = d3.format(",");
+
+mode = "Disease Vs. Vaccine"
+
+
+// Set tooltips
+var tip = d3.tip()
+            .attr('class', 'd3-tip')
+            .offset([-10, 0])
+            .html(function(d) {
+              return "<strong>Country: </strong><span class='details'>" + d.properties.name + "<br></span>" + "<strong>Population: </strong><span class='details'>" + formatNegativeOnes(d.population) +"</span>" + "<br></span>" + "<strong>Instances: </strong><span class='details'>" + formatNegativeOnes(d.instances) +"</span>";
+            })
+
+var vtip = d3.tip()
+            .attr('class', 'd3-tip')
+            .offset([-10, 0])
+            .html(function(d) {
+              return "<strong>Country: </strong><span class='details'>" + d.properties.name + "<br></span>" + "<strong>Vaccine Percentage: </strong><span class='details'>" + formatNegativeOnes(d.percentage) +"</span>";
+            })
+
+var margin = {top: 0, right: 0, bottom: 0, left: 0},
+            width = 700 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+var legendDisBins = ["No data available",
+                     "Negligible disease incidence",
+                     "Disease incidence greater than 1 in 100,000 people",
+                     "Disease incidence greater than 10 in 100,000 people"];
+
+var legendVacBins = ["No data available",
+                     "Herd immunity not achieved",
+                     "Herd immunity potentially achieved",
+                     "Herd immunity achieved"];
+
+var color = d3.scaleThreshold()
+    .domain([0,.001,.01])
+    .range(["#a9a9a9", "#fcbba1","#fb6a4a", "#cb181d"]);
+
+var vaccineColor = d3.scaleThreshold()
+    .domain([0,83,94])
+    .range(["#a9a9a9", "#74c476", "#31a354", "#006d2c"]);
+
+var legendWidth = 700;
+var legendHeight = 250;
+
+var path = d3.geoPath();
+
+function formatNegativeOnes(input) {
+	if (input < 0) {
+	    input = "No Data";
+	}
+	else {
+	    input = format(input);
+	}
+	return input;
+
+}
+
+var svg = d3.select("#diseaseMap")
+            .attr("width", width)
+            .attr("height", height)
+            .append('g')
+            .attr('class', 'map');
+
+var svgVaccine = d3.select('#vaccineMap')
+            .attr("width", width)
+            .attr("height", height);
+
+var svgDisLegend1 = d3.select('#disLegend1')
+            .attr("width", legendWidth)
+            .attr("height", legendHeight);
+
+var svgDisLegend2 = d3.select('#disLegend2')
+            .attr("display", "none")
+            .attr("width", legendWidth)
+            .attr("height", legendHeight);
+
+var svgVaccLegend = d3.select('#vaccLegend')
+            .attr("width", legendWidth)
+            .attr("height", legendHeight);
+
+var dataL = 0
+var offset = 8;
+
+var disLegend1 = svgDisLegend1.selectAll('.disLeg')
+    .data(legendDisBins)
+    .enter().append("g")
+    .attr("class","disLeg")
+    .attr("transform", function(d, i) {
+      return "translate(0, "+i * 55+")"
+    })
+
+    disLegend1.append('rect')
+      .attr("x", i * 50)
+      .attr("y", i*40)
+      .attr("width", 50)
+      .attr("height", 40)
+      .style("fill", function (d, i) {
+          return color.range()[i];
+      })
+
+disLegend1.append('text')
+    .attr("x", 55)
+    .attr("y", 25)
+      //.attr("dy", ".35em")
+    .text(function (d, i) {
+          return d
+        })
+  .attr("class", "textselected")
+  .style("text-anchor", "start")
+  .style("font-size", 15)
+
+  var disLegend2 = svgDisLegend2.selectAll('.disLeg')
+      .data(legendDisBins)
+      .enter().append("g")
+      .attr("class","disLeg")
+      .attr("transform", function(d, i) {
+        return "translate(0, "+i * 55+")"
+      })
+
+      disLegend2.append('rect')
+        .attr("x", i * 50)
+        .attr("y", 10 +i *40)
+        .attr("width", 50)
+        .attr("height", 40)
+        .style("fill", function (d, i) {
+            return color.range()[i];
+        })
+  disLegend2.append('text')
+      .attr("x", 55)
+      .attr("y", 25)
+        //.attr("dy", ".35em")
+      .text(function (d, i) {
+            return d
+          })
+    .attr("class", "textselected")
+    .style("text-anchor", "start")
+    .style("font-size", 15)
+
+var vaccLegend = svgVaccLegend.selectAll('.vaccLeg')
+        .data(legendVacBins)
+        .enter().append("g")
+        .attr("class","vaccLeg")
+        .attr("transform", function(d, i) {
+          return "translate(0, "+i * 55+")"
+        })
+
+        vaccLegend.append('rect')
+          .attr("x", i * 50)
+          .attr("y", i * 40)
+          .attr("width", 50)
+          .attr("height", 40)
+          .style("fill", function (d, i) {
+              return vaccineColor.range()[i];
+          })
+    vaccLegend.append('text')
+        .attr("x", 55)
+        .attr("y", 25)
+          //.attr("dy", ".35em")
+        .text(function (d, i) {
+              return d
+            })
+      .attr("class", "textselected")
+      .style("text-anchor", "start")
+      .style("font-size", 15)
+
+var projection = d3.geoMercator()
+                   .scale(110)
+                  .translate( [width / 2, height / 1.5]);
+
+var years = new Array(17);
+
+n = 0;
+for(var i=2016; i>2000 ;i--){
+    years[n] = i;
+	n ++;
+    }
+
+var modes = ["Disease Vs. Vaccine", "Disease Vs. Disease"]
+
+var diseases = ["Rubella", "Measles", "Pertussis"];
+
+var diseaseSelector1 = d3.select('#diseaseSelector1')
+    .append('select')
+	.attr('id', 'diseaseSelect1')
+    .attr('class','select')
+    .on('change',function(d) {onChange(1);});
+
+var diseaseSelector2 = d3.select('#diseaseSelector2')
+	.style('visibility', 'hidden')
+    .append('select')
+    .attr('id', 'diseaseSelect2')
+    .attr('class','select')
+    .on('change',function(d) {onChange(2);});
+
+var diseaseOptions1 = diseaseSelector1
+  .selectAll('option')
+  .data(diseases).enter()
+  .append('option')
+    .text(function (d) { return d; });
+
+var diseaseOptions2 = diseaseSelector2
+  .selectAll('option')
+  .data(diseases).enter()
+  .append('option')
+    .text(function (d) { return d; });
+
+var modeSelector = d3.select('#modeSelector')
+    .append('select')
+	.attr('id', 'modeSelect')
+    .attr('class','select')
+    .on('change',function(d) {changeMode();});
+
+var modeOptions = modeSelector
+  .selectAll('option')
+  .data(modes).enter()
+  .append('option')
+    .text(function (d) { return d; });
+
+
+var yearSelector1 = d3.select('#yearSelector1')
+  .append('select')
+    .attr('id', 'yearSelect1')
+    .attr('class','select')
+    .on('change',function(d) {onChange(1);});
+
+var yearSelector2 = d3.select('#yearSelector2')
+  .style('visibility', 'hidden')
+  .append('select')
+    .attr('id', 'yearSelect2')
+    .attr('class','select')
+    .on('change',function(d) {onChange(2);});
+
+var dayOptions1 = yearSelector1
+  .selectAll('option')
+  .data(years).enter()
+  .append('option')
+    .text(function (d) { return d; });
+
+var dayOptions2 = yearSelector2
+  .selectAll('option')
+  .data(years).enter()
+  .append('option')
+    .text(function (d) { return d; });
+
+var chosenDisease = "Rubella"
+var chosenYear = 2016
+
+function onChange(map=1) {
+    if (map == 1) {
+	    //Disease Map
+	    var diseaseSelect = document.getElementById("diseaseSelect1");
+		var yearSelect = document.getElementById("yearSelect1");
+	}
+	else {
+	    //Change Vaccine Map
+		var diseaseSelect = document.getElementById("diseaseSelect2");
+		var yearSelect = document.getElementById("yearSelect2");
+	}
+
+	if (!diseaseSelect || !yearSelect) {
+	    return;
+	}
+	chosenDisease = diseaseSelect.value
+	chosenYear = yearSelect.value
+	QueueDiseaseMapDataLoad(map);
+	if (mode == "Disease Vs. Vaccine") {
+	    QueueVaccineMapDataLoad();
+	}
+}
+
+function changeMode() {
+    var modeSelect = document.getElementById("modeSelect");
+    if (!modeSelect) {
+        return;
+    }
+    if (modeSelect.value == mode) {
+	    return;
+	}
+	mode = modeSelect.value;
+	if (mode == "Disease Vs. Vaccine") {
+	    d3.select("#diseaseSelector2").style("visibility","hidden");
+		d3.select("#yearSelector2").style("visibility","hidden");
+		d3.select("#disLegend2").attr("display", "none");
+		d3.select("#vaccLegend").attr("display", "inline");
+	    QueueDiseaseMapDataLoad(1);
+		QueueVaccineMapDataLoad();
+	}
+	else if (mode == "Disease Vs. Disease") {
+		d3.select("#diseaseSelector2").style("visibility","visible")
+		d3.select("#yearSelector2").style("visibility","visible")
+		d3.select("#disLegend2").attr("display", "inline");
+		d3.select("#vaccLegend").attr("display", "none");
+		vtip.hide();
+		QueueDiseaseMapDataLoad(1);
+		QueueDiseaseMapDataLoad(2);
+	}
+}
+
+var path = d3.geoPath().projection(projection);
+
+svg.call(tip);
+svgVaccine.call(vtip);
+
+function QueueDiseaseMapDataLoad(map) {
+    if (map == 1) {
+		if (chosenDisease == "Measles") {
+			queue()
+				.defer(d3.json, "world_countries.json")
+				.defer(d3.csv, "MeaslesInfo.csv")
+				.await(ready1);
+		}
+		else if (chosenDisease == "Rubella") {
+			queue()
+				.defer(d3.json, "world_countries.json")
+				.defer(d3.csv, "RubellaInfo.csv")
+				.await(ready1);
+		}
+		else {
+			queue()
+				.defer(d3.json, "world_countries.json")
+				.defer(d3.csv, "PertussisInfo.csv")
+				.await(ready1);
+		}
+	}
+	else {
+		if (chosenDisease == "Measles"){
+			queue()
+				.defer(d3.json, "world_countries.json")
+				.defer(d3.csv, "MeaslesInfo.csv")
+				.await(ready2);
+		}
+		else if (chosenDisease == "Rubella") {
+			queue()
+				.defer(d3.json, "world_countries.json")
+				.defer(d3.csv, "RubellaInfo.csv")
+				.await(ready2);
+		}
+		else {
+			queue()
+				.defer(d3.json, "world_countries.json")
+				.defer(d3.csv, "PertussisInfo.csv")
+				.await(ready2);
+		}
+	}
+}
+
+function QueueVaccineMapDataLoad(map) {
+	if (chosenDisease == "Measles") {
+		queue()
+			.defer(d3.json, "world_countries.json")
+			.defer(d3.csv, "VaccinesM.csv")
+			.await(ready3);
+	}
+	else if (chosenDisease == "Rubella") {
+		queue()
+			.defer(d3.json, "world_countries.json")
+			.defer(d3.csv, "VaccinesR.csv")
+			.await(ready3);
+	}
+	else {
+		queue()
+			.defer(d3.json, "world_countries.json")
+			.defer(d3.csv, "VaccinesP.csv")
+			.await(ready3);
+	}
+}
+
+QueueDiseaseMapDataLoad(1);
+QueueVaccineMapDataLoad();
+
+
+function ready1(error, data, dataWHO) {
+  var percent = {},
+      populationByID = {},
+      instances = {};
+  dataWHO.forEach(function(d) {
+
+        if (d.year == chosenYear) {
+            if (!d.population)
+                populationByID[d.Code] = -1;
+            else
+                populationByID[d.Code] = d.population;
+            percent[d.Code] = d.percent;
+            instances[d.Code] = d.instances;
+		}
+      });
+  data.features.forEach(function(d) {
+
+        d.population = populationByID[d.id];
+        d.percent = percent[d.id];
+        d.instances = instances[d.id];
+
+		if (!d.population) {
+		    d.population = -1;
+		}
+		if (!d.percent) {
+		    d.percent = -1;
+		}
+        if (!d.instances) {
+            d.instances = -1;
+		}
+		
+		if (d.id == "GRL") {
+		    d.population = populationByID["DNK"];
+            d.percent = percent["DNK"];
+            d.instances = instances["DNK"];
+		}
+
+
+      });
+
+  svg.selectAll("*").remove();
+
+  svg.append("g")
+      .attr("class", "countries")
+    .selectAll("path")
+      .data(data.features)
+    .enter().append("path")
+      .attr("d", path)
+      .style("fill", function(d) { return color(d.percent); })
+      .style('stroke', 'white')
+      .style('stroke-width', 1.5)
+      .style("opacity",0.8)
+      // tooltips
+        .style("stroke","white")
+        .style('stroke-width', 0.3)
+        .on('mouseover',function(d){
+          tip.show(d);
+
+          d3.select(this)
+            .style("opacity", 1)
+            .style("stroke","white")
+            .style("stroke-width",3);
+        })
+        .on('mouseout', function(d){
+          tip.hide(d);
+
+          d3.select(this)
+            .style("opacity", 0.8)
+            .style("stroke","white")
+            .style("stroke-width",0.3);
+        });
+
+
+
+  svg.append("path")
+      .datum(topojson.mesh(data.features, function(a, b) { return a.id !== b.id; }))
+       // .datum(topojson.mesh(data.features, function(a, b) { return a !== b; }))
+      .attr("class", "names")
+      .attr("d", path);
+}
+
+function ready2(error, data, dataWHO) {
+  var percent = {},
+      populationByID = {},
+      instances = {};
+  dataWHO.forEach(function(d) {
+        console.log(d.log);
+        if (d.year == chosenYear) {
+            populationByID[d.Code] = d.population;
+            percent[d.Code] = d.percent;
+            instances[d.Code] = d.instances
+		}
+      });
+  data.features.forEach(function(d) {
+        d.population = populationByID[d.id];
+        d.percent = percent[d.id];
+        d.instances = instances[d.id];
+		if (!d.population) {
+		    d.population = -1;
+		}
+		if (!d.percent) {
+		    d.percent = -1;
+		}
+        if (!d.instances) {
+            d.instances = -1;
+		}
+		if (d.id == "GRL") {
+		    d.population = populationByID["DNK"];
+            d.percent = percent["DNK"];
+            d.instances = instances["DNK"];
+		}
+      });
+
+  svgVaccine.selectAll("*").remove();
+
+  svgVaccine.append("g")
+      .attr("class", "countries")
+    .selectAll("path")
+      .data(data.features)
+    .enter().append("path")
+      .attr("d", path)
+      .style("fill", function(d) { return color(d.percent); })
+      .style('stroke', 'white')
+      .style('stroke-width', 1.5)
+      .style("opacity",0.8)
+      // tooltips
+        .style("stroke","white")
+        .style('stroke-width', 0.3)
+        .on('mouseover',function(d){
+          tip.show(d);
+
+          d3.select(this)
+            .style("opacity", 1)
+            .style("stroke","white")
+            .style("stroke-width",3);
+        })
+        .on('mouseout', function(d){
+          tip.hide(d);
+
+          d3.select(this)
+            .style("opacity", 0.8)
+            .style("stroke","white")
+            .style("stroke-width",0.3);
+        });
+
+
+
+  svgVaccine.append("path")
+      .datum(topojson.mesh(data.features, function(a, b) { return a.id !== b.id; }))
+       // .datum(topojson.mesh(data.features, function(a, b) { return a !== b; }))
+      .attr("class", "names")
+      .attr("d", path);
+}
+
+function ready3(error, data, dataWHO) {
+  var percent = {};
+  dataWHO.forEach(function(d) {
+        if (d.year == chosenYear) {
+            percent[d.Code] = d.VaccinePct;
+		}
+      });
+  data.features.forEach(function(d) {
+        d.percentage = percent[d.id];
+		if (d.percentage > 115) {
+           d.percentage = -1;
+        }
+		if (d.id == "GRL") {
+            d.percentage = percent["DNK"];
+		}
+		if (!d.percentage) {
+		    d.percentage = -1;
+		}
+
+
+      });
+
+  svgVaccine.selectAll("*").remove();
+
+  svgVaccine.append("g")
+      .attr("class", "countries")
+    .selectAll("path")
+      .data(data.features)
+    .enter().append("path")
+      .attr("d", path)
+      .style("fill", function(d) { return vaccineColor(d.percentage); })
+      .style('stroke', 'white')
+      .style('stroke-width', 1.5)
+      .style("opacity",0.8)
+      // tooltips
+        .style("stroke","white")
+        .style('stroke-width', 0.3)
+        .on('mouseover',function(d){
+          vtip.show(d);
+
+          d3.select(this)
+            .style("opacity", 1)
+            .style("stroke","white")
+            .style("stroke-width",3);
+        })
+        .on('mouseout', function(d){
+          vtip.hide(d);
+
+          d3.select(this)
+            .style("opacity", 0.8)
+            .style("stroke","white")
+            .style("stroke-width",0.3);
+        });
+
+
+
+  svgVaccine.append("path")
+      .datum(topojson.mesh(data.features, function(a, b) { return a.id !== b.id; }))
+       // .datum(topojson.mesh(data.features, function(a, b) { return a !== b; }))
+      .attr("class", "names")
+      .attr("d", path);
+
+
+
+}
+
+</script>

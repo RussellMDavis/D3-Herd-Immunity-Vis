@@ -1,0 +1,18 @@
+var legend5 = d3.select('.legend5').selectAll("legend")
+    .data(legendVals)
+
+legend5.enter().append("div")
+.attr("class","legends5")
+
+var p = legend5.append("p").attr("class","country-name")
+p.append("span").attr("class","key-dot").style("background",function(d,i) { return color(i) } )
+p.insert("text").text(function(d,i) { return d } )
+
+///////////D3 Horizonal Legend 3/////////////////////////////
+var legend6 = d3.select('.legend6').selectAll("legend")
+    .data(legendVals)
+
+legend6.enter().append("div")
+.attr("class","legends6")
+
+legend6.html(function(d,i) { return d } ).style("color", function(d,i) { return color(i) } )

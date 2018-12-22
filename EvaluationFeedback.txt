@@ -1,0 +1,45 @@
+Participant 1:
+1) I took a minute to look at it carefully and then it was easy to understand
+2) I like the visualization and the interactive nature   I found it interesting
+3) It tells me for the most  that vaccines seem to be effective in lowering disease incidence in populatiions.  There were a few exceptions that made me wonder why there was an unusual correlation.  For example in Greenland  there was a high incidence of pertussis despite what looked like a high rate of vaccination
+
+Participant 2:
+1) reasonably easy; it'd be easier I think if they could somehow be overlayed on the same graph
+2) yeah! very much so
+3) it seems like they're inversely related? higher vaccination rate = lower disease rate
+
+Participant 3:
+1) Pretty easy to understand
+2)Yes, it is fun to play around with. Manually selecting the year is less fun than being able to arrow up and down on the year
+3) Generally vaccination seems to affect disease incidents. You can see with Measles how it has mostly gone away due to vaccination
+
+Other Notes:
+disease vs. disease is confusing for different diseases and numbers should be formatted with commas. Also consider doing incidents per 100,000
+
+Participant 4:
+1) No, I didn't find the visual particularly easy to understand. Neither the maps nor color coded legend confirmed which map showed what. And the green tones were too close together to differentiate effectively
+2) Yes, I think it was interesting in concept, and anything that's interactive tends to be engaging
+3) It doesn't tell me much. There's too many sets of data, too much key data missing, and not enough context to draw any conclusions without extensive study, But I guess I would say if I took anything away from the data, it would be that there isn't a strong correlation between vaccines and disease incidence rate
+
+Other Notes:
+Oh, and what does "herd immunity achieved" even mean, and what species are we testing this on?
+
+Participant 5:
+1) at first I didn't quite get what I was looking at, and then I scrolled down and saw the key, oops.. So I think it is pretty easy to understand
+2) Yes!
+3) increased vaccination leads overall to less deaths in a given year
+
+Participant 6:
+1) Yes, the visuals are easy to understand in terms of surface data.
+2) Yes, I find it very interesting.
+3) I don't think I can accurately make any interpretations without more information, like filling in missing data for larger areas (US, Russia, etc.) and incidents per person (rather than totals).
+
+Participant 7:
+1) It's somewhat difficult to understand the visualization.  It wasn't immediately clear to me that both the herd immunity graph (right graph) varied over time with the left graph.  Then I got distracted by the grayed-out countries - they stand out among the sea of negligible/imunnity not achieved.  I had a hard time figuring out what the visualization was communicating without reading the text - was it showing countries with high disease incidence vaccinate more effectively?  Was it trying to show the efficacy of vaccination over time?  Was it trying to highlight countries with high disease incidence .  Might be my left-to-right reading bias implying cause-and-effect, but I was thinking the story the visualization was trying to tell was that disease rates are cause more people to get vaccinated until I read the text below.  It would've been nice to default to Measles in 2003 to match the text
+2)This is super interesting.  Even though it's hard to directly see the two-dimensional nature of the data (disease incidence as a function of herd immunity achievement), the map shows regional patterns and I liked comparing data over time.
+3) It tells me that disease incidence declines when herd immunity is achieved.
+
+Participant 8:
+1) Pretty easy, map and key are very clear 
+2) Coolest thing is ability to change between comparisons but each map represents a lot of data that my brain is short cutting 
+3) Countries with higher rates of vaccine often have lower disease rate

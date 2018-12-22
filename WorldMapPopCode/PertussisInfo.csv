@@ -1,0 +1,3265 @@
+ID,Cname,Code,disease,year,instances,population,percent
+0,Afghanistan,AFG,Pertussis,2000,896,20093756,0.004459097
+1,Afghanistan,AFG,Pertussis,2001,-1,20966463,-4.77E-06
+2,Afghanistan,AFG,Pertussis,2002,1439,21979923,0.006546884
+3,Afghanistan,AFG,Pertussis,2003,-1,23064851,-4.34E-06
+4,Afghanistan,AFG,Pertussis,2004,558,24118979,0.002313531
+5,Afghanistan,AFG,Pertussis,2005,2173,25070798,0.008667454
+6,Afghanistan,AFG,Pertussis,2006,2515,25893450,0.009712881
+7,Afghanistan,AFG,Pertussis,2007,5904,26616792,0.022181486
+8,Afghanistan,AFG,Pertussis,2008,2448,27294031,0.008968994
+9,Afghanistan,AFG,Pertussis,2009,0,28004331,0
+10,Afghanistan,AFG,Pertussis,2010,0,28803167,0
+11,Afghanistan,AFG,Pertussis,2011,0,29708599,0
+12,Afghanistan,AFG,Pertussis,2012,1497,30696958,0.004876705
+13,Afghanistan,AFG,Pertussis,2013,371,31731688,0.001169178
+14,Afghanistan,AFG,Pertussis,2014,0,32758020,0
+15,Afghanistan,AFG,Pertussis,2015,432,33736494,0.001280512
+16,Afghanistan,AFG,Pertussis,2016,0,34656032,0
+17,Angola,AGO,Pertussis,2000,560,16440924,0.003406135
+18,Angola,AGO,Pertussis,2001,740,16983266,0.00435723
+19,Angola,AGO,Pertussis,2002,0,17572649,0
+20,Angola,AGO,Pertussis,2003,2654,18203369,0.014579719
+21,Angola,AGO,Pertussis,2004,1675,18865716,0.008878539
+22,Angola,AGO,Pertussis,2005,0,19552542,0
+23,Angola,AGO,Pertussis,2006,1328,20262399,0.006554012
+24,Angola,AGO,Pertussis,2007,921,20997687,0.004386197
+25,Angola,AGO,Pertussis,2008,1148,21759420,0.005275876
+26,Angola,AGO,Pertussis,2009,1127,22549547,0.004997883
+27,Angola,AGO,Pertussis,2010,2539,23369131,0.01086476
+28,Angola,AGO,Pertussis,2011,1554,24218565,0.006416565
+29,Angola,AGO,Pertussis,2012,1259,25096150,0.005016706
+30,Angola,AGO,Pertussis,2013,0,25998340,0
+31,Angola,AGO,Pertussis,2014,0,26920466,0
+32,Angola,AGO,Pertussis,2015,0,27859305,0
+33,Angola,AGO,Pertussis,2016,0,28813463,0
+34,Albania,ALB,Pertussis,2000,89,3089027,0.002881166
+35,Albania,ALB,Pertussis,2001,36,3060173,0.001176404
+36,Albania,ALB,Pertussis,2002,20,3051010,0.000655521
+37,Albania,ALB,Pertussis,2003,11,3039616,0.000361888
+38,Albania,ALB,Pertussis,2004,72,3026939,0.002378641
+39,Albania,ALB,Pertussis,2005,15,3011487,0.000498093
+40,Albania,ALB,Pertussis,2006,0,2992547,0
+41,Albania,ALB,Pertussis,2007,13,2970017,0.000437708
+42,Albania,ALB,Pertussis,2008,10,2947314,0.000339292
+43,Albania,ALB,Pertussis,2009,10,2927519,0.000341586
+44,Albania,ALB,Pertussis,2010,0,2913021,0
+45,Albania,ALB,Pertussis,2011,4,2905195,0.000137684
+46,Albania,ALB,Pertussis,2012,16,2900401,0.000551648
+47,Albania,ALB,Pertussis,2013,6,2895092,0.000207247
+48,Albania,ALB,Pertussis,2014,-1,2889104,-3.46E-05
+49,Albania,ALB,Pertussis,2015,-1,2880703,-3.47E-05
+50,Albania,ALB,Pertussis,2016,43,2876101,0.00149508
+51,Andorra,AND,Pertussis,2000,0,65390,0
+52,Andorra,AND,Pertussis,2001,0,67341,0
+53,Andorra,AND,Pertussis,2002,0,70049,0
+54,Andorra,AND,Pertussis,2003,0,73182,0
+55,Andorra,AND,Pertussis,2004,0,76244,0
+56,Andorra,AND,Pertussis,2005,-1,78867,-0.001267957
+57,Andorra,AND,Pertussis,2006,-1,80991,-0.001234705
+58,Andorra,AND,Pertussis,2007,-1,82683,-0.001209438
+59,Andorra,AND,Pertussis,2008,0,83861,0
+60,Andorra,AND,Pertussis,2009,0,84462,0
+61,Andorra,AND,Pertussis,2010,0,84449,0
+62,Andorra,AND,Pertussis,2011,4,83751,0.004776062
+63,Andorra,AND,Pertussis,2012,3,82431,0.003639408
+64,Andorra,AND,Pertussis,2013,6,80788,0.007426846
+65,Andorra,AND,Pertussis,2014,1,79223,0.00126226
+66,Andorra,AND,Pertussis,2015,16,78014,0.020509139
+67,Andorra,AND,Pertussis,2016,3,77281,0.003881937
+68,United Arab Emirates (the),ARE,Pertussis,2000,37,3154925,0.00117277
+69,United Arab Emirates (the),ARE,Pertussis,2001,7,3326032,0.000210461
+70,United Arab Emirates (the),ARE,Pertussis,2002,18,3507232,0.000513225
+71,United Arab Emirates (the),ARE,Pertussis,2003,24,3741932,0.00064138
+72,United Arab Emirates (the),ARE,Pertussis,2004,18,4087931,0.000440321
+73,United Arab Emirates (the),ARE,Pertussis,2005,34,4579562,0.000742429
+74,United Arab Emirates (the),ARE,Pertussis,2006,-1,5242032,-1.91E-05
+75,United Arab Emirates (the),ARE,Pertussis,2007,-1,6044067,-1.65E-05
+76,United Arab Emirates (the),ARE,Pertussis,2008,51,6894278,0.000739744
+77,United Arab Emirates (the),ARE,Pertussis,2009,-1,7666393,-1.30E-05
+78,United Arab Emirates (the),ARE,Pertussis,2010,79,8270684,0.000955181
+79,United Arab Emirates (the),ARE,Pertussis,2011,-1,8672475,-1.15E-05
+80,United Arab Emirates (the),ARE,Pertussis,2012,61,8900453,0.000685358
+81,United Arab Emirates (the),ARE,Pertussis,2013,-1,9006263,-1.11E-05
+82,United Arab Emirates (the),ARE,Pertussis,2014,18,9070867,0.000198437
+83,United Arab Emirates (the),ARE,Pertussis,2015,-1,9154302,-1.09E-05
+84,United Arab Emirates (the),ARE,Pertussis,2016,-1,9269612,-1.08E-05
+85,Argentina,ARG,Pertussis,2000,515,37057452,0.001389734
+86,Argentina,ARG,Pertussis,2001,431,37471509,0.001150207
+87,Argentina,ARG,Pertussis,2002,267,37889370,0.000704683
+88,Argentina,ARG,Pertussis,2003,643,38309379,0.00167844
+89,Argentina,ARG,Pertussis,2004,976,38728696,0.002520095
+90,Argentina,ARG,Pertussis,2005,2060,39145488,0.00526242
+91,Argentina,ARG,Pertussis,2006,1607,39558890,0.004062298
+92,Argentina,ARG,Pertussis,2007,2587,39970224,0.006472318
+93,Argentina,ARG,Pertussis,2008,3085,40382389,0.007639469
+94,Argentina,ARG,Pertussis,2009,1743,40799407,0.004272121
+95,Argentina,ARG,Pertussis,2010,804,41223889,0.001950325
+96,Argentina,ARG,Pertussis,2011,3185,41656879,0.007645796
+97,Argentina,ARG,Pertussis,2012,1239,42096739,0.002943221
+98,Argentina,ARG,Pertussis,2013,1112,42539925,0.002614015
+99,Argentina,ARG,Pertussis,2014,561,42981515,0.001305212
+100,Argentina,ARG,Pertussis,2015,975,43417765,0.002245625
+101,Argentina,ARG,Pertussis,2016,1686,43847430,0.003845151
+102,Armenia,ARM,Pertussis,2000,10,3069588,0.000325777
+103,Armenia,ARM,Pertussis,2001,1,3050655,3.28E-05
+104,Armenia,ARM,Pertussis,2002,3,3033897,9.89E-05
+105,Armenia,ARM,Pertussis,2003,3,3017806,9.94E-05
+106,Armenia,ARM,Pertussis,2004,7,3000612,0.000233286
+107,Armenia,ARM,Pertussis,2005,6,2981259,0.000201257
+108,Armenia,ARM,Pertussis,2006,2,2958500,6.76E-05
+109,Armenia,ARM,Pertussis,2007,1,2933056,3.41E-05
+110,Armenia,ARM,Pertussis,2008,3,2908220,0.000103156
+111,Armenia,ARM,Pertussis,2009,11,2888584,0.000380809
+112,Armenia,ARM,Pertussis,2010,4,2877311,0.000139019
+113,Armenia,ARM,Pertussis,2011,1,2875581,3.48E-05
+114,Armenia,ARM,Pertussis,2012,8,2881922,0.000277593
+115,Armenia,ARM,Pertussis,2013,30,2893509,0.001036803
+116,Armenia,ARM,Pertussis,2014,85,2906220,0.002924761
+117,Armenia,ARM,Pertussis,2015,27,2916950,0.000925624
+118,Armenia,ARM,Pertussis,2016,15,2924816,0.000512853
+119,Antigua and Barbuda,ATG,Pertussis,2000,0,83584,0
+120,Antigua and Barbuda,ATG,Pertussis,2001,0,85057,0
+121,Antigua and Barbuda,ATG,Pertussis,2002,0,86266,0
+122,Antigua and Barbuda,ATG,Pertussis,2003,0,87293,0
+123,Antigua and Barbuda,ATG,Pertussis,2004,0,88257,0
+124,Antigua and Barbuda,ATG,Pertussis,2005,0,89253,0
+125,Antigua and Barbuda,ATG,Pertussis,2006,0,90301,0
+126,Antigua and Barbuda,ATG,Pertussis,2007,0,91381,0
+127,Antigua and Barbuda,ATG,Pertussis,2008,0,92478,0
+128,Antigua and Barbuda,ATG,Pertussis,2009,0,93581,0
+129,Antigua and Barbuda,ATG,Pertussis,2010,0,94661,0
+130,Antigua and Barbuda,ATG,Pertussis,2011,0,95719,0
+131,Antigua and Barbuda,ATG,Pertussis,2012,0,96777,0
+132,Antigua and Barbuda,ATG,Pertussis,2013,0,97824,0
+133,Antigua and Barbuda,ATG,Pertussis,2014,0,98875,0
+134,Antigua and Barbuda,ATG,Pertussis,2015,0,99923,0
+135,Antigua and Barbuda,ATG,Pertussis,2016,-1,100963,-0.000990462
+136,Australia,AUS,Pertussis,2000,5795,19153000,0.030256357
+137,Australia,AUS,Pertussis,2001,9538,19413000,0.049132025
+138,Australia,AUS,Pertussis,2002,5563,19651400,0.028308416
+139,Australia,AUS,Pertussis,2003,4968,19895400,0.024970596
+140,Australia,AUS,Pertussis,2004,8676,20127400,0.043105418
+141,Australia,AUS,Pertussis,2005,11277,20394800,0.055293506
+142,Australia,AUS,Pertussis,2006,-1,20697900,-4.83E-06
+143,Australia,AUS,Pertussis,2007,5379,20827600,0.025826307
+144,Australia,AUS,Pertussis,2008,14435,21249200,0.067931969
+145,Australia,AUS,Pertussis,2009,29545,21691700,0.13620417
+146,Australia,AUS,Pertussis,2010,34285,22031750,0.155616326
+147,Australia,AUS,Pertussis,2011,38040,22340024,0.170277346
+148,Australia,AUS,Pertussis,2012,23855,22728254,0.104957468
+149,Australia,AUS,Pertussis,2013,12319,23117353,0.053288973
+150,Australia,AUS,Pertussis,2014,11842,23460694,0.050475915
+151,Australia,AUS,Pertussis,2015,22508,23789338,0.094613814
+152,Australia,AUS,Pertussis,2016,20037,24127159,0.08304749
+153,Austria,AUT,Pertussis,2000,117,8011566,0.001460389
+154,Austria,AUT,Pertussis,2001,253,8042293,0.003145869
+155,Austria,AUT,Pertussis,2002,150,8081957,0.001855986
+156,Austria,AUT,Pertussis,2003,170,8121423,0.002093229
+157,Austria,AUT,Pertussis,2004,130,8171966,0.001590804
+158,Austria,AUT,Pertussis,2005,130,8227829,0.001580004
+159,Austria,AUT,Pertussis,2006,72,8268641,0.00087076
+160,Austria,AUT,Pertussis,2007,133,8295487,0.001603281
+161,Austria,AUT,Pertussis,2008,183,8321496,0.002199124
+162,Austria,AUT,Pertussis,2009,183,8343323,0.002193371
+163,Austria,AUT,Pertussis,2010,414,8363404,0.004950138
+164,Austria,AUT,Pertussis,2011,309,8391643,0.003682235
+165,Austria,AUT,Pertussis,2012,571,8429991,0.006773435
+166,Austria,AUT,Pertussis,2013,-1,8479375,-1.18E-05
+167,Austria,AUT,Pertussis,2014,370,8541575,0.004331754
+168,Austria,AUT,Pertussis,2015,579,8633169,0.006706691
+169,Austria,AUT,Pertussis,2016,1270,8747358,0.01451867
+170,Azerbaijan,AZE,Pertussis,2000,11,8048600,0.00013667
+171,Azerbaijan,AZE,Pertussis,2001,12,8111200,0.000147944
+172,Azerbaijan,AZE,Pertussis,2002,3,8171950,3.67E-05
+173,Azerbaijan,AZE,Pertussis,2003,1,8234100,1.21E-05
+174,Azerbaijan,AZE,Pertussis,2004,2,8306500,2.41E-05
+175,Azerbaijan,AZE,Pertussis,2005,2,8391850,2.38E-05
+176,Azerbaijan,AZE,Pertussis,2006,60,8484550,0.000707168
+177,Azerbaijan,AZE,Pertussis,2007,12,8581300,0.000139839
+178,Azerbaijan,AZE,Pertussis,2008,5,8763400,5.71E-05
+179,Azerbaijan,AZE,Pertussis,2009,5,8947243,5.59E-05
+180,Azerbaijan,AZE,Pertussis,2010,15,9054332,0.000165667
+181,Azerbaijan,AZE,Pertussis,2011,27,9173082,0.000294339
+182,Azerbaijan,AZE,Pertussis,2012,18,9295784,0.000193636
+183,Azerbaijan,AZE,Pertussis,2013,4,9416801,4.25E-05
+184,Azerbaijan,AZE,Pertussis,2014,0,9535079,0
+185,Azerbaijan,AZE,Pertussis,2015,0,9649341,0
+186,Azerbaijan,AZE,Pertussis,2016,0,9762274,0
+187,Burundi,BDI,Pertussis,2000,72,6400706,0.001124876
+188,Burundi,BDI,Pertussis,2001,-1,6555829,-1.53E-05
+189,Burundi,BDI,Pertussis,2002,154,6741569,0.002284335
+190,Burundi,BDI,Pertussis,2003,-1,6953113,-1.44E-05
+191,Burundi,BDI,Pertussis,2004,0,7182451,0
+192,Burundi,BDI,Pertussis,2005,-1,7423289,-1.35E-05
+193,Burundi,BDI,Pertussis,2006,0,7675338,0
+194,Burundi,BDI,Pertussis,2007,0,7939573,0
+195,Burundi,BDI,Pertussis,2008,0,8212264,0
+196,Burundi,BDI,Pertussis,2009,0,8489031,0
+197,Burundi,BDI,Pertussis,2010,0,8766930,0
+198,Burundi,BDI,Pertussis,2011,0,9043508,0
+199,Burundi,BDI,Pertussis,2012,0,9319710,0
+200,Burundi,BDI,Pertussis,2013,-1,9600186,-1.04E-05
+201,Burundi,BDI,Pertussis,2014,-1,9891790,-1.01E-05
+202,Burundi,BDI,Pertussis,2015,-1,10199270,-9.80E-06
+203,Burundi,BDI,Pertussis,2016,-1,10524117,-9.50E-06
+204,Belgium,BEL,Pertussis,2000,-1,10251250,-9.75E-06
+205,Belgium,BEL,Pertussis,2001,28,10286570,0.0002722
+206,Belgium,BEL,Pertussis,2002,27,10332785,0.000261304
+207,Belgium,BEL,Pertussis,2003,59,10376133,0.000568613
+208,Belgium,BEL,Pertussis,2004,96,10421137,0.000921205
+209,Belgium,BEL,Pertussis,2005,231,10478617,0.002204489
+210,Belgium,BEL,Pertussis,2006,196,10547958,0.00185818
+211,Belgium,BEL,Pertussis,2007,293,10625700,0.002757465
+212,Belgium,BEL,Pertussis,2008,260,10709973,0.002427644
+213,Belgium,BEL,Pertussis,2009,-1,10796493,-9.26E-06
+214,Belgium,BEL,Pertussis,2010,133,10895586,0.001220678
+215,Belgium,BEL,Pertussis,2011,103,11047744,0.000932317
+216,Belgium,BEL,Pertussis,2012,548,11128246,0.004924406
+217,Belgium,BEL,Pertussis,2013,1142,11182817,0.010212096
+218,Belgium,BEL,Pertussis,2014,1501,11209057,0.013390957
+219,Belgium,BEL,Pertussis,2015,1203,11274196,0.010670384
+220,Belgium,BEL,Pertussis,2016,2105,11348159,0.018549264
+221,Benin,BEN,Pertussis,2000,215,6865951,0.003131394
+222,Benin,BEN,Pertussis,2001,-1,7076733,-1.41E-05
+223,Benin,BEN,Pertussis,2002,-1,7295394,-1.37E-05
+224,Benin,BEN,Pertussis,2003,-1,7520555,-1.33E-05
+225,Benin,BEN,Pertussis,2004,49,7750004,0.000632258
+226,Benin,BEN,Pertussis,2005,99,7982225,0.001240256
+227,Benin,BEN,Pertussis,2006,0,8216896,0
+228,Benin,BEN,Pertussis,2007,0,8454791,0
+229,Benin,BEN,Pertussis,2008,0,8696916,0
+230,Benin,BEN,Pertussis,2009,-1,8944706,-1.12E-05
+231,Benin,BEN,Pertussis,2010,53,9199259,0.000576133
+232,Benin,BEN,Pertussis,2011,0,9460802,0
+233,Benin,BEN,Pertussis,2012,0,9729160,0
+234,Benin,BEN,Pertussis,2013,0,10004451,0
+235,Benin,BEN,Pertussis,2014,0,10286712,0
+236,Benin,BEN,Pertussis,2015,0,10575952,0
+237,Benin,BEN,Pertussis,2016,-1,10872298,-9.20E-06
+238,Burkina Faso,BFA,Pertussis,2000,351,11607942,0.003023792
+239,Burkina Faso,BFA,Pertussis,2001,238,11944587,0.001992534
+240,Burkina Faso,BFA,Pertussis,2002,212,12293100,0.001724545
+241,Burkina Faso,BFA,Pertussis,2003,171,12654621,0.001351285
+242,Burkina Faso,BFA,Pertussis,2004,420,13030569,0.00322319
+243,Burkina Faso,BFA,Pertussis,2005,170,13421930,0.001266584
+244,Burkina Faso,BFA,Pertussis,2006,54,13829177,0.000390479
+245,Burkina Faso,BFA,Pertussis,2007,44,14252021,0.000308728
+246,Burkina Faso,BFA,Pertussis,2008,171,14689726,0.001164079
+247,Burkina Faso,BFA,Pertussis,2009,68,15141099,0.000449109
+248,Burkina Faso,BFA,Pertussis,2010,13,15605217,8.33E-05
+249,Burkina Faso,BFA,Pertussis,2011,6,16081904,3.73E-05
+250,Burkina Faso,BFA,Pertussis,2012,0,16571216,0
+251,Burkina Faso,BFA,Pertussis,2013,3,17072723,1.76E-05
+252,Burkina Faso,BFA,Pertussis,2014,7,17585977,3.98E-05
+253,Burkina Faso,BFA,Pertussis,2015,0,18110624,0
+254,Burkina Faso,BFA,Pertussis,2016,16,18646433,8.58E-05
+255,Bangladesh,BGD,Pertussis,2000,252,131581243,0.000191517
+256,Bangladesh,BGD,Pertussis,2001,16,134107160,1.19E-05
+257,Bangladesh,BGD,Pertussis,2002,587,136600667,0.00042972
+258,Bangladesh,BGD,Pertussis,2003,332,139019001,0.000238816
+259,Bangladesh,BGD,Pertussis,2004,140,141307489,9.91E-05
+260,Bangladesh,BGD,Pertussis,2005,125,143431101,8.71E-05
+261,Bangladesh,BGD,Pertussis,2006,46,145368004,3.16E-05
+262,Bangladesh,BGD,Pertussis,2007,87,147139191,5.91E-05
+263,Bangladesh,BGD,Pertussis,2008,33,148805814,2.22E-05
+264,Bangladesh,BGD,Pertussis,2009,16,150454708,1.06E-05
+265,Bangladesh,BGD,Pertussis,2010,17,152149102,1.12E-05
+266,Bangladesh,BGD,Pertussis,2011,44,153911916,2.86E-05
+267,Bangladesh,BGD,Pertussis,2012,13,155727053,8.35E-06
+268,Bangladesh,BGD,Pertussis,2013,1,157571292,6.35E-07
+269,Bangladesh,BGD,Pertussis,2014,12,159405279,7.53E-06
+270,Bangladesh,BGD,Pertussis,2015,11,161200886,6.82E-06
+271,Bangladesh,BGD,Pertussis,2016,1,162951560,6.14E-07
+272,Bulgaria,BGR,Pertussis,2000,106,8170172,0.001297402
+273,Bulgaria,BGR,Pertussis,2001,81,8009142,0.001011344
+274,Bulgaria,BGR,Pertussis,2002,82,7837161,0.001046297
+275,Bulgaria,BGR,Pertussis,2003,180,7775327,0.002315015
+276,Bulgaria,BGR,Pertussis,2004,222,7716860,0.002876818
+277,Bulgaria,BGR,Pertussis,2005,313,7658972,0.00408671
+278,Bulgaria,BGR,Pertussis,2006,335,7601022,0.004407302
+279,Bulgaria,BGR,Pertussis,2007,269,7545338,0.003565115
+280,Bulgaria,BGR,Pertussis,2008,193,7492561,0.002575888
+281,Bulgaria,BGR,Pertussis,2009,251,7444443,0.003371642
+282,Bulgaria,BGR,Pertussis,2010,54,7395599,0.000730164
+283,Bulgaria,BGR,Pertussis,2011,46,7348328,0.000625993
+284,Bulgaria,BGR,Pertussis,2012,102,7305888,0.001396134
+285,Bulgaria,BGR,Pertussis,2013,89,7265115,0.001225032
+286,Bulgaria,BGR,Pertussis,2014,52,7223938,0.000719829
+287,Bulgaria,BGR,Pertussis,2015,35,7177991,0.000487602
+288,Bulgaria,BGR,Pertussis,2016,98,7127822,0.001374894
+289,Bahrain,BHR,Pertussis,2000,0,664614,0
+290,Bahrain,BHR,Pertussis,2001,0,697549,0
+291,Bahrain,BHR,Pertussis,2002,0,735148,0
+292,Bahrain,BHR,Pertussis,2003,-1,778711,-0.000128417
+293,Bahrain,BHR,Pertussis,2004,0,829848,0
+294,Bahrain,BHR,Pertussis,2005,-1,889168,-0.000112465
+295,Bahrain,BHR,Pertussis,2006,0,958414,0
+296,Bahrain,BHR,Pertussis,2007,0,1035891,0
+297,Bahrain,BHR,Pertussis,2008,0,1114590,0
+298,Bahrain,BHR,Pertussis,2009,1,1185029,8.44E-05
+299,Bahrain,BHR,Pertussis,2010,0,1240862,0
+300,Bahrain,BHR,Pertussis,2011,0,1278269,0
+301,Bahrain,BHR,Pertussis,2012,3,1300217,0.000230731
+302,Bahrain,BHR,Pertussis,2013,0,1315411,0
+303,Bahrain,BHR,Pertussis,2014,0,1336397,0
+304,Bahrain,BHR,Pertussis,2015,0,1371855,0
+305,Bahrain,BHR,Pertussis,2016,1,1425171,7.02E-05
+306,Bahamas (the),BHS,Pertussis,2000,0,297890,0
+307,Bahamas (the),BHS,Pertussis,2001,0,303135,0
+308,Bahamas (the),BHS,Pertussis,2002,0,309157,0
+309,Bahamas (the),BHS,Pertussis,2003,0,315746,0
+310,Bahamas (the),BHS,Pertussis,2004,0,322526,0
+311,Bahamas (the),BHS,Pertussis,2005,0,329249,0
+312,Bahamas (the),BHS,Pertussis,2006,0,335830,0
+313,Bahamas (the),BHS,Pertussis,2007,0,342328,0
+314,Bahamas (the),BHS,Pertussis,2008,0,348676,0
+315,Bahamas (the),BHS,Pertussis,2009,0,354856,0
+316,Bahamas (the),BHS,Pertussis,2010,0,360832,0
+317,Bahamas (the),BHS,Pertussis,2011,0,366568,0
+318,Bahamas (the),BHS,Pertussis,2012,0,372039,0
+319,Bahamas (the),BHS,Pertussis,2013,0,377240,0
+320,Bahamas (the),BHS,Pertussis,2014,0,382169,0
+321,Bahamas (the),BHS,Pertussis,2015,0,386838,0
+322,Bahamas (the),BHS,Pertussis,2016,0,391232,0
+323,Bosnia and Herzegovina,BIH,Pertussis,2000,43,3766706,0.001141581
+324,Bosnia and Herzegovina,BIH,Pertussis,2001,-1,3771284,-2.65E-05
+325,Bosnia and Herzegovina,BIH,Pertussis,2002,81,3775807,0.002145237
+326,Bosnia and Herzegovina,BIH,Pertussis,2003,39,3779247,0.001031952
+327,Bosnia and Herzegovina,BIH,Pertussis,2004,24,3781287,0.000634705
+328,Bosnia and Herzegovina,BIH,Pertussis,2005,39,3781530,0.001031329
+329,Bosnia and Herzegovina,BIH,Pertussis,2006,42,3779468,0.001111268
+330,Bosnia and Herzegovina,BIH,Pertussis,2007,46,3774000,0.001218866
+331,Bosnia and Herzegovina,BIH,Pertussis,2008,41,3763599,0.001089383
+332,Bosnia and Herzegovina,BIH,Pertussis,2009,25,3746561,0.000667279
+333,Bosnia and Herzegovina,BIH,Pertussis,2010,30,3722084,0.000806
+334,Bosnia and Herzegovina,BIH,Pertussis,2011,30,3688865,0.000813258
+335,Bosnia and Herzegovina,BIH,Pertussis,2012,19,3648200,0.000520805
+336,Bosnia and Herzegovina,BIH,Pertussis,2013,-1,3604999,-2.77E-05
+337,Bosnia and Herzegovina,BIH,Pertussis,2014,-1,3566002,-2.80E-05
+338,Bosnia and Herzegovina,BIH,Pertussis,2015,12,3535961,0.00033937
+339,Bosnia and Herzegovina,BIH,Pertussis,2016,20,3516816,0.000568696
+340,Belarus,BLR,Pertussis,2000,169,9979610,0.001693453
+341,Belarus,BLR,Pertussis,2001,86,9928549,0.000866189
+342,Belarus,BLR,Pertussis,2002,70,9865548,0.00070954
+343,Belarus,BLR,Pertussis,2003,79,9796749,0.00080639
+344,Belarus,BLR,Pertussis,2004,80,9730146,0.000822187
+345,Belarus,BLR,Pertussis,2005,80,9663915,0.000827822
+346,Belarus,BLR,Pertussis,2006,76,9604924,0.000791261
+347,Belarus,BLR,Pertussis,2007,156,9560953,0.001631637
+348,Belarus,BLR,Pertussis,2008,125,9527985,0.001311925
+349,Belarus,BLR,Pertussis,2009,93,9506765,0.000978251
+350,Belarus,BLR,Pertussis,2010,112,9490583,0.001180117
+351,Belarus,BLR,Pertussis,2011,151,9473172,0.001593975
+352,Belarus,BLR,Pertussis,2012,576,9464495,0.006085903
+353,Belarus,BLR,Pertussis,2013,188,9465997,0.001986056
+354,Belarus,BLR,Pertussis,2014,378,9474511,0.003989652
+355,Belarus,BLR,Pertussis,2015,503,9489616,0.005300531
+356,Belarus,BLR,Pertussis,2016,522,9507120,0.005490622
+357,Belize,BLZ,Pertussis,2000,0,247315,0
+358,Belize,BLZ,Pertussis,2001,0,254984,0
+359,Belize,BLZ,Pertussis,2002,0,262206,0
+360,Belize,BLZ,Pertussis,2003,0,269130,0
+361,Belize,BLZ,Pertussis,2004,0,276089,0
+362,Belize,BLZ,Pertussis,2005,0,283277,0
+363,Belize,BLZ,Pertussis,2006,0,290747,0
+364,Belize,BLZ,Pertussis,2007,0,298407,0
+365,Belize,BLZ,Pertussis,2008,2,306165,0.000653243
+366,Belize,BLZ,Pertussis,2009,0,313929,0
+367,Belize,BLZ,Pertussis,2010,0,321608,0
+368,Belize,BLZ,Pertussis,2011,0,329192,0
+369,Belize,BLZ,Pertussis,2012,44,336701,0.013067974
+370,Belize,BLZ,Pertussis,2013,6,344181,0.001743269
+371,Belize,BLZ,Pertussis,2014,3,351694,0.000853014
+372,Belize,BLZ,Pertussis,2015,0,359288,0
+373,Belize,BLZ,Pertussis,2016,4,366954,0.001090055
+374,Bolivia (Plurinational State of),BOL,Pertussis,2000,10,8339512,0.000119911
+375,Bolivia (Plurinational State of),BOL,Pertussis,2001,55,8496375,0.000647335
+376,Bolivia (Plurinational State of),BOL,Pertussis,2002,132,8653345,0.001525422
+377,Bolivia (Plurinational State of),BOL,Pertussis,2003,46,8810420,0.000522109
+378,Bolivia (Plurinational State of),BOL,Pertussis,2004,6,8967741,6.69E-05
+379,Bolivia (Plurinational State of),BOL,Pertussis,2005,1,9125409,1.10E-05
+380,Bolivia (Plurinational State of),BOL,Pertussis,2006,6,9283334,6.46E-05
+381,Bolivia (Plurinational State of),BOL,Pertussis,2007,0,9441444,0
+382,Bolivia (Plurinational State of),BOL,Pertussis,2008,0,9599855,0
+383,Bolivia (Plurinational State of),BOL,Pertussis,2009,0,9758748,0
+384,Bolivia (Plurinational State of),BOL,Pertussis,2010,0,9918242,0
+385,Bolivia (Plurinational State of),BOL,Pertussis,2011,0,10078343,0
+386,Bolivia (Plurinational State of),BOL,Pertussis,2012,0,10239004,0
+387,Bolivia (Plurinational State of),BOL,Pertussis,2013,31,10400264,0.000298069
+388,Bolivia (Plurinational State of),BOL,Pertussis,2014,75,10562159,0.000710082
+389,Bolivia (Plurinational State of),BOL,Pertussis,2015,11,10724705,0.000102567
+390,Bolivia (Plurinational State of),BOL,Pertussis,2016,27,10887882,0.000247982
+391,Brazil,BRA,Pertussis,2000,764,175287587,0.000435855
+392,Brazil,BRA,Pertussis,2001,657,177750670,0.000369619
+393,Brazil,BRA,Pertussis,2002,406,180151021,0.000225366
+394,Brazil,BRA,Pertussis,2003,1110,182482149,0.000608279
+395,Brazil,BRA,Pertussis,2004,1146,184738458,0.000620336
+396,Brazil,BRA,Pertussis,2005,1328,186917361,0.000710474
+397,Brazil,BRA,Pertussis,2006,797,189012412,0.000421665
+398,Brazil,BRA,Pertussis,2007,596,191026637,0.000311998
+399,Brazil,BRA,Pertussis,2008,1275,192979029,0.000660694
+400,Brazil,BRA,Pertussis,2009,1037,194895996,0.000532079
+401,Brazil,BRA,Pertussis,2010,477,196796269,0.000242383
+402,Brazil,BRA,Pertussis,2011,2257,198686688,0.001135959
+403,Brazil,BRA,Pertussis,2012,5400,200560983,0.002692448
+404,Brazil,BRA,Pertussis,2013,5211,202408632,0.002574495
+405,Brazil,BRA,Pertussis,2014,8338,204213133,0.004082989
+406,Brazil,BRA,Pertussis,2015,2920,205962108,0.001417737
+407,Brazil,BRA,Pertussis,2016,-1,207652865,-4.82E-07
+408,Barbados,BRB,Pertussis,2000,0,269847,0
+409,Barbados,BRB,Pertussis,2001,0,270685,0
+410,Barbados,BRB,Pertussis,2002,0,271478,0
+411,Barbados,BRB,Pertussis,2003,0,272258,0
+412,Barbados,BRB,Pertussis,2004,0,273091,0
+413,Barbados,BRB,Pertussis,2005,0,274009,0
+414,Barbados,BRB,Pertussis,2006,0,275039,0
+415,Barbados,BRB,Pertussis,2007,0,276150,0
+416,Barbados,BRB,Pertussis,2008,0,277319,0
+417,Barbados,BRB,Pertussis,2009,0,278470,0
+418,Barbados,BRB,Pertussis,2010,0,279569,0
+419,Barbados,BRB,Pertussis,2011,0,280601,0
+420,Barbados,BRB,Pertussis,2012,0,281585,0
+421,Barbados,BRB,Pertussis,2013,0,282509,0
+422,Barbados,BRB,Pertussis,2014,0,283385,0
+423,Barbados,BRB,Pertussis,2015,0,284217,0
+424,Barbados,BRB,Pertussis,2016,0,284996,0
+425,Brunei Darussalam,BRN,Pertussis,2000,2,333241,0.000600166
+426,Brunei Darussalam,BRN,Pertussis,2001,0,340117,0
+427,Brunei Darussalam,BRN,Pertussis,2002,-1,346867,-0.000288295
+428,Brunei Darussalam,BRN,Pertussis,2003,0,353389,0
+429,Brunei Darussalam,BRN,Pertussis,2004,0,359523,0
+430,Brunei Darussalam,BRN,Pertussis,2005,0,365158,0
+431,Brunei Darussalam,BRN,Pertussis,2006,-1,370250,-0.000270088
+432,Brunei Darussalam,BRN,Pertussis,2007,-1,374864,-0.000266763
+433,Brunei Darussalam,BRN,Pertussis,2008,2,379252,0.000527354
+434,Brunei Darussalam,BRN,Pertussis,2009,0,383772,0
+435,Brunei Darussalam,BRN,Pertussis,2010,1,388662,0.000257293
+436,Brunei Darussalam,BRN,Pertussis,2011,3,394013,0.000761396
+437,Brunei Darussalam,BRN,Pertussis,2012,3,399748,0.000750473
+438,Brunei Darussalam,BRN,Pertussis,2013,-1,405716,-0.000246478
+439,Brunei Darussalam,BRN,Pertussis,2014,1,411704,0.000242893
+440,Brunei Darussalam,BRN,Pertussis,2015,5,417542,0.001197484
+441,Brunei Darussalam,BRN,Pertussis,2016,0,423196,0
+442,Bhutan,BTN,Pertussis,2000,18,573416,0.003139082
+443,Bhutan,BTN,Pertussis,2001,0,589600,0
+444,Bhutan,BTN,Pertussis,2002,-1,606399,-0.000164908
+445,Bhutan,BTN,Pertussis,2003,0,623434,0
+446,Bhutan,BTN,Pertussis,2004,0,640282,0
+447,Bhutan,BTN,Pertussis,2005,1,656639,0.000152291
+448,Bhutan,BTN,Pertussis,2006,1,672228,0.000148759
+449,Bhutan,BTN,Pertussis,2007,0,686958,0
+450,Bhutan,BTN,Pertussis,2008,0,700950,0
+451,Bhutan,BTN,Pertussis,2009,0,714458,0
+452,Bhutan,BTN,Pertussis,2010,0,727641,0
+453,Bhutan,BTN,Pertussis,2011,1,740510,0.000135042
+454,Bhutan,BTN,Pertussis,2012,0,752967,0
+455,Bhutan,BTN,Pertussis,2013,0,764961,0
+456,Bhutan,BTN,Pertussis,2014,0,776448,0
+457,Bhutan,BTN,Pertussis,2015,12,787386,0.00152403
+458,Bhutan,BTN,Pertussis,2016,4,797765,0.000501401
+459,Botswana,BWA,Pertussis,2000,0,1728340,0
+460,Botswana,BWA,Pertussis,2001,0,1754935,0
+461,Botswana,BWA,Pertussis,2002,0,1779953,0
+462,Botswana,BWA,Pertussis,2003,0,1804339,0
+463,Botswana,BWA,Pertussis,2004,-1,1829330,-5.47E-05
+464,Botswana,BWA,Pertussis,2005,0,1855852,0
+465,Botswana,BWA,Pertussis,2006,-1,1884238,-5.31E-05
+466,Botswana,BWA,Pertussis,2007,0,1914414,0
+467,Botswana,BWA,Pertussis,2008,0,1946351,0
+468,Botswana,BWA,Pertussis,2009,0,1979882,0
+469,Botswana,BWA,Pertussis,2010,0,2014866,0
+470,Botswana,BWA,Pertussis,2011,0,2051339,0
+471,Botswana,BWA,Pertussis,2012,0,2089315,0
+472,Botswana,BWA,Pertussis,2013,0,2128507,0
+473,Botswana,BWA,Pertussis,2014,0,2168573,0
+474,Botswana,BWA,Pertussis,2015,0,2209197,0
+475,Botswana,BWA,Pertussis,2016,0,2250260,0
+476,Central African Republic (the),CAF,Pertussis,2000,-1,3754986,-2.66E-05
+477,Central African Republic (the),CAF,Pertussis,2001,1358,3832203,0.035436536
+478,Central African Republic (the),CAF,Pertussis,2002,10,3907612,0.000255911
+479,Central African Republic (the),CAF,Pertussis,2003,80,3981665,0.00200921
+480,Central African Republic (the),CAF,Pertussis,2004,561,4055036,0.013834649
+481,Central African Republic (the),CAF,Pertussis,2005,87,4127910,0.002107604
+482,Central African Republic (the),CAF,Pertussis,2006,65,4201758,0.001546972
+483,Central African Republic (the),CAF,Pertussis,2007,2,4275800,4.68E-05
+484,Central African Republic (the),CAF,Pertussis,2008,-1,4345386,-2.30E-05
+485,Central African Republic (the),CAF,Pertussis,2009,63,4404230,0.001430443
+486,Central African Republic (the),CAF,Pertussis,2010,1,4448525,2.25E-05
+487,Central African Republic (the),CAF,Pertussis,2011,100,4476153,0.002234061
+488,Central African Republic (the),CAF,Pertussis,2012,124,4490416,0.002761437
+489,Central African Republic (the),CAF,Pertussis,2013,124,4499653,0.002755768
+490,Central African Republic (the),CAF,Pertussis,2014,241,4515392,0.0053373
+491,Central African Republic (the),CAF,Pertussis,2015,379,4546100,0.008336816
+492,Central African Republic (the),CAF,Pertussis,2016,353,4594621,0.007682897
+493,Canada,CAN,Pertussis,2000,4054,30769700,0.013175299
+494,Canada,CAN,Pertussis,2001,2678,31081900,0.008615947
+495,Canada,CAN,Pertussis,2002,2557,31362000,0.008153179
+496,Canada,CAN,Pertussis,2003,1863,31676000,0.005881424
+497,Canada,CAN,Pertussis,2004,2697,31995000,0.008429442
+498,Canada,CAN,Pertussis,2005,2231,32312000,0.006904556
+499,Canada,CAN,Pertussis,2006,1945,32570505,0.005971661
+500,Canada,CAN,Pertussis,2007,1472,32887928,0.004475806
+501,Canada,CAN,Pertussis,2008,1961,33245773,0.005898494
+502,Canada,CAN,Pertussis,2009,1667,33628571,0.004957094
+503,Canada,CAN,Pertussis,2010,759,34005274,0.002232007
+504,Canada,CAN,Pertussis,2011,676,34342780,0.00196839
+505,Canada,CAN,Pertussis,2012,4845,34750545,0.013942227
+506,Canada,CAN,Pertussis,2013,1261,35155451,0.003586926
+507,Canada,CAN,Pertussis,2014,1527,35544564,0.004296016
+508,Canada,CAN,Pertussis,2015,3510,35848610,0.009791175
+509,Canada,CAN,Pertussis,2016,3896,36286425,0.010736798
+510,Switzerland,CHE,Pertussis,2000,-1,7184250,-1.39E-05
+511,Switzerland,CHE,Pertussis,2001,6000,7229854,0.082989228
+512,Switzerland,CHE,Pertussis,2002,-1,7284753,-1.37E-05
+513,Switzerland,CHE,Pertussis,2003,-1,7339001,-1.36E-05
+514,Switzerland,CHE,Pertussis,2004,-1,7389625,-1.35E-05
+515,Switzerland,CHE,Pertussis,2005,-1,7437115,-1.34E-05
+516,Switzerland,CHE,Pertussis,2006,-1,7483934,-1.34E-05
+517,Switzerland,CHE,Pertussis,2007,-1,7551117,-1.32E-05
+518,Switzerland,CHE,Pertussis,2008,-1,7647675,-1.31E-05
+519,Switzerland,CHE,Pertussis,2009,3700,7743831,0.047779968
+520,Switzerland,CHE,Pertussis,2010,5900,7824909,0.075400238
+521,Switzerland,CHE,Pertussis,2011,4700,7912398,0.05940045
+522,Switzerland,CHE,Pertussis,2012,-1,7996861,-1.25E-05
+523,Switzerland,CHE,Pertussis,2013,-1,8089346,-1.24E-05
+524,Switzerland,CHE,Pertussis,2014,-1,8188649,-1.22E-05
+525,Switzerland,CHE,Pertussis,2015,-1,8282396,-1.21E-05
+526,Switzerland,CHE,Pertussis,2016,-1,8372098,-1.19E-05
+527,Chile,CHL,Pertussis,2000,3554,15262754,0.023285444
+528,Chile,CHL,Pertussis,2001,1611,15444969,0.010430581
+529,Chile,CHL,Pertussis,2002,1171,15623635,0.007495055
+530,Chile,CHL,Pertussis,2003,1106,15799542,0.007000203
+531,Chile,CHL,Pertussis,2004,1059,15973778,0.006629615
+532,Chile,CHL,Pertussis,2005,1213,16147064,0.007512202
+533,Chile,CHL,Pertussis,2006,1288,16319792,0.007892257
+534,Chile,CHL,Pertussis,2007,1030,16491687,0.006245571
+535,Chile,CHL,Pertussis,2008,969,16661942,0.005815649
+536,Chile,CHL,Pertussis,2009,692,16829442,0.004111842
+537,Chile,CHL,Pertussis,2010,794,16993354,0.004672415
+538,Chile,CHL,Pertussis,2011,2582,17153357,0.015052447
+539,Chile,CHL,Pertussis,2012,5762,17309746,0.033287606
+540,Chile,CHL,Pertussis,2013,1964,17462982,0.011246647
+541,Chile,CHL,Pertussis,2014,1125,17613798,0.006387038
+542,Chile,CHL,Pertussis,2015,734,17762681,0.004132259
+543,Chile,CHL,Pertussis,2016,752,17909754,0.004198829
+544,China,CHN,Pertussis,2000,5561,1262645000,0.000440425
+545,China,CHN,Pertussis,2001,6407,1271850000,0.000503754
+546,China,CHN,Pertussis,2002,6293,1280400000,0.000491487
+547,China,CHN,Pertussis,2003,858,1288400000,6.66E-05
+548,China,CHN,Pertussis,2004,4705,1296075000,0.000363019
+549,China,CHN,Pertussis,2005,3844,1303720000,0.000294849
+550,China,CHN,Pertussis,2006,2595,1311020000,0.000197937
+551,China,CHN,Pertussis,2007,-1,1317885000,-7.59E-08
+552,China,CHN,Pertussis,2008,2387,1324655000,0.000180198
+553,China,CHN,Pertussis,2009,1612,1331260000,0.000121088
+554,China,CHN,Pertussis,2010,1764,1337705000,0.000131868
+555,China,CHN,Pertussis,2011,2517,1344130000,0.000187259
+556,China,CHN,Pertussis,2012,2183,1350695000,0.00016162
+557,China,CHN,Pertussis,2013,1712,1357380000,0.000126125
+558,China,CHN,Pertussis,2014,3408,1364270000,0.000249804
+559,China,CHN,Pertussis,2015,6658,1371220000,0.000485553
+560,China,CHN,Pertussis,2016,5584,1378665000,0.00040503
+561,Cote d'Ivoire,CIV,Pertussis,2000,-1,16686561,-5.99E-06
+562,Cote d'Ivoire,CIV,Pertussis,2001,0,17040152,0
+563,Cote d'Ivoire,CIV,Pertussis,2002,0,17366517,0
+564,Cote d'Ivoire,CIV,Pertussis,2003,0,17679355,0
+565,Cote d'Ivoire,CIV,Pertussis,2004,-1,17997738,-5.56E-06
+566,Cote d'Ivoire,CIV,Pertussis,2005,-1,18336303,-5.45E-06
+567,Cote d'Ivoire,CIV,Pertussis,2006,-1,18699435,-5.35E-06
+568,Cote d'Ivoire,CIV,Pertussis,2007,-1,19085941,-5.24E-06
+569,Cote d'Ivoire,CIV,Pertussis,2008,-1,19497986,-5.13E-06
+570,Cote d'Ivoire,CIV,Pertussis,2009,-1,19936366,-5.02E-06
+571,Cote d'Ivoire,CIV,Pertussis,2010,-1,20401331,-4.90E-06
+572,Cote d'Ivoire,CIV,Pertussis,2011,-1,20895311,-4.79E-06
+573,Cote d'Ivoire,CIV,Pertussis,2012,-1,21418603,-4.67E-06
+574,Cote d'Ivoire,CIV,Pertussis,2013,-1,21966312,-4.55E-06
+575,Cote d'Ivoire,CIV,Pertussis,2014,-1,22531350,-4.44E-06
+576,Cote d'Ivoire,CIV,Pertussis,2015,-1,23108472,-4.33E-06
+577,Cote d'Ivoire,CIV,Pertussis,2016,-1,23695919,-4.22E-06
+578,Cameroon,CMR,Pertussis,2000,-1,15274234,-6.55E-06
+579,Cameroon,CMR,Pertussis,2001,-1,15671927,-6.38E-06
+580,Cameroon,CMR,Pertussis,2002,-1,16084886,-6.22E-06
+581,Cameroon,CMR,Pertussis,2003,-1,16513822,-6.06E-06
+582,Cameroon,CMR,Pertussis,2004,-1,16959081,-5.90E-06
+583,Cameroon,CMR,Pertussis,2005,-1,17420795,-5.74E-06
+584,Cameroon,CMR,Pertussis,2006,-1,17899562,-5.59E-06
+585,Cameroon,CMR,Pertussis,2007,-1,18395389,-5.44E-06
+586,Cameroon,CMR,Pertussis,2008,-1,18907008,-5.29E-06
+587,Cameroon,CMR,Pertussis,2009,-1,19432541,-5.15E-06
+588,Cameroon,CMR,Pertussis,2010,-1,19970495,-5.01E-06
+589,Cameroon,CMR,Pertussis,2011,-1,20520447,-4.87E-06
+590,Cameroon,CMR,Pertussis,2012,-1,21082383,-4.74E-06
+591,Cameroon,CMR,Pertussis,2013,-1,21655715,-4.62E-06
+592,Cameroon,CMR,Pertussis,2014,-1,22239904,-4.50E-06
+593,Cameroon,CMR,Pertussis,2015,-1,22834522,-4.38E-06
+594,Cameroon,CMR,Pertussis,2016,-1,23439189,-4.27E-06
+595,Democratic Republic of the Congo (the),COD,Pertussis,2000,75,47076387,0.000159316
+596,Democratic Republic of the Congo (the),COD,Pertussis,2001,6300,48394338,0.013018052
+597,Democratic Republic of the Congo (the),COD,Pertussis,2002,-1,49835756,-2.01E-06
+598,Democratic Republic of the Congo (the),COD,Pertussis,2003,2534,51390033,0.004930917
+599,Democratic Republic of the Congo (the),COD,Pertussis,2004,7104,53034217,0.013395126
+600,Democratic Republic of the Congo (the),COD,Pertussis,2005,4564,54751476,0.008335848
+601,Democratic Republic of the Congo (the),COD,Pertussis,2006,3558,56543011,0.006292555
+602,Democratic Republic of the Congo (the),COD,Pertussis,2007,3799,58417562,0.006503181
+603,Democratic Republic of the Congo (the),COD,Pertussis,2008,3190,60373608,0.005283766
+604,Democratic Republic of the Congo (the),COD,Pertussis,2009,830,62409435,0.001329927
+605,Democratic Republic of the Congo (the),COD,Pertussis,2010,2157,64523263,0.00334298
+606,Democratic Republic of the Congo (the),COD,Pertussis,2011,2452,66713597,0.003675413
+607,Democratic Republic of the Congo (the),COD,Pertussis,2012,3407,68978682,0.004939207
+608,Democratic Republic of the Congo (the),COD,Pertussis,2013,-1,71316033,-1.40E-06
+609,Democratic Republic of the Congo (the),COD,Pertussis,2014,0,73722860,0
+610,Democratic Republic of the Congo (the),COD,Pertussis,2015,0,76196619,0
+611,Democratic Republic of the Congo (the),COD,Pertussis,2016,0,78736153,0
+612,Congo (the),COG,Pertussis,2000,0,3225727,0
+613,Congo (the),COG,Pertussis,2001,31,3315806,0.000934916
+614,Congo (the),COG,Pertussis,2002,38,3407180,0.001115292
+615,Congo (the),COG,Pertussis,2003,0,3502519,0
+616,Congo (the),COG,Pertussis,2004,-1,3605439,-2.77E-05
+617,Congo (the),COG,Pertussis,2005,-1,3718243,-2.69E-05
+618,Congo (the),COG,Pertussis,2006,108,3842365,0.002810769
+619,Congo (the),COG,Pertussis,2007,55,3976246,0.001383214
+620,Congo (the),COG,Pertussis,2008,0,4115435,0
+621,Congo (the),COG,Pertussis,2009,0,4253712,0
+622,Congo (the),COG,Pertussis,2010,0,4386693,0
+623,Congo (the),COG,Pertussis,2011,0,4512730,0
+624,Congo (the),COG,Pertussis,2012,12,4633363,0.000258991
+625,Congo (the),COG,Pertussis,2013,137,4751393,0.002883365
+626,Congo (the),COG,Pertussis,2014,21,4871101,0.000431114
+627,Congo (the),COG,Pertussis,2015,-1,4995648,-2.00E-05
+628,Congo (the),COG,Pertussis,2016,0,5125821,0
+629,Colombia,COL,Pertussis,2000,446,40403958,0.001103852
+630,Colombia,COL,Pertussis,2001,577,40988909,0.001407698
+631,Colombia,COL,Pertussis,2002,322,41572491,0.000774551
+632,Colombia,COL,Pertussis,2003,140,42152151,0.00033213
+633,Colombia,COL,Pertussis,2004,25,42724163,5.85E-05
+634,Colombia,COL,Pertussis,2005,139,43285634,0.000321123
+635,Colombia,COL,Pertussis,2006,233,43835722,0.00053153
+636,Colombia,COL,Pertussis,2007,125,44374572,0.000281693
+637,Colombia,COL,Pertussis,2008,408,44901544,0.000908655
+638,Colombia,COL,Pertussis,2009,407,45416181,0.000896156
+639,Colombia,COL,Pertussis,2010,344,45918097,0.00074916
+640,Colombia,COL,Pertussis,2011,1010,46406646,0.002176412
+641,Colombia,COL,Pertussis,2012,3289,46881475,0.007015564
+642,Colombia,COL,Pertussis,2013,13682,47342981,0.028899743
+643,Colombia,COL,Pertussis,2014,734,47791911,0.001535825
+644,Colombia,COL,Pertussis,2015,986,48228697,0.002044426
+645,Colombia,COL,Pertussis,2016,536,48653419,0.00110167
+646,Comoros (the),COM,Pertussis,2000,-1,542357,-0.00018438
+647,Comoros (the),COM,Pertussis,2001,-1,555888,-0.000179892
+648,Comoros (the),COM,Pertussis,2002,0,569479,0
+649,Comoros (the),COM,Pertussis,2003,0,583211,0
+650,Comoros (the),COM,Pertussis,2004,0,597228,0
+651,Comoros (the),COM,Pertussis,2005,0,611627,0
+652,Comoros (the),COM,Pertussis,2006,0,626425,0
+653,Comoros (the),COM,Pertussis,2007,0,641620,0
+654,Comoros (the),COM,Pertussis,2008,-1,657229,-0.000152154
+655,Comoros (the),COM,Pertussis,2009,0,673252,0
+656,Comoros (the),COM,Pertussis,2010,0,689692,0
+657,Comoros (the),COM,Pertussis,2011,-1,706569,-0.000141529
+658,Comoros (the),COM,Pertussis,2012,-1,723868,-0.000138147
+659,Comoros (the),COM,Pertussis,2013,0,741500,0
+660,Comoros (the),COM,Pertussis,2014,0,759385,0
+661,Comoros (the),COM,Pertussis,2015,0,777424,0
+662,Comoros (the),COM,Pertussis,2016,-1,795601,-0.000125691
+663,Cabo Verde,CPV,Pertussis,2000,0,435079,0
+664,Cabo Verde,CPV,Pertussis,2001,0,443716,0
+665,Cabo Verde,CPV,Pertussis,2002,0,452106,0
+666,Cabo Verde,CPV,Pertussis,2003,7,460147,0.001521253
+667,Cabo Verde,CPV,Pertussis,2004,-1,467664,-0.000213829
+668,Cabo Verde,CPV,Pertussis,2005,0,474567,0
+669,Cabo Verde,CPV,Pertussis,2006,-1,480795,-0.000207989
+670,Cabo Verde,CPV,Pertussis,2007,0,486438,0
+671,Cabo Verde,CPV,Pertussis,2008,0,491723,0
+672,Cabo Verde,CPV,Pertussis,2009,6,496963,0.001207333
+673,Cabo Verde,CPV,Pertussis,2010,0,502384,0
+674,Cabo Verde,CPV,Pertussis,2011,1,508067,0.000196824
+675,Cabo Verde,CPV,Pertussis,2012,0,513979,0
+676,Cabo Verde,CPV,Pertussis,2013,18,520106,0.003460833
+677,Cabo Verde,CPV,Pertussis,2014,0,526437,0
+678,Cabo Verde,CPV,Pertussis,2015,0,532913,0
+679,Cabo Verde,CPV,Pertussis,2016,-1,539560,-0.000185336
+680,Costa Rica,CRI,Pertussis,2000,23,3925443,0.000585921
+681,Costa Rica,CRI,Pertussis,2001,51,3996798,0.001276021
+682,Costa Rica,CRI,Pertussis,2002,32,4063204,0.000787556
+683,Costa Rica,CRI,Pertussis,2003,27,4125971,0.000654391
+684,Costa Rica,CRI,Pertussis,2004,13,4187038,0.000310482
+685,Costa Rica,CRI,Pertussis,2005,7,4247841,0.00016479
+686,Costa Rica,CRI,Pertussis,2006,1037,4308794,0.024067059
+687,Costa Rica,CRI,Pertussis,2007,2024,4369469,0.046321418
+688,Costa Rica,CRI,Pertussis,2008,2024,4429508,0.045693562
+689,Costa Rica,CRI,Pertussis,2009,664,4488263,0.014794142
+690,Costa Rica,CRI,Pertussis,2010,71,4545280,0.00156206
+691,Costa Rica,CRI,Pertussis,2011,79,4600474,0.001717214
+692,Costa Rica,CRI,Pertussis,2012,130,4654122,0.002793223
+693,Costa Rica,CRI,Pertussis,2013,58,4706401,0.001232364
+694,Costa Rica,CRI,Pertussis,2014,31,4757575,0.000651592
+695,Costa Rica,CRI,Pertussis,2015,20,4807852,0.000415986
+696,Costa Rica,CRI,Pertussis,2016,23,4857274,0.000473517
+697,Cuba,CUB,Pertussis,2000,0,11150736,0
+698,Cuba,CUB,Pertussis,2001,0,11186542,0
+699,Cuba,CUB,Pertussis,2002,0,11217998,0
+700,Cuba,CUB,Pertussis,2003,0,11244885,0
+701,Cuba,CUB,Pertussis,2004,0,11266941,0
+702,Cuba,CUB,Pertussis,2005,0,11284253,0
+703,Cuba,CUB,Pertussis,2006,0,11296233,0
+704,Cuba,CUB,Pertussis,2007,0,11303687,0
+705,Cuba,CUB,Pertussis,2008,0,11309754,0
+706,Cuba,CUB,Pertussis,2009,0,11318602,0
+707,Cuba,CUB,Pertussis,2010,0,11333051,0
+708,Cuba,CUB,Pertussis,2011,0,11354651,0
+709,Cuba,CUB,Pertussis,2012,0,11382146,0
+710,Cuba,CUB,Pertussis,2013,-1,11412167,-8.76E-06
+711,Cuba,CUB,Pertussis,2014,0,11439767,0
+712,Cuba,CUB,Pertussis,2015,0,11461432,0
+713,Cuba,CUB,Pertussis,2016,0,11475982,0
+714,Cyprus,CYP,Pertussis,2000,6,943286,0.000636074
+715,Cyprus,CYP,Pertussis,2001,-1,960282,-0.000104136
+716,Cyprus,CYP,Pertussis,2002,1,976966,0.000102358
+717,Cyprus,CYP,Pertussis,2003,58,993563,0.005837576
+718,Cyprus,CYP,Pertussis,2004,15,1010410,0.001484546
+719,Cyprus,CYP,Pertussis,2005,6,1027658,0.000583852
+720,Cyprus,CYP,Pertussis,2006,8,1045509,0.000765178
+721,Cyprus,CYP,Pertussis,2007,9,1063712,0.000846094
+722,Cyprus,CYP,Pertussis,2008,3,1081563,0.000277376
+723,Cyprus,CYP,Pertussis,2009,8,1098076,0.000728547
+724,Cyprus,CYP,Pertussis,2010,0,1112607,0
+725,Cyprus,CYP,Pertussis,2011,2,1124835,0.000177804
+726,Cyprus,CYP,Pertussis,2012,16,1135062,0.001409615
+727,Cyprus,CYP,Pertussis,2013,9,1143896,0.000786785
+728,Cyprus,CYP,Pertussis,2014,7,1152309,0.000607476
+729,Cyprus,CYP,Pertussis,2015,2,1160985,0.000172268
+730,Cyprus,CYP,Pertussis,2016,2,1170125,0.000170922
+731,Czech Republic (the),CZE,Pertussis,2000,187,10255063,0.00182349
+732,Czech Republic (the),CZE,Pertussis,2001,124,10216605,0.00121371
+733,Czech Republic (the),CZE,Pertussis,2002,329,10196916,0.003226466
+734,Czech Republic (the),CZE,Pertussis,2003,342,10193998,0.003354915
+735,Czech Republic (the),CZE,Pertussis,2004,373,10197101,0.003657902
+736,Czech Republic (the),CZE,Pertussis,2005,412,10211216,0.004034779
+737,Czech Republic (the),CZE,Pertussis,2006,234,10238905,0.002285401
+738,Czech Republic (the),CZE,Pertussis,2007,186,10298828,0.001806031
+739,Czech Republic (the),CZE,Pertussis,2008,767,10384603,0.007385935
+740,Czech Republic (the),CZE,Pertussis,2009,956,10443936,0.009153637
+741,Czech Republic (the),CZE,Pertussis,2010,662,10474410,0.006320165
+742,Czech Republic (the),CZE,Pertussis,2011,324,10496088,0.003086864
+743,Czech Republic (the),CZE,Pertussis,2012,738,10510785,0.007021359
+744,Czech Republic (the),CZE,Pertussis,2013,1233,10514272,0.011726917
+745,Czech Republic (the),CZE,Pertussis,2014,2521,10525347,0.023951704
+746,Czech Republic (the),CZE,Pertussis,2015,585,10546059,0.005547096
+747,Czech Republic (the),CZE,Pertussis,2016,627,10561633,0.005936582
+748,Germany,DEU,Pertussis,2000,-1,82211508,-1.22E-06
+749,Germany,DEU,Pertussis,2001,-1,82349925,-1.21E-06
+750,Germany,DEU,Pertussis,2002,-1,82488495,-1.21E-06
+751,Germany,DEU,Pertussis,2003,-1,82534176,-1.21E-06
+752,Germany,DEU,Pertussis,2004,-1,82516260,-1.21E-06
+753,Germany,DEU,Pertussis,2005,-1,82469422,-1.21E-06
+754,Germany,DEU,Pertussis,2006,-1,82376451,-1.21E-06
+755,Germany,DEU,Pertussis,2007,-1,82266372,-1.22E-06
+756,Germany,DEU,Pertussis,2008,-1,82110097,-1.22E-06
+757,Germany,DEU,Pertussis,2009,-1,81902307,-1.22E-06
+758,Germany,DEU,Pertussis,2010,-1,81776930,-1.22E-06
+759,Germany,DEU,Pertussis,2011,-1,80274983,-1.25E-06
+760,Germany,DEU,Pertussis,2012,-1,80425823,-1.24E-06
+761,Germany,DEU,Pertussis,2013,-1,80645605,-1.24E-06
+762,Germany,DEU,Pertussis,2014,12260,80982500,0.015139073
+763,Germany,DEU,Pertussis,2015,9000,81686611,0.011017717
+764,Germany,DEU,Pertussis,2016,13809,82667685,0.01670423
+765,Djibouti,DJI,Pertussis,2000,48,717584,0.006689112
+766,Djibouti,DJI,Pertussis,2001,34,732711,0.004640302
+767,Djibouti,DJI,Pertussis,2002,2,746221,0.000268017
+768,Djibouti,DJI,Pertussis,2003,10,758615,0.001318192
+769,Djibouti,DJI,Pertussis,2004,0,770752,0
+770,Djibouti,DJI,Pertussis,2005,-1,783254,-0.000127673
+771,Djibouti,DJI,Pertussis,2006,-1,796208,-0.000125595
+772,Djibouti,DJI,Pertussis,2007,3,809402,0.000370644
+773,Djibouti,DJI,Pertussis,2008,0,822934,0
+774,Djibouti,DJI,Pertussis,2009,0,836840,0
+775,Djibouti,DJI,Pertussis,2010,0,851146,0
+776,Djibouti,DJI,Pertussis,2011,-1,865937,-0.000115482
+777,Djibouti,DJI,Pertussis,2012,-1,881185,-0.000113484
+778,Djibouti,DJI,Pertussis,2013,-1,896688,-0.000111522
+779,Djibouti,DJI,Pertussis,2014,-1,912164,-0.000109629
+780,Djibouti,DJI,Pertussis,2015,-1,927414,-0.000107827
+781,Djibouti,DJI,Pertussis,2016,-1,942333,-0.00010612
+782,Dominica,DMA,Pertussis,2000,0,69676,0
+783,Dominica,DMA,Pertussis,2001,0,69670,0
+784,Dominica,DMA,Pertussis,2002,0,69824,0
+785,Dominica,DMA,Pertussis,2003,0,70093,0
+786,Dominica,DMA,Pertussis,2004,0,70379,0
+787,Dominica,DMA,Pertussis,2005,0,70627,0
+788,Dominica,DMA,Pertussis,2006,0,70807,0
+789,Dominica,DMA,Pertussis,2007,0,70950,0
+790,Dominica,DMA,Pertussis,2008,0,71074,0
+791,Dominica,DMA,Pertussis,2009,0,71229,0
+792,Dominica,DMA,Pertussis,2010,0,71440,0
+793,Dominica,DMA,Pertussis,2011,0,71718,0
+794,Dominica,DMA,Pertussis,2012,0,72044,0
+795,Dominica,DMA,Pertussis,2013,0,72400,0
+796,Dominica,DMA,Pertussis,2014,0,72778,0
+797,Dominica,DMA,Pertussis,2015,0,73162,0
+798,Dominica,DMA,Pertussis,2016,0,73543,0
+799,Denmark,DNK,Pertussis,2000,164,5339616,0.003071382
+800,Denmark,DNK,Pertussis,2001,200,5358783,0.003732191
+801,Denmark,DNK,Pertussis,2002,323,5375931,0.006008262
+802,Denmark,DNK,Pertussis,2003,114,5390574,0.002114803
+803,Denmark,DNK,Pertussis,2004,228,5404523,0.004218689
+804,Denmark,DNK,Pertussis,2005,129,5419432,0.002380323
+805,Denmark,DNK,Pertussis,2006,55,5437272,0.001011537
+806,Denmark,DNK,Pertussis,2007,81,5461438,0.001483126
+807,Denmark,DNK,Pertussis,2008,105,5493621,0.001911308
+808,Denmark,DNK,Pertussis,2009,83,5523095,0.001502781
+809,Denmark,DNK,Pertussis,2010,77,5547683,0.001387967
+810,Denmark,DNK,Pertussis,2011,71,5570572,0.001274555
+811,Denmark,DNK,Pertussis,2012,980,5591572,0.017526377
+812,Denmark,DNK,Pertussis,2013,484,5614932,0.008619873
+813,Denmark,DNK,Pertussis,2014,855,5643475,0.01515024
+814,Denmark,DNK,Pertussis,2015,962,5683483,0.01692624
+815,Denmark,DNK,Pertussis,2016,2096,5731118,0.036572271
+816,Dominican Republic (the),DOM,Pertussis,2000,40,8562622,0.000467147
+817,Dominican Republic (the),DOM,Pertussis,2001,19,8697126,0.000218463
+818,Dominican Republic (the),DOM,Pertussis,2002,10,8832285,0.000113221
+819,Dominican Republic (the),DOM,Pertussis,2003,23,8967760,0.000256474
+820,Dominican Republic (the),DOM,Pertussis,2004,53,9102998,0.000582226
+821,Dominican Republic (the),DOM,Pertussis,2005,63,9237566,0.000681998
+822,Dominican Republic (the),DOM,Pertussis,2006,17,9371338,0.000181404
+823,Dominican Republic (the),DOM,Pertussis,2007,10,9504353,0.000105215
+824,Dominican Republic (the),DOM,Pertussis,2008,11,9636520,0.000114149
+825,Dominican Republic (the),DOM,Pertussis,2009,18,9767758,0.00018428
+826,Dominican Republic (the),DOM,Pertussis,2010,37,9897985,0.000373813
+827,Dominican Republic (the),DOM,Pertussis,2011,3,10027095,2.99E-05
+828,Dominican Republic (the),DOM,Pertussis,2012,11,10154950,0.000108322
+829,Dominican Republic (the),DOM,Pertussis,2013,17,10281296,0.000165349
+830,Dominican Republic (the),DOM,Pertussis,2014,98,10405844,0.000941778
+831,Dominican Republic (the),DOM,Pertussis,2015,69,10528394,0.000655371
+832,Dominican Republic (the),DOM,Pertussis,2016,26,10648791,0.000244159
+833,Algeria,DZA,Pertussis,2000,-1,31183660,-3.21E-06
+834,Algeria,DZA,Pertussis,2001,137,31592153,0.000433652
+835,Algeria,DZA,Pertussis,2002,57,31995046,0.000178153
+836,Algeria,DZA,Pertussis,2003,22,32403514,6.79E-05
+837,Algeria,DZA,Pertussis,2004,7,32831096,2.13E-05
+838,Algeria,DZA,Pertussis,2005,18,33288437,5.41E-05
+839,Algeria,DZA,Pertussis,2006,23,33777915,6.81E-05
+840,Algeria,DZA,Pertussis,2007,0,34300076,0
+841,Algeria,DZA,Pertussis,2008,28,34860715,8.03E-05
+842,Algeria,DZA,Pertussis,2009,1,35465760,2.82E-06
+843,Algeria,DZA,Pertussis,2010,0,36117637,0
+844,Algeria,DZA,Pertussis,2011,1,36819558,2.72E-06
+845,Algeria,DZA,Pertussis,2012,104,37565847,0.000276847
+846,Algeria,DZA,Pertussis,2013,69,38338562,0.000179975
+847,Algeria,DZA,Pertussis,2014,0,39113313,0
+848,Algeria,DZA,Pertussis,2015,0,39871528,0
+849,Algeria,DZA,Pertussis,2016,2,40606052,4.93E-06
+850,Ecuador,ECU,Pertussis,2000,482,12628596,0.003816735
+851,Ecuador,ECU,Pertussis,2001,308,12852755,0.002396373
+852,Ecuador,ECU,Pertussis,2002,355,13072060,0.002715716
+853,Ecuador,ECU,Pertussis,2003,127,13289601,0.000955634
+854,Ecuador,ECU,Pertussis,2004,0,13509647,0
+855,Ecuador,ECU,Pertussis,2005,-1,13735233,-7.28E-06
+856,Ecuador,ECU,Pertussis,2006,23,13967480,0.000164668
+857,Ecuador,ECU,Pertussis,2007,84,14205453,0.000591322
+858,Ecuador,ECU,Pertussis,2008,125,14447562,0.000865198
+859,Ecuador,ECU,Pertussis,2009,41,14691275,0.000279077
+860,Ecuador,ECU,Pertussis,2010,0,14934690,0
+861,Ecuador,ECU,Pertussis,2011,3,15177355,1.98E-05
+862,Ecuador,ECU,Pertussis,2012,54,15419666,0.000350202
+863,Ecuador,ECU,Pertussis,2013,35,15661547,0.000223477
+864,Ecuador,ECU,Pertussis,2014,9,15903112,5.66E-05
+865,Ecuador,ECU,Pertussis,2015,7,16144368,4.34E-05
+866,Ecuador,ECU,Pertussis,2016,16,16385068,9.76E-05
+867,Egypt,EGY,Pertussis,2000,3,69905988,4.29E-06
+868,Egypt,EGY,Pertussis,2001,1,71226940,1.40E-06
+869,Egypt,EGY,Pertussis,2002,0,72590118,0
+870,Egypt,EGY,Pertussis,2003,0,73981942,0
+871,Egypt,EGY,Pertussis,2004,0,75381899,0
+872,Egypt,EGY,Pertussis,2005,0,76778149,0
+873,Egypt,EGY,Pertussis,2006,0,78159048,0
+874,Egypt,EGY,Pertussis,2007,0,79537253,0
+875,Egypt,EGY,Pertussis,2008,0,80953881,0
+876,Egypt,EGY,Pertussis,2009,0,82465022,0
+877,Egypt,EGY,Pertussis,2010,0,84107606,0
+878,Egypt,EGY,Pertussis,2011,0,85897561,0
+879,Egypt,EGY,Pertussis,2012,0,87813257,0
+880,Egypt,EGY,Pertussis,2013,0,89807433,0
+881,Egypt,EGY,Pertussis,2014,0,91812566,0
+882,Egypt,EGY,Pertussis,2015,0,93778172,0
+883,Egypt,EGY,Pertussis,2016,0,95688681,0
+884,Eritrea,ERI,Pertussis,2000,152,3392801,0.004480074
+885,Eritrea,ERI,Pertussis,2001,130,3497124,0.00371734
+886,Eritrea,ERI,Pertussis,2002,149,3614639,0.004122127
+887,Eritrea,ERI,Pertussis,2003,53,3738265,0.00141777
+888,Eritrea,ERI,Pertussis,2004,6,3858623,0.000155496
+889,Eritrea,ERI,Pertussis,2005,46,3969007,0.00115898
+890,Eritrea,ERI,Pertussis,2006,65,4066648,0.001598368
+891,Eritrea,ERI,Pertussis,2007,-1,4153332,-2.41E-05
+892,Eritrea,ERI,Pertussis,2008,30,4232636,0.000708778
+893,Eritrea,ERI,Pertussis,2009,0,4310334,0
+894,Eritrea,ERI,Pertussis,2010,11,4390840,0.000250522
+895,Eritrea,ERI,Pertussis,2011,91,4474690,0.00203366
+896,Eritrea,ERI,Pertussis,2012,208,-1,-20800
+897,Eritrea,ERI,Pertussis,2013,0,-1,0
+898,Eritrea,ERI,Pertussis,2014,-1,-1,-1
+899,Eritrea,ERI,Pertussis,2015,31,-1,-3100
+900,Eritrea,ERI,Pertussis,2016,81,-1,-8100
+901,Spain,ESP,Pertussis,2000,921,40567864,0.00227027
+902,Spain,ESP,Pertussis,2001,-1,40850412,-2.45E-06
+903,Spain,ESP,Pertussis,2002,345,41431558,0.000832699
+904,Spain,ESP,Pertussis,2003,512,42187645,0.001213625
+905,Spain,ESP,Pertussis,2004,-1,42921895,-2.33E-06
+906,Spain,ESP,Pertussis,2005,295,43653155,0.000675782
+907,Spain,ESP,Pertussis,2006,378,44397319,0.000851403
+908,Spain,ESP,Pertussis,2007,556,45226803,0.00122936
+909,Spain,ESP,Pertussis,2008,563,45954106,0.001225135
+910,Spain,ESP,Pertussis,2009,393,46362946,0.00084766
+911,Spain,ESP,Pertussis,2010,739,46576897,0.001586624
+912,Spain,ESP,Pertussis,2011,3088,46742697,0.00660638
+913,Spain,ESP,Pertussis,2012,3439,46773055,0.007352524
+914,Spain,ESP,Pertussis,2013,2342,46620045,0.00502359
+915,Spain,ESP,Pertussis,2014,-1,46480882,-2.15E-06
+916,Spain,ESP,Pertussis,2015,-1,46447697,-2.15E-06
+917,Spain,ESP,Pertussis,2016,4892,46443959,0.010533124
+918,Estonia,EST,Pertussis,2000,503,1396985,0.036006113
+919,Estonia,EST,Pertussis,2001,319,1388115,0.022980805
+920,Estonia,EST,Pertussis,2002,215,1379350,0.015587052
+921,Estonia,EST,Pertussis,2003,489,1370720,0.035674682
+922,Estonia,EST,Pertussis,2004,455,1362550,0.03339327
+923,Estonia,EST,Pertussis,2005,63,1354775,0.004650219
+924,Estonia,EST,Pertussis,2006,153,1346810,0.011360177
+925,Estonia,EST,Pertussis,2007,409,1340680,0.030506907
+926,Estonia,EST,Pertussis,2008,485,1337090,0.036272801
+927,Estonia,EST,Pertussis,2009,629,1334515,0.047133228
+928,Estonia,EST,Pertussis,2010,1295,1331475,0.097260557
+929,Estonia,EST,Pertussis,2011,478,1327439,0.036009188
+930,Estonia,EST,Pertussis,2012,149,1322696,0.011264871
+931,Estonia,EST,Pertussis,2013,55,1317997,0.004172999
+932,Estonia,EST,Pertussis,2014,43,1314545,0.003271094
+933,Estonia,EST,Pertussis,2015,77,1315407,0.005853702
+934,Estonia,EST,Pertussis,2016,74,1316481,0.005621046
+935,Ethiopia,ETH,Pertussis,2000,-1,66537331,-1.50E-06
+936,Ethiopia,ETH,Pertussis,2001,-1,68492257,-1.46E-06
+937,Ethiopia,ETH,Pertussis,2002,-1,70497192,-1.42E-06
+938,Ethiopia,ETH,Pertussis,2003,-1,72545144,-1.38E-06
+939,Ethiopia,ETH,Pertussis,2004,-1,74624405,-1.34E-06
+940,Ethiopia,ETH,Pertussis,2005,-1,76727083,-1.30E-06
+941,Ethiopia,ETH,Pertussis,2006,-1,78850689,-1.27E-06
+942,Ethiopia,ETH,Pertussis,2007,-1,81000409,-1.23E-06
+943,Ethiopia,ETH,Pertussis,2008,-1,83184892,-1.20E-06
+944,Ethiopia,ETH,Pertussis,2009,-1,85416253,-1.17E-06
+945,Ethiopia,ETH,Pertussis,2010,-1,87702670,-1.14E-06
+946,Ethiopia,ETH,Pertussis,2011,-1,90046756,-1.11E-06
+947,Ethiopia,ETH,Pertussis,2012,-1,92444183,-1.08E-06
+948,Ethiopia,ETH,Pertussis,2013,-1,94887724,-1.05E-06
+949,Ethiopia,ETH,Pertussis,2014,-1,97366774,-1.03E-06
+950,Ethiopia,ETH,Pertussis,2015,-1,99873033,-1.00E-06
+951,Ethiopia,ETH,Pertussis,2016,-1,102403196,-9.77E-07
+952,Finland,FIN,Pertussis,2000,-1,5176209,-1.93E-05
+953,Finland,FIN,Pertussis,2001,315,5188008,0.006071695
+954,Finland,FIN,Pertussis,2002,581,5200598,0.011171792
+955,Finland,FIN,Pertussis,2003,1263,5213014,0.024227827
+956,Finland,FIN,Pertussis,2004,1631,5228172,0.031196372
+957,Finland,FIN,Pertussis,2005,552,5246096,0.01052211
+958,Finland,FIN,Pertussis,2006,535,5266268,0.010158997
+959,Finland,FIN,Pertussis,2007,480,5288720,0.00907592
+960,Finland,FIN,Pertussis,2008,511,5313399,0.009617196
+961,Finland,FIN,Pertussis,2009,267,5338871,0.005001057
+962,Finland,FIN,Pertussis,2010,336,5363352,0.006264739
+963,Finland,FIN,Pertussis,2011,555,5388272,0.010300148
+964,Finland,FIN,Pertussis,2012,-1,5413971,-1.85E-05
+965,Finland,FIN,Pertussis,2013,192,5438972,0.003530079
+966,Finland,FIN,Pertussis,2014,-1,5461512,-1.83E-05
+967,Finland,FIN,Pertussis,2015,165,5479531,0.003011207
+968,Finland,FIN,Pertussis,2016,432,5495096,0.007861555
+969,Fiji,FJI,Pertussis,2000,-1,811223,-0.000123271
+970,Fiji,FJI,Pertussis,2001,10,814218,0.001228172
+971,Fiji,FJI,Pertussis,2002,0,815691,0
+972,Fiji,FJI,Pertussis,2003,0,816628,0
+973,Fiji,FJI,Pertussis,2004,3,818354,0.00036659
+974,Fiji,FJI,Pertussis,2005,0,821817,0
+975,Fiji,FJI,Pertussis,2006,0,827411,0
+976,Fiji,FJI,Pertussis,2007,0,834812,0
+977,Fiji,FJI,Pertussis,2008,0,843340,0
+978,Fiji,FJI,Pertussis,2009,0,851967,0
+979,Fiji,FJI,Pertussis,2010,0,859950,0
+980,Fiji,FJI,Pertussis,2011,-1,867086,-0.000115329
+981,Fiji,FJI,Pertussis,2012,-1,873596,-0.000114469
+982,Fiji,FJI,Pertussis,2013,-1,879715,-0.000113673
+983,Fiji,FJI,Pertussis,2014,-1,885806,-0.000112892
+984,Fiji,FJI,Pertussis,2015,-1,892149,-0.000112089
+985,Fiji,FJI,Pertussis,2016,-1,898760,-0.000111264
+986,France,FRA,Pertussis,2000,-1,60912498,-1.64E-06
+987,France,FRA,Pertussis,2001,-1,61357431,-1.63E-06
+988,France,FRA,Pertussis,2002,-1,61805267,-1.62E-06
+989,France,FRA,Pertussis,2003,-1,62244884,-1.61E-06
+990,France,FRA,Pertussis,2004,-1,62704897,-1.59E-06
+991,France,FRA,Pertussis,2005,-1,63179356,-1.58E-06
+992,France,FRA,Pertussis,2006,246,63621376,0.000386662
+993,France,FRA,Pertussis,2007,-1,64016229,-1.56E-06
+994,France,FRA,Pertussis,2008,-1,64374990,-1.55E-06
+995,France,FRA,Pertussis,2009,-1,64707044,-1.55E-06
+996,France,FRA,Pertussis,2010,-1,65027512,-1.54E-06
+997,France,FRA,Pertussis,2011,-1,65342776,-1.53E-06
+998,France,FRA,Pertussis,2012,-1,65659790,-1.52E-06
+999,France,FRA,Pertussis,2013,165,65998570,0.000250005
+1000,France,FRA,Pertussis,2014,84,66331957,0.000126636
+1001,France,FRA,Pertussis,2015,47,66624068,7.05E-05
+1002,France,FRA,Pertussis,2016,56,66896109,8.37E-05
+1003,Micronesia (Federated States of),FSM,Pertussis,2000,9,107432,0.008377392
+1004,Micronesia (Federated States of),FSM,Pertussis,2001,0,107165,0
+1005,Micronesia (Federated States of),FSM,Pertussis,2002,-1,106983,-0.000934728
+1006,Micronesia (Federated States of),FSM,Pertussis,2003,-1,106816,-0.000936189
+1007,Micronesia (Federated States of),FSM,Pertussis,2004,0,106577,0
+1008,Micronesia (Federated States of),FSM,Pertussis,2005,0,106196,0
+1009,Micronesia (Federated States of),FSM,Pertussis,2006,0,105684,0
+1010,Micronesia (Federated States of),FSM,Pertussis,2007,47,105078,0.044728678
+1011,Micronesia (Federated States of),FSM,Pertussis,2008,-1,104478,-0.000957139
+1012,Micronesia (Federated States of),FSM,Pertussis,2009,0,103960,0
+1013,Micronesia (Federated States of),FSM,Pertussis,2010,-1,103616,-0.000965102
+1014,Micronesia (Federated States of),FSM,Pertussis,2011,-1,103468,-0.000966482
+1015,Micronesia (Federated States of),FSM,Pertussis,2012,-1,103503,-0.000966156
+1016,Micronesia (Federated States of),FSM,Pertussis,2013,-1,103702,-0.000964302
+1017,Micronesia (Federated States of),FSM,Pertussis,2014,0,104015,0
+1018,Micronesia (Federated States of),FSM,Pertussis,2015,0,104433,0
+1019,Micronesia (Federated States of),FSM,Pertussis,2016,0,104937,0
+1020,Gabon,GAB,Pertussis,2000,-1,1231122,-8.12E-05
+1021,Gabon,GAB,Pertussis,2001,588,1262259,0.04658315
+1022,Gabon,GAB,Pertussis,2002,0,1294409,0
+1023,Gabon,GAB,Pertussis,2003,-1,1328146,-7.53E-05
+1024,Gabon,GAB,Pertussis,2004,-1,1364205,-7.33E-05
+1025,Gabon,GAB,Pertussis,2005,-1,1403126,-7.13E-05
+1026,Gabon,GAB,Pertussis,2006,-1,1444844,-6.92E-05
+1027,Gabon,GAB,Pertussis,2007,-1,1489193,-6.72E-05
+1028,Gabon,GAB,Pertussis,2008,-1,1536411,-6.51E-05
+1029,Gabon,GAB,Pertussis,2009,-1,1586754,-6.30E-05
+1030,Gabon,GAB,Pertussis,2010,-1,1640210,-6.10E-05
+1031,Gabon,GAB,Pertussis,2011,-1,1697101,-5.89E-05
+1032,Gabon,GAB,Pertussis,2012,-1,1756817,-5.69E-05
+1033,Gabon,GAB,Pertussis,2013,-1,1817271,-5.50E-05
+1034,Gabon,GAB,Pertussis,2014,-1,1875713,-5.33E-05
+1035,Gabon,GAB,Pertussis,2015,-1,1930175,-5.18E-05
+1036,Gabon,GAB,Pertussis,2016,-1,1979786,-5.05E-05
+1037,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2000,866,58892514,0.001470476
+1038,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2001,1049,59119673,0.001774367
+1039,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2002,1054,59370479,0.001775293
+1040,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2003,521,59647577,0.000873464
+1041,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2004,169,59987905,0.000281723
+1042,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2005,358,60401206,0.000592703
+1043,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2006,478,60846820,0.000785579
+1044,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2007,1163,61322463,0.001896532
+1045,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2008,1028,61806995,0.001663242
+1046,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2009,846,62276270,0.001358463
+1047,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2010,518,62766365,0.000825283
+1048,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2011,1243,63258918,0.00196494
+1049,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2012,11980,63700300,0.018806819
+1050,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2013,6090,64128226,0.009496598
+1051,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2014,4046,64613160,0.006261882
+1052,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2015,5207,65128861,0.007994919
+1053,United Kingdom of Great Britain and Northern Ireland (the),GBR,Pertussis,2016,7085,65637239,0.010794177
+1054,Georgia,GEO,Pertussis,2000,84,4418300,0.001901184
+1055,Georgia,GEO,Pertussis,2001,82,4386400,0.001869415
+1056,Georgia,GEO,Pertussis,2002,147,4357000,0.003373881
+1057,Georgia,GEO,Pertussis,2003,98,4301000,0.00227854
+1058,Georgia,GEO,Pertussis,2004,207,4245000,0.004876325
+1059,Georgia,GEO,Pertussis,2005,165,4190000,0.003937947
+1060,Georgia,GEO,Pertussis,2006,135,4136000,0.003264023
+1061,Georgia,GEO,Pertussis,2007,63,4082000,0.001543361
+1062,Georgia,GEO,Pertussis,2008,129,4030000,0.003200993
+1063,Georgia,GEO,Pertussis,2009,130,3978000,0.003267974
+1064,Georgia,GEO,Pertussis,2010,49,3926000,0.00124809
+1065,Georgia,GEO,Pertussis,2011,33,3875000,0.000851613
+1066,Georgia,GEO,Pertussis,2012,346,3825000,0.009045752
+1067,Georgia,GEO,Pertussis,2013,115,3776000,0.003045551
+1068,Georgia,GEO,Pertussis,2014,94,3727000,0.002522136
+1069,Georgia,GEO,Pertussis,2015,176,3717100,0.004734874
+1070,Georgia,GEO,Pertussis,2016,120,3719300,0.003226414
+1071,Ghana,GHA,Pertussis,2000,636,18938762,0.003358192
+1072,Ghana,GHA,Pertussis,2001,523,19421605,0.002692877
+1073,Ghana,GHA,Pertussis,2002,326,19924522,0.001636175
+1074,Ghana,GHA,Pertussis,2003,105,20446782,0.000513528
+1075,Ghana,GHA,Pertussis,2004,-1,20986536,-4.76E-06
+1076,Ghana,GHA,Pertussis,2005,-1,21542009,-4.64E-06
+1077,Ghana,GHA,Pertussis,2006,35,22113425,0.000158275
+1078,Ghana,GHA,Pertussis,2007,487,22700212,0.002145354
+1079,Ghana,GHA,Pertussis,2008,4,23298640,1.72E-05
+1080,Ghana,GHA,Pertussis,2009,-1,23903831,-4.18E-06
+1081,Ghana,GHA,Pertussis,2010,63,24512104,0.000257016
+1082,Ghana,GHA,Pertussis,2011,-1,25121796,-3.98E-06
+1083,Ghana,GHA,Pertussis,2012,-1,25733049,-3.89E-06
+1084,Ghana,GHA,Pertussis,2013,0,26346251,0
+1085,Ghana,GHA,Pertussis,2014,0,26962563,0
+1086,Ghana,GHA,Pertussis,2015,21,27582821,7.61E-05
+1087,Ghana,GHA,Pertussis,2016,123,28206728,0.000436066
+1088,Guinea,GIN,Pertussis,2000,247,8808546,0.002804095
+1089,Guinea,GIN,Pertussis,2001,267,8971139,0.002976211
+1090,Guinea,GIN,Pertussis,2002,81,9137345,0.000886472
+1091,Guinea,GIN,Pertussis,2003,108,9309848,0.001160062
+1092,Guinea,GIN,Pertussis,2004,52,9490229,0.000547932
+1093,Guinea,GIN,Pertussis,2005,15,9679745,0.000154963
+1094,Guinea,GIN,Pertussis,2006,38,9881428,0.00038456
+1095,Guinea,GIN,Pertussis,2007,0,10096727,0
+1096,Guinea,GIN,Pertussis,2008,0,10323142,0
+1097,Guinea,GIN,Pertussis,2009,25,10556524,0.00023682
+1098,Guinea,GIN,Pertussis,2010,0,10794170,0
+1099,Guinea,GIN,Pertussis,2011,-1,11035170,-9.06E-06
+1100,Guinea,GIN,Pertussis,2012,-1,11281469,-8.86E-06
+1101,Guinea,GIN,Pertussis,2013,0,11536615,0
+1102,Guinea,GIN,Pertussis,2014,-1,11805509,-8.47E-06
+1103,Guinea,GIN,Pertussis,2015,-1,12091533,-8.27E-06
+1104,Guinea,GIN,Pertussis,2016,0,12395924,0
+1105,Gambia (the),GMB,Pertussis,2000,0,1231844,0
+1106,Gambia (the),GMB,Pertussis,2001,0,1270495,0
+1107,Gambia (the),GMB,Pertussis,2002,0,1311349,0
+1108,Gambia (the),GMB,Pertussis,2003,0,1354194,0
+1109,Gambia (the),GMB,Pertussis,2004,0,1398573,0
+1110,Gambia (the),GMB,Pertussis,2005,0,1444204,0
+1111,Gambia (the),GMB,Pertussis,2006,0,1491021,0
+1112,Gambia (the),GMB,Pertussis,2007,0,1539116,0
+1113,Gambia (the),GMB,Pertussis,2008,0,1588572,0
+1114,Gambia (the),GMB,Pertussis,2009,0,1639560,0
+1115,Gambia (the),GMB,Pertussis,2010,0,1692149,0
+1116,Gambia (the),GMB,Pertussis,2011,0,1746363,0
+1117,Gambia (the),GMB,Pertussis,2012,0,1802125,0
+1118,Gambia (the),GMB,Pertussis,2013,0,1859324,0
+1119,Gambia (the),GMB,Pertussis,2014,0,1917852,0
+1120,Gambia (the),GMB,Pertussis,2015,0,1977590,0
+1121,Gambia (the),GMB,Pertussis,2016,0,2038501,0
+1122,Guinea-Bissau,GNB,Pertussis,2000,-1,1243229,-8.04E-05
+1123,Guinea-Bissau,GNB,Pertussis,2001,41,1267512,0.003234683
+1124,Guinea-Bissau,GNB,Pertussis,2002,4,1293523,0.000309233
+1125,Guinea-Bissau,GNB,Pertussis,2003,16,1321202,0.001211018
+1126,Guinea-Bissau,GNB,Pertussis,2004,2,1350345,0.00014811
+1127,Guinea-Bissau,GNB,Pertussis,2005,-1,1380838,-7.24E-05
+1128,Guinea-Bissau,GNB,Pertussis,2006,15,1412669,0.00106182
+1129,Guinea-Bissau,GNB,Pertussis,2007,0,1445958,0
+1130,Guinea-Bissau,GNB,Pertussis,2008,0,1480841,0
+1131,Guinea-Bissau,GNB,Pertussis,2009,0,1517448,0
+1132,Guinea-Bissau,GNB,Pertussis,2010,0,1555880,0
+1133,Guinea-Bissau,GNB,Pertussis,2011,0,1596154,0
+1134,Guinea-Bissau,GNB,Pertussis,2012,0,1638139,0
+1135,Guinea-Bissau,GNB,Pertussis,2013,0,1681495,0
+1136,Guinea-Bissau,GNB,Pertussis,2014,0,1725744,0
+1137,Guinea-Bissau,GNB,Pertussis,2015,0,1770526,0
+1138,Guinea-Bissau,GNB,Pertussis,2016,0,1815698,0
+1139,Equatorial Guinea,GNQ,Pertussis,2000,-1,614323,-0.000162781
+1140,Equatorial Guinea,GNQ,Pertussis,2001,0,639762,0
+1141,Equatorial Guinea,GNQ,Pertussis,2002,0,666407,0
+1142,Equatorial Guinea,GNQ,Pertussis,2003,-1,694611,-0.000143965
+1143,Equatorial Guinea,GNQ,Pertussis,2004,-1,724817,-0.000137966
+1144,Equatorial Guinea,GNQ,Pertussis,2005,-1,757317,-0.000132045
+1145,Equatorial Guinea,GNQ,Pertussis,2006,-1,792217,-0.000126228
+1146,Equatorial Guinea,GNQ,Pertussis,2007,-1,829327,-0.00012058
+1147,Equatorial Guinea,GNQ,Pertussis,2008,-1,868418,-0.000115152
+1148,Equatorial Guinea,GNQ,Pertussis,2009,-1,909111,-0.000109998
+1149,Equatorial Guinea,GNQ,Pertussis,2010,-1,951104,-0.000105141
+1150,Equatorial Guinea,GNQ,Pertussis,2011,0,994290,0
+1151,Equatorial Guinea,GNQ,Pertussis,2012,0,1038593,0
+1152,Equatorial Guinea,GNQ,Pertussis,2013,0,1083746,0
+1153,Equatorial Guinea,GNQ,Pertussis,2014,0,1129424,0
+1154,Equatorial Guinea,GNQ,Pertussis,2015,0,1175389,0
+1155,Equatorial Guinea,GNQ,Pertussis,2016,0,1221490,0
+1156,Greece,GRC,Pertussis,2000,13,10805808,0.000120306
+1157,Greece,GRC,Pertussis,2001,93,10862132,0.000856186
+1158,Greece,GRC,Pertussis,2002,16,10902022,0.000146762
+1159,Greece,GRC,Pertussis,2003,-1,10928070,-9.15E-06
+1160,Greece,GRC,Pertussis,2004,23,10955141,0.000209947
+1161,Greece,GRC,Pertussis,2005,24,10987314,0.000218434
+1162,Greece,GRC,Pertussis,2006,-1,11020362,-9.07E-06
+1163,Greece,GRC,Pertussis,2007,29,11048473,0.00026248
+1164,Greece,GRC,Pertussis,2008,22,11077841,0.000198595
+1165,Greece,GRC,Pertussis,2009,27,11107017,0.00024309
+1166,Greece,GRC,Pertussis,2010,64,11121341,0.00057547
+1167,Greece,GRC,Pertussis,2011,3,11104899,2.70E-05
+1168,Greece,GRC,Pertussis,2012,56,11045011,0.000507016
+1169,Greece,GRC,Pertussis,2013,28,10965211,0.000255353
+1170,Greece,GRC,Pertussis,2014,16,10892413,0.000146891
+1171,Greece,GRC,Pertussis,2015,17,10820883,0.000157104
+1172,Greece,GRC,Pertussis,2016,87,10746740,0.000809548
+1173,Grenada,GRD,Pertussis,2000,1,101619,0.000984068
+1174,Grenada,GRD,Pertussis,2001,0,101849,0
+1175,Grenada,GRD,Pertussis,2002,0,102100,0
+1176,Grenada,GRD,Pertussis,2003,0,102375,0
+1177,Grenada,GRD,Pertussis,2004,0,102656,0
+1178,Grenada,GRD,Pertussis,2005,0,102949,0
+1179,Grenada,GRD,Pertussis,2006,0,103259,0
+1180,Grenada,GRD,Pertussis,2007,0,103586,0
+1181,Grenada,GRD,Pertussis,2008,0,103930,0
+1182,Grenada,GRD,Pertussis,2009,0,104296,0
+1183,Grenada,GRD,Pertussis,2010,0,104677,0
+1184,Grenada,GRD,Pertussis,2011,0,105075,0
+1185,Grenada,GRD,Pertussis,2012,0,105481,0
+1186,Grenada,GRD,Pertussis,2013,0,105909,0
+1187,Grenada,GRD,Pertussis,2014,0,106360,0
+1188,Grenada,GRD,Pertussis,2015,0,106823,0
+1189,Grenada,GRD,Pertussis,2016,0,107317,0
+1190,Guatemala,GTM,Pertussis,2000,146,11650743,0.001253139
+1191,Guatemala,GTM,Pertussis,2001,229,11924946,0.001920344
+1192,Guatemala,GTM,Pertussis,2002,50,12208848,0.000409539
+1193,Guatemala,GTM,Pertussis,2003,350,12500478,0.002799893
+1194,Guatemala,GTM,Pertussis,2004,391,12796925,0.003055422
+1195,Guatemala,GTM,Pertussis,2005,0,13096028,0
+1196,Guatemala,GTM,Pertussis,2006,48,13397008,0.000358289
+1197,Guatemala,GTM,Pertussis,2007,97,13700286,0.000708014
+1198,Guatemala,GTM,Pertussis,2008,60,14006366,0.000428377
+1199,Guatemala,GTM,Pertussis,2009,0,14316208,0
+1200,Guatemala,GTM,Pertussis,2010,0,14630417,0
+1201,Guatemala,GTM,Pertussis,2011,0,14948919,0
+1202,Guatemala,GTM,Pertussis,2012,273,15271056,0.001787696
+1203,Guatemala,GTM,Pertussis,2013,34,15596214,0.000218002
+1204,Guatemala,GTM,Pertussis,2014,25,15923559,0.000157
+1205,Guatemala,GTM,Pertussis,2015,83,16252429,0.000510693
+1206,Guatemala,GTM,Pertussis,2016,152,16582469,0.000916631
+1207,Guyana,GUY,Pertussis,2000,0,753301,0
+1208,Guyana,GUY,Pertussis,2001,0,752263,0
+1209,Guyana,GUY,Pertussis,2002,212,751884,0.028195839
+1210,Guyana,GUY,Pertussis,2003,0,751857,0
+1211,Guyana,GUY,Pertussis,2004,0,751652,0
+1212,Guyana,GUY,Pertussis,2005,0,750946,0
+1213,Guyana,GUY,Pertussis,2006,0,749601,0
+1214,Guyana,GUY,Pertussis,2007,3,747869,0.00040114
+1215,Guyana,GUY,Pertussis,2008,0,746314,0
+1216,Guyana,GUY,Pertussis,2009,0,745693,0
+1217,Guyana,GUY,Pertussis,2010,0,746556,0
+1218,Guyana,GUY,Pertussis,2011,0,749100,0
+1219,Guyana,GUY,Pertussis,2012,0,753091,0
+1220,Guyana,GUY,Pertussis,2013,0,758081,0
+1221,Guyana,GUY,Pertussis,2014,0,763393,0
+1222,Guyana,GUY,Pertussis,2015,0,768514,0
+1223,Guyana,GUY,Pertussis,2016,0,773303,0
+1224,Honduras,HND,Pertussis,2000,169,6524283,0.002590323
+1225,Honduras,HND,Pertussis,2001,37,6693061,0.000552811
+1226,Honduras,HND,Pertussis,2002,69,6863157,0.001005368
+1227,Honduras,HND,Pertussis,2003,93,7033821,0.001322183
+1228,Honduras,HND,Pertussis,2004,104,7204153,0.001443612
+1229,Honduras,HND,Pertussis,2005,134,7373430,0.001817336
+1230,Honduras,HND,Pertussis,2006,138,7541406,0.001829898
+1231,Honduras,HND,Pertussis,2007,71,7707972,0.000921124
+1232,Honduras,HND,Pertussis,2008,224,7872658,0.002845291
+1233,Honduras,HND,Pertussis,2009,127,8035021,0.001580581
+1234,Honduras,HND,Pertussis,2010,135,8194778,0.001647391
+1235,Honduras,HND,Pertussis,2011,113,8351600,0.001353034
+1236,Honduras,HND,Pertussis,2012,48,8505646,0.000564331
+1237,Honduras,HND,Pertussis,2013,25,8657785,0.000288757
+1238,Honduras,HND,Pertussis,2014,41,8809216,0.000465422
+1239,Honduras,HND,Pertussis,2015,30,8960829,0.00033479
+1240,Honduras,HND,Pertussis,2016,151,9112867,0.001656998
+1241,Croatia,HRV,Pertussis,2000,196,4426000,0.004428378
+1242,Croatia,HRV,Pertussis,2001,130,4440000,0.002927928
+1243,Croatia,HRV,Pertussis,2002,176,4440000,0.003963964
+1244,Croatia,HRV,Pertussis,2003,94,4440000,0.002117117
+1245,Croatia,HRV,Pertussis,2004,197,4439000,0.004437936
+1246,Croatia,HRV,Pertussis,2005,124,4442000,0.002791535
+1247,Croatia,HRV,Pertussis,2006,80,4440000,0.001801802
+1248,Croatia,HRV,Pertussis,2007,123,4436000,0.002772768
+1249,Croatia,HRV,Pertussis,2008,102,4434508,0.002300142
+1250,Croatia,HRV,Pertussis,2009,101,4429078,0.002280384
+1251,Croatia,HRV,Pertussis,2010,42,4417781,0.000950704
+1252,Croatia,HRV,Pertussis,2011,103,4280622,0.002406192
+1253,Croatia,HRV,Pertussis,2012,61,4267558,0.001429389
+1254,Croatia,HRV,Pertussis,2013,108,4255689,0.002537779
+1255,Croatia,HRV,Pertussis,2014,-1,4238389,-2.36E-05
+1256,Croatia,HRV,Pertussis,2015,57,4203604,0.001355979
+1257,Croatia,HRV,Pertussis,2016,122,4170600,0.002925239
+1258,Haiti,HTI,Pertussis,2000,14,8549200,0.000163758
+1259,Haiti,HTI,Pertussis,2001,30,8692567,0.000345122
+1260,Haiti,HTI,Pertussis,2002,2,8834733,2.26E-05
+1261,Haiti,HTI,Pertussis,2003,5,8976552,5.57E-05
+1262,Haiti,HTI,Pertussis,2004,44,9119178,0.0004825
+1263,Haiti,HTI,Pertussis,2005,496,9263404,0.005354403
+1264,Haiti,HTI,Pertussis,2006,-1,9409457,-1.06E-05
+1265,Haiti,HTI,Pertussis,2007,824,9556889,0.008622053
+1266,Haiti,HTI,Pertussis,2008,696,9705029,0.00717154
+1267,Haiti,HTI,Pertussis,2009,4,9852870,4.06E-05
+1268,Haiti,HTI,Pertussis,2010,13,9999617,0.000130005
+1269,Haiti,HTI,Pertussis,2011,0,10145054,0
+1270,Haiti,HTI,Pertussis,2012,0,10289210,0
+1271,Haiti,HTI,Pertussis,2013,0,10431776,0
+1272,Haiti,HTI,Pertussis,2014,2,10572466,1.89E-05
+1273,Haiti,HTI,Pertussis,2015,4,10711061,3.73E-05
+1274,Haiti,HTI,Pertussis,2016,-1,10847334,-9.22E-06
+1275,Hungary,HUN,Pertussis,2000,1,10210971,9.79E-06
+1276,Hungary,HUN,Pertussis,2001,1,10187576,9.82E-06
+1277,Hungary,HUN,Pertussis,2002,6,10158608,5.91E-05
+1278,Hungary,HUN,Pertussis,2003,29,10129552,0.000286291
+1279,Hungary,HUN,Pertussis,2004,31,10107146,0.000306714
+1280,Hungary,HUN,Pertussis,2005,22,10087065,0.000218101
+1281,Hungary,HUN,Pertussis,2006,17,10071370,0.000168795
+1282,Hungary,HUN,Pertussis,2007,48,10055780,0.000477337
+1283,Hungary,HUN,Pertussis,2008,33,10038188,0.000328745
+1284,Hungary,HUN,Pertussis,2009,33,10022650,0.000329254
+1285,Hungary,HUN,Pertussis,2010,25,10000023,0.000249999
+1286,Hungary,HUN,Pertussis,2011,9,9971727,9.03E-05
+1287,Hungary,HUN,Pertussis,2012,5,9920362,5.04E-05
+1288,Hungary,HUN,Pertussis,2013,20,9893082,0.000202161
+1289,Hungary,HUN,Pertussis,2014,20,9866468,0.000202707
+1290,Hungary,HUN,Pertussis,2015,6,9843028,6.10E-05
+1291,Hungary,HUN,Pertussis,2016,5,9817958,5.09E-05
+1292,Indonesia,IDN,Pertussis,2000,142,211540429,6.71E-05
+1293,Indonesia,IDN,Pertussis,2001,1025,214506502,0.000477841
+1294,Indonesia,IDN,Pertussis,2002,2113,217508059,0.000971458
+1295,Indonesia,IDN,Pertussis,2003,4364,220545214,0.001978733
+1296,Indonesia,IDN,Pertussis,2004,1547,223614649,0.000691815
+1297,Indonesia,IDN,Pertussis,2005,8897,226712730,0.00392435
+1298,Indonesia,IDN,Pertussis,2006,3356,229838202,0.001460158
+1299,Indonesia,IDN,Pertussis,2007,-1,232989141,-4.29E-07
+1300,Indonesia,IDN,Pertussis,2008,-1,236159276,-4.23E-07
+1301,Indonesia,IDN,Pertussis,2009,973,239340478,0.000406534
+1302,Indonesia,IDN,Pertussis,2010,-1,242524123,-4.12E-07
+1303,Indonesia,IDN,Pertussis,2011,1941,245707511,0.000789964
+1304,Indonesia,IDN,Pertussis,2012,-1,248883232,-4.02E-07
+1305,Indonesia,IDN,Pertussis,2013,2976,252032263,0.001180801
+1306,Indonesia,IDN,Pertussis,2014,2082,255131116,0.000816051
+1307,Indonesia,IDN,Pertussis,2015,-1,258162113,-3.87E-07
+1308,Indonesia,IDN,Pertussis,2016,826,261115456,0.000316335
+1309,India,IND,Pertussis,2000,31431,1053050912,0.002984756
+1310,India,IND,Pertussis,2001,34703,1071477855,0.003238798
+1311,India,IND,Pertussis,2002,33289,1089807112,0.003054577
+1312,India,IND,Pertussis,2003,33954,1108027848,0.003064363
+1313,India,IND,Pertussis,2004,32786,1126135777,0.002911372
+1314,India,IND,Pertussis,2005,31122,1144118674,0.002720172
+1315,India,IND,Pertussis,2006,30088,1161977719,0.002589378
+1316,India,IND,Pertussis,2007,46674,1179681239,0.003956493
+1317,India,IND,Pertussis,2008,43697,1197146906,0.003650095
+1318,India,IND,Pertussis,2009,60385,1214270132,0.004972946
+1319,India,IND,Pertussis,2010,40508,1230980691,0.00329071
+1320,India,IND,Pertussis,2011,39091,1247236029,0.00313421
+1321,India,IND,Pertussis,2012,44154,1263065852,0.00349578
+1322,India,IND,Pertussis,2013,31089,1278562207,0.002431559
+1323,India,IND,Pertussis,2014,46706,1293859294,0.003609821
+1324,India,IND,Pertussis,2015,25206,1309053980,0.001925513
+1325,India,IND,Pertussis,2016,37274,1324171354,0.002814892
+1326,Ireland,IRL,Pertussis,2000,-1,3805174,-2.63E-05
+1327,Ireland,IRL,Pertussis,2001,142,3866243,0.003672816
+1328,Ireland,IRL,Pertussis,2002,131,3931947,0.003331683
+1329,Ireland,IRL,Pertussis,2003,40,3996521,0.001000871
+1330,Ireland,IRL,Pertussis,2004,90,4070262,0.00221116
+1331,Ireland,IRL,Pertussis,2005,84,4159914,0.002019273
+1332,Ireland,IRL,Pertussis,2006,62,4273591,0.001450771
+1333,Ireland,IRL,Pertussis,2007,78,4398942,0.001773154
+1334,Ireland,IRL,Pertussis,2008,102,4489544,0.002271946
+1335,Ireland,IRL,Pertussis,2009,80,4535375,0.001763911
+1336,Ireland,IRL,Pertussis,2010,107,4560155,0.002346411
+1337,Ireland,IRL,Pertussis,2011,229,4576794,0.005003502
+1338,Ireland,IRL,Pertussis,2012,458,4586897,0.009984964
+1339,Ireland,IRL,Pertussis,2013,175,4598294,0.003805759
+1340,Ireland,IRL,Pertussis,2014,73,4617225,0.001581036
+1341,Ireland,IRL,Pertussis,2015,118,4676835,0.002523074
+1342,Ireland,IRL,Pertussis,2016,-1,4773095,-2.10E-05
+1343,Iran (Islamic Republic of),IRN,Pertussis,2000,94,66131854,0.00014214
+1344,Iran (Islamic Republic of),IRN,Pertussis,2001,112,67096414,0.000166924
+1345,Iran (Islamic Republic of),IRN,Pertussis,2002,21,67983330,3.09E-05
+1346,Iran (Islamic Republic of),IRN,Pertussis,2003,81,68812713,0.000117711
+1347,Iran (Islamic Republic of),IRN,Pertussis,2004,98,69617100,0.00014077
+1348,Iran (Islamic Republic of),IRN,Pertussis,2005,125,70421811,0.000177502
+1349,Iran (Islamic Republic of),IRN,Pertussis,2006,89,71227880,0.000124951
+1350,Iran (Islamic Republic of),IRN,Pertussis,2007,267,72031103,0.000370673
+1351,Iran (Islamic Republic of),IRN,Pertussis,2008,605,72845542,0.000830524
+1352,Iran (Islamic Republic of),IRN,Pertussis,2009,590,73687565,0.000800678
+1353,Iran (Islamic Republic of),IRN,Pertussis,2010,464,74567511,0.000622255
+1354,Iran (Islamic Republic of),IRN,Pertussis,2011,650,75491582,0.000861023
+1355,Iran (Islamic Republic of),IRN,Pertussis,2012,1329,76453574,0.00173831
+1356,Iran (Islamic Republic of),IRN,Pertussis,2013,1415,77435384,0.00182733
+1357,Iran (Islamic Republic of),IRN,Pertussis,2014,115,78411092,0.000146663
+1358,Iran (Islamic Republic of),IRN,Pertussis,2015,145,79360487,0.000182711
+1359,Iran (Islamic Republic of),IRN,Pertussis,2016,116,80277428,0.000144499
+1360,Iraq,IRQ,Pertussis,2000,407,23565413,0.001727107
+1361,Iraq,IRQ,Pertussis,2001,2922,24251649,0.012048665
+1362,Iraq,IRQ,Pertussis,2002,-1,24939299,-4.01E-06
+1363,Iraq,IRQ,Pertussis,2003,-1,25627626,-3.90E-06
+1364,Iraq,IRQ,Pertussis,2004,78249,26316609,0.29733694
+1365,Iraq,IRQ,Pertussis,2005,1050,27008426,0.003887676
+1366,Iraq,IRQ,Pertussis,2006,3128,27697912,0.01129327
+1367,Iraq,IRQ,Pertussis,2007,3140,28390433,0.011060064
+1368,Iraq,IRQ,Pertussis,2008,2311,29111417,0.007938466
+1369,Iraq,IRQ,Pertussis,2009,5471,29894652,0.018300932
+1370,Iraq,IRQ,Pertussis,2010,2034,30762701,0.006611903
+1371,Iraq,IRQ,Pertussis,2011,2019,31727053,0.006363654
+1372,Iraq,IRQ,Pertussis,2012,2314,32776571,0.007059921
+1373,Iraq,IRQ,Pertussis,2013,2471,33883145,0.007292711
+1374,Iraq,IRQ,Pertussis,2014,1606,35006080,0.004587774
+1375,Iraq,IRQ,Pertussis,2015,529,36115649,0.001464739
+1376,Iraq,IRQ,Pertussis,2016,1014,37202572,0.002725618
+1377,Iceland,ISL,Pertussis,2000,8,281205,0.0028449
+1378,Iceland,ISL,Pertussis,2001,3,284968,0.00105275
+1379,Iceland,ISL,Pertussis,2002,-1,287523,-0.000347798
+1380,Iceland,ISL,Pertussis,2003,3,289521,0.001036194
+1381,Iceland,ISL,Pertussis,2004,1,292074,0.000342379
+1382,Iceland,ISL,Pertussis,2005,6,296734,0.002022013
+1383,Iceland,ISL,Pertussis,2006,3,303782,0.00098755
+1384,Iceland,ISL,Pertussis,2007,4,311566,0.001283837
+1385,Iceland,ISL,Pertussis,2008,2,317414,0.000630092
+1386,Iceland,ISL,Pertussis,2009,0,318499,0
+1387,Iceland,ISL,Pertussis,2010,0,318041,0
+1388,Iceland,ISL,Pertussis,2011,0,319014,0
+1389,Iceland,ISL,Pertussis,2012,36,320716,0.011224884
+1390,Iceland,ISL,Pertussis,2013,31,323764,0.009574876
+1391,Iceland,ISL,Pertussis,2014,1,327386,0.00030545
+1392,Iceland,ISL,Pertussis,2015,4,330815,0.001209135
+1393,Iceland,ISL,Pertussis,2016,14,334252,0.004188457
+1394,Israel,ISR,Pertussis,2000,452,6289000,0.007187152
+1395,Israel,ISR,Pertussis,2001,570,6439000,0.008852306
+1396,Israel,ISR,Pertussis,2002,550,6570000,0.008371385
+1397,Israel,ISR,Pertussis,2003,970,6689700,0.014499903
+1398,Israel,ISR,Pertussis,2004,1653,6809000,0.024276693
+1399,Israel,ISR,Pertussis,2005,357,6930100,0.005151441
+1400,Israel,ISR,Pertussis,2006,1495,7053700,0.02119455
+1401,Israel,ISR,Pertussis,2007,2635,7180100,0.036698653
+1402,Israel,ISR,Pertussis,2008,2169,7308800,0.029676554
+1403,Israel,ISR,Pertussis,2009,1182,7485600,0.015790317
+1404,Israel,ISR,Pertussis,2010,1244,7623600,0.01631775
+1405,Israel,ISR,Pertussis,2011,2345,7765800,0.030196503
+1406,Israel,ISR,Pertussis,2012,2730,7910500,0.034511093
+1407,Israel,ISR,Pertussis,2013,1394,8059500,0.017296358
+1408,Israel,ISR,Pertussis,2014,1509,8215700,0.018367272
+1409,Israel,ISR,Pertussis,2015,5338,8380100,0.063698524
+1410,Israel,ISR,Pertussis,2016,1143,8547100,0.013372957
+1411,Italy,ITA,Pertussis,2000,2543,56942108,0.004465939
+1412,Italy,ITA,Pertussis,2001,-1,56974100,-1.76E-06
+1413,Italy,ITA,Pertussis,2002,1953,57059007,0.003422772
+1414,Italy,ITA,Pertussis,2003,840,57313203,0.001465631
+1415,Italy,ITA,Pertussis,2004,763,57685327,0.001322693
+1416,Italy,ITA,Pertussis,2005,403,57969484,0.000695193
+1417,Italy,ITA,Pertussis,2006,545,58143979,0.000937328
+1418,Italy,ITA,Pertussis,2007,474,58438310,0.000811112
+1419,Italy,ITA,Pertussis,2008,174,58826731,0.000295784
+1420,Italy,ITA,Pertussis,2009,315,59095365,0.000533037
+1421,Italy,ITA,Pertussis,2010,187,59277417,0.000315466
+1422,Italy,ITA,Pertussis,2011,302,59379449,0.000508593
+1423,Italy,ITA,Pertussis,2012,225,59539717,0.000377899
+1424,Italy,ITA,Pertussis,2013,-1,60233948,-1.66E-06
+1425,Italy,ITA,Pertussis,2014,-1,60789140,-1.65E-06
+1426,Italy,ITA,Pertussis,2015,-1,60730582,-1.65E-06
+1427,Italy,ITA,Pertussis,2016,-1,60600590,-1.65E-06
+1428,Jamaica,JAM,Pertussis,2000,23,2656864,0.000865682
+1429,Jamaica,JAM,Pertussis,2001,7,2677011,0.000261486
+1430,Jamaica,JAM,Pertussis,2002,2,2695446,7.42E-05
+1431,Jamaica,JAM,Pertussis,2003,5,2712511,0.000184331
+1432,Jamaica,JAM,Pertussis,2004,5,2728777,0.000183232
+1433,Jamaica,JAM,Pertussis,2005,8,2744673,0.000291474
+1434,Jamaica,JAM,Pertussis,2006,1,2760279,3.62E-05
+1435,Jamaica,JAM,Pertussis,2007,0,2775467,0
+1436,Jamaica,JAM,Pertussis,2008,0,2790122,0
+1437,Jamaica,JAM,Pertussis,2009,0,2804082,0
+1438,Jamaica,JAM,Pertussis,2010,0,2817210,0
+1439,Jamaica,JAM,Pertussis,2011,1,2829493,3.53E-05
+1440,Jamaica,JAM,Pertussis,2012,2,2840992,7.04E-05
+1441,Jamaica,JAM,Pertussis,2013,2,2851807,7.01E-05
+1442,Jamaica,JAM,Pertussis,2014,0,2862087,0
+1443,Jamaica,JAM,Pertussis,2015,0,2871934,0
+1444,Jamaica,JAM,Pertussis,2016,0,2881355,0
+1445,Jordan,JOR,Pertussis,2000,5,5103130,9.80E-05
+1446,Jordan,JOR,Pertussis,2001,3,5193482,5.78E-05
+1447,Jordan,JOR,Pertussis,2002,2,5287488,3.78E-05
+1448,Jordan,JOR,Pertussis,2003,3,5396774,5.56E-05
+1449,Jordan,JOR,Pertussis,2004,4,5535595,7.23E-05
+1450,Jordan,JOR,Pertussis,2005,1,5714111,1.75E-05
+1451,Jordan,JOR,Pertussis,2006,1,5934232,1.69E-05
+1452,Jordan,JOR,Pertussis,2007,1,6193191,1.61E-05
+1453,Jordan,JOR,Pertussis,2008,0,6489822,0
+1454,Jordan,JOR,Pertussis,2009,6,6821116,8.80E-05
+1455,Jordan,JOR,Pertussis,2010,0,7182390,0
+1456,Jordan,JOR,Pertussis,2011,0,7574943,0
+1457,Jordan,JOR,Pertussis,2012,4,7992573,5.00E-05
+1458,Jordan,JOR,Pertussis,2013,3,8413464,3.57E-05
+1459,Jordan,JOR,Pertussis,2014,5,8809306,5.68E-05
+1460,Jordan,JOR,Pertussis,2015,0,9159302,0
+1461,Jordan,JOR,Pertussis,2016,8,9455802,8.46E-05
+1462,Japan,JPN,Pertussis,2000,3787,126843000,0.002985581
+1463,Japan,JPN,Pertussis,2001,3804,127149000,0.002991766
+1464,Japan,JPN,Pertussis,2002,11740,127445000,0.009211817
+1465,Japan,JPN,Pertussis,2003,1534,127718000,0.001201084
+1466,Japan,JPN,Pertussis,2004,1534,127761000,0.001200679
+1467,Japan,JPN,Pertussis,2005,-1,127773000,-7.83E-07
+1468,Japan,JPN,Pertussis,2006,1504,127854000,0.001176342
+1469,Japan,JPN,Pertussis,2007,-1,128001000,-7.81E-07
+1470,Japan,JPN,Pertussis,2008,6753,128063000,0.005273186
+1471,Japan,JPN,Pertussis,2009,5208,128047000,0.004067257
+1472,Japan,JPN,Pertussis,2010,5406,128070000,0.004221129
+1473,Japan,JPN,Pertussis,2011,4395,127833000,0.003438079
+1474,Japan,JPN,Pertussis,2012,4087,127629000,0.00320225
+1475,Japan,JPN,Pertussis,2013,1663,127445000,0.001304877
+1476,Japan,JPN,Pertussis,2014,2066,127276000,0.001623244
+1477,Japan,JPN,Pertussis,2015,2675,127141000,0.002103963
+1478,Japan,JPN,Pertussis,2016,3011,126994511,0.002370969
+1479,Kazakhstan,KAZ,Pertussis,2000,87,14883626,0.000584535
+1480,Kazakhstan,KAZ,Pertussis,2001,71,14858335,0.000477846
+1481,Kazakhstan,KAZ,Pertussis,2002,30,14858948,0.000201899
+1482,Kazakhstan,KAZ,Pertussis,2003,12,14909018,8.05E-05
+1483,Kazakhstan,KAZ,Pertussis,2004,57,15012985,0.000379671
+1484,Kazakhstan,KAZ,Pertussis,2005,222,15147029,0.001465634
+1485,Kazakhstan,KAZ,Pertussis,2006,120,15308084,0.0007839
+1486,Kazakhstan,KAZ,Pertussis,2007,69,15484192,0.000445616
+1487,Kazakhstan,KAZ,Pertussis,2008,45,15674000,0.0002871
+1488,Kazakhstan,KAZ,Pertussis,2009,39,16092701,0.000242346
+1489,Kazakhstan,KAZ,Pertussis,2010,35,16321581,0.00021444
+1490,Kazakhstan,KAZ,Pertussis,2011,66,16556600,0.000398633
+1491,Kazakhstan,KAZ,Pertussis,2012,43,16791425,0.000256083
+1492,Kazakhstan,KAZ,Pertussis,2013,14,17035275,8.22E-05
+1493,Kazakhstan,KAZ,Pertussis,2014,23,17289224,0.000133031
+1494,Kazakhstan,KAZ,Pertussis,2015,74,17544126,0.000421794
+1495,Kazakhstan,KAZ,Pertussis,2016,32,17797032,0.000179805
+1496,Kenya,KEN,Pertussis,2000,424,31450483,0.001348151
+1497,Kenya,KEN,Pertussis,2001,285,32321482,0.000881766
+1498,Kenya,KEN,Pertussis,2002,300,33214009,0.000903233
+1499,Kenya,KEN,Pertussis,2003,0,34130852,0
+1500,Kenya,KEN,Pertussis,2004,-1,35074931,-2.85E-06
+1501,Kenya,KEN,Pertussis,2005,-1,36048288,-2.77E-06
+1502,Kenya,KEN,Pertussis,2006,-1,37052050,-2.70E-06
+1503,Kenya,KEN,Pertussis,2007,-1,38085909,-2.63E-06
+1504,Kenya,KEN,Pertussis,2008,-1,39148416,-2.55E-06
+1505,Kenya,KEN,Pertussis,2009,-1,40237204,-2.49E-06
+1506,Kenya,KEN,Pertussis,2010,-1,41350152,-2.42E-06
+1507,Kenya,KEN,Pertussis,2011,-1,42486839,-2.35E-06
+1508,Kenya,KEN,Pertussis,2012,-1,43646629,-2.29E-06
+1509,Kenya,KEN,Pertussis,2013,-1,44826849,-2.23E-06
+1510,Kenya,KEN,Pertussis,2014,-1,46024250,-2.17E-06
+1511,Kenya,KEN,Pertussis,2015,-1,47236259,-2.12E-06
+1512,Kenya,KEN,Pertussis,2016,3,48461567,6.19E-06
+1513,Kyrgyzstan,KGZ,Pertussis,2000,34,4898400,0.000694104
+1514,Kyrgyzstan,KGZ,Pertussis,2001,136,4945100,0.002750197
+1515,Kyrgyzstan,KGZ,Pertussis,2002,32,4990700,0.000641193
+1516,Kyrgyzstan,KGZ,Pertussis,2003,9,5043300,0.000178455
+1517,Kyrgyzstan,KGZ,Pertussis,2004,9,5104700,0.000176308
+1518,Kyrgyzstan,KGZ,Pertussis,2005,91,5162600,0.001762678
+1519,Kyrgyzstan,KGZ,Pertussis,2006,56,5218400,0.001073126
+1520,Kyrgyzstan,KGZ,Pertussis,2007,71,5268400,0.001347658
+1521,Kyrgyzstan,KGZ,Pertussis,2008,45,5318700,0.000846071
+1522,Kyrgyzstan,KGZ,Pertussis,2009,224,5383300,0.004161016
+1523,Kyrgyzstan,KGZ,Pertussis,2010,109,5447900,0.002000771
+1524,Kyrgyzstan,KGZ,Pertussis,2011,77,5514600,0.001396293
+1525,Kyrgyzstan,KGZ,Pertussis,2012,62,5607200,0.001105721
+1526,Kyrgyzstan,KGZ,Pertussis,2013,90,5719600,0.001573537
+1527,Kyrgyzstan,KGZ,Pertussis,2014,-1,5835500,-1.71E-05
+1528,Kyrgyzstan,KGZ,Pertussis,2015,-1,5956900,-1.68E-05
+1529,Kyrgyzstan,KGZ,Pertussis,2016,195,6082700,0.003205813
+1530,Cambodia,KHM,Pertussis,2000,2068,12152354,0.017017279
+1531,Cambodia,KHM,Pertussis,2001,4714,12402473,0.038008549
+1532,Cambodia,KHM,Pertussis,2002,320,12634729,0.002532702
+1533,Cambodia,KHM,Pertussis,2003,315,12853124,0.002450766
+1534,Cambodia,KHM,Pertussis,2004,66,13063377,0.000505229
+1535,Cambodia,KHM,Pertussis,2005,462,13270201,0.003481485
+1536,Cambodia,KHM,Pertussis,2006,474,13474489,0.003517759
+1537,Cambodia,KHM,Pertussis,2007,561,13676693,0.004101869
+1538,Cambodia,KHM,Pertussis,2008,1212,13880509,0.008731668
+1539,Cambodia,KHM,Pertussis,2009,513,14090208,0.003640826
+1540,Cambodia,KHM,Pertussis,2010,372,14308740,0.00259981
+1541,Cambodia,KHM,Pertussis,2011,-1,14537886,-6.88E-06
+1542,Cambodia,KHM,Pertussis,2012,54,14776866,0.000365436
+1543,Cambodia,KHM,Pertussis,2013,0,15022692,0
+1544,Cambodia,KHM,Pertussis,2014,3,15270790,1.96E-05
+1545,Cambodia,KHM,Pertussis,2015,10,15517635,6.44E-05
+1546,Cambodia,KHM,Pertussis,2016,9,15762370,5.71E-05
+1547,Kiribati,KIR,Pertussis,2000,0,84406,0
+1548,Kiribati,KIR,Pertussis,2001,0,85858,0
+1549,Kiribati,KIR,Pertussis,2002,0,87343,0
+1550,Kiribati,KIR,Pertussis,2003,-1,88895,-0.001124923
+1551,Kiribati,KIR,Pertussis,2004,0,90542,0
+1552,Kiribati,KIR,Pertussis,2005,0,92325,0
+1553,Kiribati,KIR,Pertussis,2006,-1,94260,-0.001060895
+1554,Kiribati,KIR,Pertussis,2007,0,96311,0
+1555,Kiribati,KIR,Pertussis,2008,0,98440,0
+1556,Kiribati,KIR,Pertussis,2009,0,100568,0
+1557,Kiribati,KIR,Pertussis,2010,0,102652,0
+1558,Kiribati,KIR,Pertussis,2011,0,104656,0
+1559,Kiribati,KIR,Pertussis,2012,0,106613,0
+1560,Kiribati,KIR,Pertussis,2013,0,108535,0
+1561,Kiribati,KIR,Pertussis,2014,0,110458,0
+1562,Kiribati,KIR,Pertussis,2015,-1,112407,-0.000889624
+1563,Kiribati,KIR,Pertussis,2016,-1,114395,-0.000874164
+1564,Saint Kitts and Nevis,KNA,Pertussis,2000,0,45374,0
+1565,Saint Kitts and Nevis,KNA,Pertussis,2001,0,45990,0
+1566,Saint Kitts and Nevis,KNA,Pertussis,2002,0,46641,0
+1567,Saint Kitts and Nevis,KNA,Pertussis,2003,0,47306,0
+1568,Saint Kitts and Nevis,KNA,Pertussis,2004,0,47971,0
+1569,Saint Kitts and Nevis,KNA,Pertussis,2005,0,48611,0
+1570,Saint Kitts and Nevis,KNA,Pertussis,2006,0,49210,0
+1571,Saint Kitts and Nevis,KNA,Pertussis,2007,0,49783,0
+1572,Saint Kitts and Nevis,KNA,Pertussis,2008,0,50332,0
+1573,Saint Kitts and Nevis,KNA,Pertussis,2009,0,50886,0
+1574,Saint Kitts and Nevis,KNA,Pertussis,2010,0,51445,0
+1575,Saint Kitts and Nevis,KNA,Pertussis,2011,0,52006,0
+1576,Saint Kitts and Nevis,KNA,Pertussis,2012,0,52591,0
+1577,Saint Kitts and Nevis,KNA,Pertussis,2013,0,53169,0
+1578,Saint Kitts and Nevis,KNA,Pertussis,2014,0,53739,0
+1579,Saint Kitts and Nevis,KNA,Pertussis,2015,0,54288,0
+1580,Saint Kitts and Nevis,KNA,Pertussis,2016,0,54821,0
+1581,Republic of Korea (the),KOR,Pertussis,2000,28,47008111,5.96E-05
+1582,Republic of Korea (the),KOR,Pertussis,2001,9,47370164,1.90E-05
+1583,Republic of Korea (the),KOR,Pertussis,2002,10,47644736,2.10E-05
+1584,Republic of Korea (the),KOR,Pertussis,2003,5,47892330,1.04E-05
+1585,Republic of Korea (the),KOR,Pertussis,2004,6,48082519,1.25E-05
+1586,Republic of Korea (the),KOR,Pertussis,2005,10,48184561,2.08E-05
+1587,Republic of Korea (the),KOR,Pertussis,2006,17,48438292,3.51E-05
+1588,Republic of Korea (the),KOR,Pertussis,2007,14,48683638,2.88E-05
+1589,Republic of Korea (the),KOR,Pertussis,2008,7,49054708,1.43E-05
+1590,Republic of Korea (the),KOR,Pertussis,2009,42,49307835,8.52E-05
+1591,Republic of Korea (the),KOR,Pertussis,2010,18,49554112,3.63E-05
+1592,Republic of Korea (the),KOR,Pertussis,2011,97,49936638,0.000194246
+1593,Republic of Korea (the),KOR,Pertussis,2012,230,50199853,0.000458169
+1594,Republic of Korea (the),KOR,Pertussis,2013,36,50428893,7.14E-05
+1595,Republic of Korea (the),KOR,Pertussis,2014,76,50746659,0.000149764
+1596,Republic of Korea (the),KOR,Pertussis,2015,205,51014947,0.000401843
+1597,Republic of Korea (the),KOR,Pertussis,2016,146,51245707,0.000284902
+1598,Kuwait,KWT,Pertussis,2000,43,2050741,0.002096803
+1599,Kuwait,KWT,Pertussis,2001,-1,2109355,-4.74E-05
+1600,Kuwait,KWT,Pertussis,2002,-1,2143833,-4.66E-05
+1601,Kuwait,KWT,Pertussis,2003,-1,2169118,-4.61E-05
+1602,Kuwait,KWT,Pertussis,2004,67,2207939,0.003034504
+1603,Kuwait,KWT,Pertussis,2005,110,2276623,0.004831718
+1604,Kuwait,KWT,Pertussis,2006,-1,2377258,-4.21E-05
+1605,Kuwait,KWT,Pertussis,2007,-1,2503410,-3.99E-05
+1606,Kuwait,KWT,Pertussis,2008,-1,2652340,-3.77E-05
+1607,Kuwait,KWT,Pertussis,2009,-1,2818939,-3.55E-05
+1608,Kuwait,KWT,Pertussis,2010,41,2998083,0.001367541
+1609,Kuwait,KWT,Pertussis,2011,16,3191051,0.000501402
+1610,Kuwait,KWT,Pertussis,2012,83,3395556,0.002444371
+1611,Kuwait,KWT,Pertussis,2013,30,3598385,0.000833707
+1612,Kuwait,KWT,Pertussis,2014,28,3782450,0.000740261
+1613,Kuwait,KWT,Pertussis,2015,35,3935794,0.000889274
+1614,Kuwait,KWT,Pertussis,2016,-1,4052584,-2.47E-05
+1615,Lao People's Democratic Republic (the),LAO,Pertussis,2000,80,5329304,0.001501134
+1616,Lao People's Democratic Republic (the),LAO,Pertussis,2001,111,5414568,0.002050025
+1617,Lao People's Democratic Republic (the),LAO,Pertussis,2002,-1,5497273,-1.82E-05
+1618,Lao People's Democratic Republic (the),LAO,Pertussis,2003,200,5579656,0.00358445
+1619,Lao People's Democratic Republic (the),LAO,Pertussis,2004,199,5664605,0.003513043
+1620,Lao People's Democratic Republic (the),LAO,Pertussis,2005,120,5754026,0.002085496
+1621,Lao People's Democratic Republic (the),LAO,Pertussis,2006,182,5849356,0.003111454
+1622,Lao People's Democratic Republic (the),LAO,Pertussis,2007,13,5949787,0.000218495
+1623,Lao People's Democratic Republic (the),LAO,Pertussis,2008,26,6052190,0.000429597
+1624,Lao People's Democratic Republic (the),LAO,Pertussis,2009,12,6152036,0.000195057
+1625,Lao People's Democratic Republic (the),LAO,Pertussis,2010,6,6246274,9.61E-05
+1626,Lao People's Democratic Republic (the),LAO,Pertussis,2011,38,6333487,0.000599985
+1627,Lao People's Democratic Republic (the),LAO,Pertussis,2012,412,6415169,0.006422278
+1628,Lao People's Democratic Republic (the),LAO,Pertussis,2013,60,6494557,0.000923851
+1629,Lao People's Democratic Republic (the),LAO,Pertussis,2014,-1,6576397,-1.52E-05
+1630,Lao People's Democratic Republic (the),LAO,Pertussis,2015,140,6663967,0.002100851
+1631,Lao People's Democratic Republic (the),LAO,Pertussis,2016,9,6758353,0.000133169
+1632,Lebanon,LBN,Pertussis,2000,1,3235366,3.09E-05
+1633,Lebanon,LBN,Pertussis,2001,7,3359859,0.000208342
+1634,Lebanon,LBN,Pertussis,2002,51,3522837,0.001447697
+1635,Lebanon,LBN,Pertussis,2003,28,3701464,0.000756457
+1636,Lebanon,LBN,Pertussis,2004,21,3863267,0.000543581
+1637,Lebanon,LBN,Pertussis,2005,43,3986852,0.001078545
+1638,Lebanon,LBN,Pertussis,2006,46,4057350,0.001133745
+1639,Lebanon,LBN,Pertussis,2007,45,4086466,0.001101196
+1640,Lebanon,LBN,Pertussis,2008,50,4111047,0.001216235
+1641,Lebanon,LBN,Pertussis,2009,65,4183156,0.001553851
+1642,Lebanon,LBN,Pertussis,2010,19,4337141,0.000438077
+1643,Lebanon,LBN,Pertussis,2011,7,4588368,0.00015256
+1644,Lebanon,LBN,Pertussis,2012,53,4916404,0.001078024
+1645,Lebanon,LBN,Pertussis,2013,58,5276102,0.001099296
+1646,Lebanon,LBN,Pertussis,2014,0,5603279,0
+1647,Lebanon,LBN,Pertussis,2015,53,5851479,0.000905754
+1648,Lebanon,LBN,Pertussis,2016,97,6006668,0.001614872
+1649,Liberia,LBR,Pertussis,2000,281,2884522,0.009741649
+1650,Liberia,LBR,Pertussis,2001,131,2991132,0.004379613
+1651,Liberia,LBR,Pertussis,2002,379,3062863,0.012374044
+1652,Liberia,LBR,Pertussis,2003,-1,3116233,-3.21E-05
+1653,Liberia,LBR,Pertussis,2004,0,3176414,0
+1654,Liberia,LBR,Pertussis,2005,0,3261230,0
+1655,Liberia,LBR,Pertussis,2006,-1,3375838,-2.96E-05
+1656,Liberia,LBR,Pertussis,2007,-1,3512932,-2.85E-05
+1657,Liberia,LBR,Pertussis,2008,-1,3662993,-2.73E-05
+1658,Liberia,LBR,Pertussis,2009,0,3811528,0
+1659,Liberia,LBR,Pertussis,2010,-1,3948125,-2.53E-05
+1660,Liberia,LBR,Pertussis,2011,0,4070167,0
+1661,Liberia,LBR,Pertussis,2012,0,4181563,0
+1662,Liberia,LBR,Pertussis,2013,0,4286291,0
+1663,Liberia,LBR,Pertussis,2014,0,4390737,0
+1664,Liberia,LBR,Pertussis,2015,0,4499621,0
+1665,Liberia,LBR,Pertussis,2016,-1,4613823,-2.17E-05
+1666,Libya,LBY,Pertussis,2000,-1,5355751,-1.87E-05
+1667,Libya,LBY,Pertussis,2001,10,5440566,0.000183804
+1668,Libya,LBY,Pertussis,2002,21,5527515,0.000379918
+1669,Libya,LBY,Pertussis,2003,-1,5615952,-1.78E-05
+1670,Libya,LBY,Pertussis,2004,27,5704759,0.000473289
+1671,Libya,LBY,Pertussis,2005,41,5792688,0.000707789
+1672,Libya,LBY,Pertussis,2006,118,5881435,0.002006313
+1673,Libya,LBY,Pertussis,2007,94,5970362,0.001574444
+1674,Libya,LBY,Pertussis,2008,22,6053078,0.000363451
+1675,Libya,LBY,Pertussis,2009,16,6121053,0.000261393
+1676,Libya,LBY,Pertussis,2010,-1,6169140,-1.62E-05
+1677,Libya,LBY,Pertussis,2011,-1,6193501,-1.61E-05
+1678,Libya,LBY,Pertussis,2012,197,6198258,0.003178312
+1679,Libya,LBY,Pertussis,2013,-1,6195970,-1.61E-05
+1680,Libya,LBY,Pertussis,2014,-1,6204108,-1.61E-05
+1681,Libya,LBY,Pertussis,2015,-1,6234955,-1.60E-05
+1682,Libya,LBY,Pertussis,2016,-1,6293253,-1.59E-05
+1683,Saint Lucia,LCA,Pertussis,2000,0,156949,0
+1684,Saint Lucia,LCA,Pertussis,2001,0,158464,0
+1685,Saint Lucia,LCA,Pertussis,2002,0,159763,0
+1686,Saint Lucia,LCA,Pertussis,2003,0,160973,0
+1687,Saint Lucia,LCA,Pertussis,2004,0,162251,0
+1688,Saint Lucia,LCA,Pertussis,2005,0,163714,0
+1689,Saint Lucia,LCA,Pertussis,2006,0,165407,0
+1690,Saint Lucia,LCA,Pertussis,2007,0,167288,0
+1691,Saint Lucia,LCA,Pertussis,2008,0,169220,0
+1692,Saint Lucia,LCA,Pertussis,2009,0,171022,0
+1693,Saint Lucia,LCA,Pertussis,2010,0,172580,0
+1694,Saint Lucia,LCA,Pertussis,2011,0,173832,0
+1695,Saint Lucia,LCA,Pertussis,2012,0,174835,0
+1696,Saint Lucia,LCA,Pertussis,2013,0,175660,0
+1697,Saint Lucia,LCA,Pertussis,2014,0,176421,0
+1698,Saint Lucia,LCA,Pertussis,2015,8,177206,0.00451452
+1699,Saint Lucia,LCA,Pertussis,2016,1,178015,0.00056175
+1700,Sri Lanka,LKA,Pertussis,2000,194,18655000,0.001039936
+1701,Sri Lanka,LKA,Pertussis,2001,52,18797000,0.00027664
+1702,Sri Lanka,LKA,Pertussis,2002,16,18939000,8.45E-05
+1703,Sri Lanka,LKA,Pertussis,2003,82,19083000,0.000429702
+1704,Sri Lanka,LKA,Pertussis,2004,45,19228000,0.000234034
+1705,Sri Lanka,LKA,Pertussis,2005,0,19373000,0
+1706,Sri Lanka,LKA,Pertussis,2006,0,19520000,0
+1707,Sri Lanka,LKA,Pertussis,2007,0,19668000,0
+1708,Sri Lanka,LKA,Pertussis,2008,9,19817000,4.54E-05
+1709,Sri Lanka,LKA,Pertussis,2009,31,19968000,0.000155248
+1710,Sri Lanka,LKA,Pertussis,2010,2,20119000,9.94E-06
+1711,Sri Lanka,LKA,Pertussis,2011,23,20271000,0.000113463
+1712,Sri Lanka,LKA,Pertussis,2012,61,20425000,0.000298654
+1713,Sri Lanka,LKA,Pertussis,2013,67,20585000,0.00032548
+1714,Sri Lanka,LKA,Pertussis,2014,38,20771000,0.000182947
+1715,Sri Lanka,LKA,Pertussis,2015,107,20966000,0.00051035
+1716,Sri Lanka,LKA,Pertussis,2016,54,21203000,0.000254681
+1717,Lesotho,LSO,Pertussis,2000,-1,1868699,-5.35E-05
+1718,Lesotho,LSO,Pertussis,2001,0,1885955,0
+1719,Lesotho,LSO,Pertussis,2002,0,1902312,0
+1720,Lesotho,LSO,Pertussis,2003,-1,1918097,-5.21E-05
+1721,Lesotho,LSO,Pertussis,2004,0,1933728,0
+1722,Lesotho,LSO,Pertussis,2005,-1,1949543,-5.13E-05
+1723,Lesotho,LSO,Pertussis,2006,0,1965662,0
+1724,Lesotho,LSO,Pertussis,2007,0,1982287,0
+1725,Lesotho,LSO,Pertussis,2008,0,1999930,0
+1726,Lesotho,LSO,Pertussis,2009,0,2019209,0
+1727,Lesotho,LSO,Pertussis,2010,0,2040551,0
+1728,Lesotho,LSO,Pertussis,2011,0,2064166,0
+1729,Lesotho,LSO,Pertussis,2012,0,2089928,0
+1730,Lesotho,LSO,Pertussis,2013,0,2117361,0
+1731,Lesotho,LSO,Pertussis,2014,0,2145785,0
+1732,Lesotho,LSO,Pertussis,2015,0,2174645,0
+1733,Lesotho,LSO,Pertussis,2016,0,2203821,0
+1734,Lithuania,LTU,Pertussis,2000,91,3499536,0.002600345
+1735,Lithuania,LTU,Pertussis,2001,162,3470818,0.004667488
+1736,Lithuania,LTU,Pertussis,2002,23,3443067,0.000668009
+1737,Lithuania,LTU,Pertussis,2003,5,3415213,0.000146404
+1738,Lithuania,LTU,Pertussis,2004,48,3377075,0.001421348
+1739,Lithuania,LTU,Pertussis,2005,64,3322528,0.001926244
+1740,Lithuania,LTU,Pertussis,2006,6,3269909,0.000183491
+1741,Lithuania,LTU,Pertussis,2007,17,3231294,0.000526105
+1742,Lithuania,LTU,Pertussis,2008,51,3198231,0.001594632
+1743,Lithuania,LTU,Pertussis,2009,233,3162916,0.00736662
+1744,Lithuania,LTU,Pertussis,2010,19,3097282,0.000613441
+1745,Lithuania,LTU,Pertussis,2011,30,3028115,0.000990715
+1746,Lithuania,LTU,Pertussis,2012,154,2987773,0.005154341
+1747,Lithuania,LTU,Pertussis,2013,65,2957689,0.002197662
+1748,Lithuania,LTU,Pertussis,2014,143,2932367,0.004876607
+1749,Lithuania,LTU,Pertussis,2015,60,2904910,0.002065468
+1750,Lithuania,LTU,Pertussis,2016,36,2872298,0.001253352
+1751,Luxembourg,LUX,Pertussis,2000,0,436300,0
+1752,Luxembourg,LUX,Pertussis,2001,-1,441525,-0.000226488
+1753,Luxembourg,LUX,Pertussis,2002,-1,446175,-0.000224127
+1754,Luxembourg,LUX,Pertussis,2003,10,451630,0.002214202
+1755,Luxembourg,LUX,Pertussis,2004,3,458095,0.000654886
+1756,Luxembourg,LUX,Pertussis,2005,-1,465158,-0.000214981
+1757,Luxembourg,LUX,Pertussis,2006,0,472637,0
+1758,Luxembourg,LUX,Pertussis,2007,0,479993,0
+1759,Luxembourg,LUX,Pertussis,2008,2,488650,0.000409291
+1760,Luxembourg,LUX,Pertussis,2009,1,497783,0.000200891
+1761,Luxembourg,LUX,Pertussis,2010,0,506953,0
+1762,Luxembourg,LUX,Pertussis,2011,4,518347,0.000771684
+1763,Luxembourg,LUX,Pertussis,2012,10,530946,0.001883431
+1764,Luxembourg,LUX,Pertussis,2013,30,543360,0.005521201
+1765,Luxembourg,LUX,Pertussis,2014,-1,556319,-0.000179753
+1766,Luxembourg,LUX,Pertussis,2015,0,569604,0
+1767,Luxembourg,LUX,Pertussis,2016,6,582972,0.001029209
+1768,Latvia,LVA,Pertussis,2000,135,2367550,0.005702097
+1769,Latvia,LVA,Pertussis,2001,160,2337170,0.006845886
+1770,Latvia,LVA,Pertussis,2002,159,2310173,0.006882601
+1771,Latvia,LVA,Pertussis,2003,99,2287955,0.004327008
+1772,Latvia,LVA,Pertussis,2004,39,2263122,0.001723283
+1773,Latvia,LVA,Pertussis,2005,25,2238799,0.00111667
+1774,Latvia,LVA,Pertussis,2006,29,2218357,0.001307274
+1775,Latvia,LVA,Pertussis,2007,27,2200325,0.001227091
+1776,Latvia,LVA,Pertussis,2008,14,2177322,0.000642992
+1777,Latvia,LVA,Pertussis,2009,9,2141669,0.000420233
+1778,Latvia,LVA,Pertussis,2010,9,2097555,0.000429071
+1779,Latvia,LVA,Pertussis,2011,10,2059709,0.000485505
+1780,Latvia,LVA,Pertussis,2012,257,2034319,0.01263322
+1781,Latvia,LVA,Pertussis,2013,201,2012647,0.009986848
+1782,Latvia,LVA,Pertussis,2014,81,1993782,0.004062631
+1783,Latvia,LVA,Pertussis,2015,210,1977527,0.010619324
+1784,Latvia,LVA,Pertussis,2016,250,1960424,0.012752343
+1785,Morocco,MAR,Pertussis,2000,22,28849621,7.63E-05
+1786,Morocco,MAR,Pertussis,2001,74,29181832,0.000253582
+1787,Morocco,MAR,Pertussis,2002,27,29512368,9.15E-05
+1788,Morocco,MAR,Pertussis,2003,32,29843937,0.000107224
+1789,Morocco,MAR,Pertussis,2004,47,30179285,0.000155736
+1790,Morocco,MAR,Pertussis,2005,-1,30521070,-3.28E-06
+1791,Morocco,MAR,Pertussis,2006,27,30869346,8.75E-05
+1792,Morocco,MAR,Pertussis,2007,28,31225881,8.97E-05
+1793,Morocco,MAR,Pertussis,2008,74,31596855,0.000234201
+1794,Morocco,MAR,Pertussis,2009,73,31989897,0.000228197
+1795,Morocco,MAR,Pertussis,2010,15,32409639,4.63E-05
+1796,Morocco,MAR,Pertussis,2011,35,32858823,0.000106516
+1797,Morocco,MAR,Pertussis,2012,172,33333789,0.000515993
+1798,Morocco,MAR,Pertussis,2013,72,33824769,0.000212862
+1799,Morocco,MAR,Pertussis,2014,-1,34318082,-2.91E-06
+1800,Morocco,MAR,Pertussis,2015,-1,34803322,-2.87E-06
+1801,Morocco,MAR,Pertussis,2016,-1,35276786,-2.83E-06
+1802,Monaco,MCO,Pertussis,2000,-1,32082,-0.003117013
+1803,Monaco,MCO,Pertussis,2001,-1,32360,-0.003090235
+1804,Monaco,MCO,Pertussis,2002,-1,32629,-0.003064758
+1805,Monaco,MCO,Pertussis,2003,5,32933,0.01518234
+1806,Monaco,MCO,Pertussis,2004,-1,33314,-0.003001741
+1807,Monaco,MCO,Pertussis,2005,-1,33793,-0.002959193
+1808,Monaco,MCO,Pertussis,2006,-1,34408,-0.002906301
+1809,Monaco,MCO,Pertussis,2007,-1,35111,-0.00284811
+1810,Monaco,MCO,Pertussis,2008,-1,35853,-0.002789167
+1811,Monaco,MCO,Pertussis,2009,-1,36534,-0.002737176
+1812,Monaco,MCO,Pertussis,2010,-1,37094,-0.002695854
+1813,Monaco,MCO,Pertussis,2011,-1,37497,-0.00266688
+1814,Monaco,MCO,Pertussis,2012,-1,37783,-0.002646693
+1815,Monaco,MCO,Pertussis,2013,-1,37971,-0.002633589
+1816,Monaco,MCO,Pertussis,2014,-1,38132,-0.002622469
+1817,Monaco,MCO,Pertussis,2015,-1,38307,-0.002610489
+1818,Monaco,MCO,Pertussis,2016,-1,38499,-0.00259747
+1819,Republic of Moldova (the),MDA,Pertussis,2000,169,3639592,0.004643378
+1820,Republic of Moldova (the),MDA,Pertussis,2001,210,3631462,0.005782795
+1821,Republic of Moldova (the),MDA,Pertussis,2002,5,3623062,0.000138005
+1822,Republic of Moldova (the),MDA,Pertussis,2003,31,3612874,0.000858043
+1823,Republic of Moldova (the),MDA,Pertussis,2004,105,3603945,0.002913474
+1824,Republic of Moldova (the),MDA,Pertussis,2005,24,3595187,0.000667559
+1825,Republic of Moldova (the),MDA,Pertussis,2006,43,3585209,0.001199372
+1826,Republic of Moldova (the),MDA,Pertussis,2007,36,3576910,0.001006455
+1827,Republic of Moldova (the),MDA,Pertussis,2008,30,3570108,0.000840311
+1828,Republic of Moldova (the),MDA,Pertussis,2009,47,3565604,0.00131815
+1829,Republic of Moldova (the),MDA,Pertussis,2010,31,3562045,0.000870287
+1830,Republic of Moldova (the),MDA,Pertussis,2011,102,3559986,0.00286518
+1831,Republic of Moldova (the),MDA,Pertussis,2012,92,3559519,0.002584619
+1832,Republic of Moldova (the),MDA,Pertussis,2013,115,3558566,0.003231639
+1833,Republic of Moldova (the),MDA,Pertussis,2014,188,3556397,0.005286249
+1834,Republic of Moldova (the),MDA,Pertussis,2015,50,3554108,0.001406823
+1835,Republic of Moldova (the),MDA,Pertussis,2016,283,3552000,0.007967342
+1836,Madagascar,MDG,Pertussis,2000,3880,15766806,0.024608662
+1837,Madagascar,MDG,Pertussis,2001,104,16260932,0.00063957
+1838,Madagascar,MDG,Pertussis,2002,2428,16765117,0.014482452
+1839,Madagascar,MDG,Pertussis,2003,8021,17279141,0.046420132
+1840,Madagascar,MDG,Pertussis,2004,2974,17802997,0.016705053
+1841,Madagascar,MDG,Pertussis,2005,-1,18336724,-5.45E-06
+1842,Madagascar,MDG,Pertussis,2006,0,18880268,0
+1843,Madagascar,MDG,Pertussis,2007,0,19433523,0
+1844,Madagascar,MDG,Pertussis,2008,-1,19996469,-5.00E-06
+1845,Madagascar,MDG,Pertussis,2009,255,20569121,0.001239722
+1846,Madagascar,MDG,Pertussis,2010,0,21151640,0
+1847,Madagascar,MDG,Pertussis,2011,369,21743949,0.001697024
+1848,Madagascar,MDG,Pertussis,2012,33,22346573,0.000147674
+1849,Madagascar,MDG,Pertussis,2013,19,22961146,8.27E-05
+1850,Madagascar,MDG,Pertussis,2014,-1,23589801,-4.24E-06
+1851,Madagascar,MDG,Pertussis,2015,413,24234088,0.001704211
+1852,Madagascar,MDG,Pertussis,2016,321,24894551,0.001289439
+1853,Maldives,MDV,Pertussis,2000,-1,286000,-0.00034965
+1854,Maldives,MDV,Pertussis,2001,0,292000,0
+1855,Maldives,MDV,Pertussis,2002,-1,297000,-0.0003367
+1856,Maldives,MDV,Pertussis,2003,-1,304000,-0.000328947
+1857,Maldives,MDV,Pertussis,2004,-1,312000,-0.000320513
+1858,Maldives,MDV,Pertussis,2005,0,321000,0
+1859,Maldives,MDV,Pertussis,2006,0,333000,0
+1860,Maldives,MDV,Pertussis,2007,0,349000,0
+1861,Maldives,MDV,Pertussis,2008,0,362000,0
+1862,Maldives,MDV,Pertussis,2009,0,360000,0
+1863,Maldives,MDV,Pertussis,2010,0,367000,0
+1864,Maldives,MDV,Pertussis,2011,0,377000,0
+1865,Maldives,MDV,Pertussis,2012,0,385000,0
+1866,Maldives,MDV,Pertussis,2013,0,393000,0
+1867,Maldives,MDV,Pertussis,2014,0,401000,0
+1868,Maldives,MDV,Pertussis,2015,0,409163,0
+1869,Maldives,MDV,Pertussis,2016,0,417492,0
+1870,Mexico,MEX,Pertussis,2000,53,101719673,5.21E-05
+1871,Mexico,MEX,Pertussis,2001,218,103067068,0.000211513
+1872,Mexico,MEX,Pertussis,2002,214,104355608,0.000205068
+1873,Mexico,MEX,Pertussis,2003,72,105640453,6.82E-05
+1874,Mexico,MEX,Pertussis,2004,137,106995583,0.000128043
+1875,Mexico,MEX,Pertussis,2005,349,108472228,0.000321741
+1876,Mexico,MEX,Pertussis,2006,171,110092378,0.000155324
+1877,Mexico,MEX,Pertussis,2007,164,111836346,0.000146643
+1878,Mexico,MEX,Pertussis,2008,162,113661809,0.000142528
+1879,Mexico,MEX,Pertussis,2009,559,115505228,0.000483961
+1880,Mexico,MEX,Pertussis,2010,371,117318941,0.000316232
+1881,Mexico,MEX,Pertussis,2011,252,119090017,0.000211605
+1882,Mexico,MEX,Pertussis,2012,978,120828307,0.000809413
+1883,Mexico,MEX,Pertussis,2013,961,122535969,0.00078426
+1884,Mexico,MEX,Pertussis,2014,955,124221600,0.000768787
+1885,Mexico,MEX,Pertussis,2015,1107,125890949,0.000879332
+1886,Mexico,MEX,Pertussis,2016,1029,127540423,0.000806803
+1887,Marshall Islands (the),MHL,Pertussis,2000,0,52159,0
+1888,Marshall Islands (the),MHL,Pertussis,2001,0,52183,0
+1889,Marshall Islands (the),MHL,Pertussis,2002,0,52158,0
+1890,Marshall Islands (the),MHL,Pertussis,2003,0,52116,0
+1891,Marshall Islands (the),MHL,Pertussis,2004,-1,52074,-0.001920344
+1892,Marshall Islands (the),MHL,Pertussis,2005,0,52055,0
+1893,Marshall Islands (the),MHL,Pertussis,2006,0,52078,0
+1894,Marshall Islands (the),MHL,Pertussis,2007,1,52137,0.001918024
+1895,Marshall Islands (the),MHL,Pertussis,2008,-1,52218,-0.001915048
+1896,Marshall Islands (the),MHL,Pertussis,2009,2,52320,0.00382263
+1897,Marshall Islands (the),MHL,Pertussis,2010,0,52425,0
+1898,Marshall Islands (the),MHL,Pertussis,2011,0,52542,0
+1899,Marshall Islands (the),MHL,Pertussis,2012,0,52663,0
+1900,Marshall Islands (the),MHL,Pertussis,2013,-1,52793,-0.001894191
+1901,Marshall Islands (the),MHL,Pertussis,2014,-1,52898,-0.001890431
+1902,Marshall Islands (the),MHL,Pertussis,2015,-1,52994,-0.001887006
+1903,Marshall Islands (the),MHL,Pertussis,2016,-1,53066,-0.001884446
+1904,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2000,21,2034819,0.001032033
+1905,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2001,5,2042842,0.000244757
+1906,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2002,4,2048928,0.000195224
+1907,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2003,16,2053426,0.000779186
+1908,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2004,1,2057047,4.86E-05
+1909,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2005,7,2060272,0.000339761
+1910,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2006,7,2063145,0.000339288
+1911,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2007,0,2065458,0
+1912,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2008,0,2067378,0
+1913,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2009,7,2069093,0.000338312
+1914,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2010,2,2070739,9.66E-05
+1915,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2011,6,2072383,0.000289522
+1916,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2012,9,2074036,0.000433937
+1917,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2013,1,2075739,4.82E-05
+1918,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2014,0,2077495,0
+1919,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2015,0,2079308,0
+1920,The former Yugoslav Republic of Macedonia,MKD,Pertussis,2016,4,2081206,0.000192196
+1921,Mali,MLI,Pertussis,2000,0,10967690,0
+1922,Mali,MLI,Pertussis,2001,15,11293258,0.000132823
+1923,Mali,MLI,Pertussis,2002,8,11638929,6.87E-05
+1924,Mali,MLI,Pertussis,2003,-1,12005128,-8.33E-06
+1925,Mali,MLI,Pertussis,2004,33,12391906,0.000266303
+1926,Mali,MLI,Pertussis,2005,33,12798763,0.000257837
+1927,Mali,MLI,Pertussis,2006,0,13227064,0
+1928,Mali,MLI,Pertussis,2007,-1,13675606,-7.31E-06
+1929,Mali,MLI,Pertussis,2008,41,14138216,0.000289994
+1930,Mali,MLI,Pertussis,2009,-1,14606597,-6.85E-06
+1931,Mali,MLI,Pertussis,2010,-1,15075085,-6.63E-06
+1932,Mali,MLI,Pertussis,2011,-1,15540989,-6.43E-06
+1933,Mali,MLI,Pertussis,2012,-1,16006670,-6.25E-06
+1934,Mali,MLI,Pertussis,2013,-1,16477818,-6.07E-06
+1935,Mali,MLI,Pertussis,2014,0,16962846,0
+1936,Mali,MLI,Pertussis,2015,-1,17467905,-5.72E-06
+1937,Mali,MLI,Pertussis,2016,-1,17994837,-5.56E-06
+1938,Malta,MLT,Pertussis,2000,3,390087,0.000769059
+1939,Malta,MLT,Pertussis,2001,1,393028,0.000254435
+1940,Malta,MLT,Pertussis,2002,4,395969,0.00101018
+1941,Malta,MLT,Pertussis,2003,7,398582,0.001756226
+1942,Malta,MLT,Pertussis,2004,6,401268,0.00149526
+1943,Malta,MLT,Pertussis,2005,7,403834,0.001733385
+1944,Malta,MLT,Pertussis,2006,2,405308,0.000493452
+1945,Malta,MLT,Pertussis,2007,0,406724,0
+1946,Malta,MLT,Pertussis,2008,1,409379,0.000244272
+1947,Malta,MLT,Pertussis,2009,0,412477,0
+1948,Malta,MLT,Pertussis,2010,2,414508,0.0004825
+1949,Malta,MLT,Pertussis,2011,8,416268,0.001921839
+1950,Malta,MLT,Pertussis,2012,-1,419455,-0.000238405
+1951,Malta,MLT,Pertussis,2013,-1,423374,-0.000236198
+1952,Malta,MLT,Pertussis,2014,1,427364,0.000233993
+1953,Malta,MLT,Pertussis,2015,0,431874,0
+1954,Malta,MLT,Pertussis,2016,0,436947,0
+1955,Myanmar,MMR,Pertussis,2000,55,46095462,0.000119318
+1956,Myanmar,MMR,Pertussis,2001,-1,46627994,-2.14E-06
+1957,Myanmar,MMR,Pertussis,2002,61,47140220,0.000129401
+1958,Myanmar,MMR,Pertussis,2003,19,47624894,3.99E-05
+1959,Myanmar,MMR,Pertussis,2004,100,48073707,0.000208014
+1960,Myanmar,MMR,Pertussis,2005,11,48482614,2.27E-05
+1961,Myanmar,MMR,Pertussis,2006,13,48846474,2.66E-05
+1962,Myanmar,MMR,Pertussis,2007,13,49171586,2.64E-05
+1963,Myanmar,MMR,Pertussis,2008,5,49479752,1.01E-05
+1964,Myanmar,MMR,Pertussis,2009,3,49800690,6.02E-06
+1965,Myanmar,MMR,Pertussis,2010,0,50155896,0
+1966,Myanmar,MMR,Pertussis,2011,5,50553031,9.89E-06
+1967,Myanmar,MMR,Pertussis,2012,2,50986514,3.92E-06
+1968,Myanmar,MMR,Pertussis,2013,14,51448196,2.72E-05
+1969,Myanmar,MMR,Pertussis,2014,5,51924182,9.63E-06
+1970,Myanmar,MMR,Pertussis,2015,5,52403669,9.54E-06
+1971,Myanmar,MMR,Pertussis,2016,2,52885223,3.78E-06
+1972,Montenegro,MNE,Pertussis,2000,-1,604950,-0.000165303
+1973,Montenegro,MNE,Pertussis,2001,-1,607389,-0.000164639
+1974,Montenegro,MNE,Pertussis,2002,-1,609828,-0.000163981
+1975,Montenegro,MNE,Pertussis,2003,-1,612267,-0.000163327
+1976,Montenegro,MNE,Pertussis,2004,-1,613353,-0.000163038
+1977,Montenegro,MNE,Pertussis,2005,-1,614261,-0.000162797
+1978,Montenegro,MNE,Pertussis,2006,0,615025,0
+1979,Montenegro,MNE,Pertussis,2007,0,615875,0
+1980,Montenegro,MNE,Pertussis,2008,5,616969,0.000810413
+1981,Montenegro,MNE,Pertussis,2009,1,618294,0.000161735
+1982,Montenegro,MNE,Pertussis,2010,1,619428,0.000161439
+1983,Montenegro,MNE,Pertussis,2011,8,620079,0.001290158
+1984,Montenegro,MNE,Pertussis,2012,2,620601,0.000322268
+1985,Montenegro,MNE,Pertussis,2013,0,621207,0
+1986,Montenegro,MNE,Pertussis,2014,-1,621810,-0.000160821
+1987,Montenegro,MNE,Pertussis,2015,-1,622159,-0.000160731
+1988,Montenegro,MNE,Pertussis,2016,8,622781,0.001284561
+1989,Mongolia,MNG,Pertussis,2000,0,2397436,0
+1990,Mongolia,MNG,Pertussis,2001,0,2419776,0
+1991,Mongolia,MNG,Pertussis,2002,2,2443659,8.18E-05
+1992,Mongolia,MNG,Pertussis,2003,0,2469286,0
+1993,Mongolia,MNG,Pertussis,2004,0,2496832,0
+1994,Mongolia,MNG,Pertussis,2005,0,2526446,0
+1995,Mongolia,MNG,Pertussis,2006,0,2558012,0
+1996,Mongolia,MNG,Pertussis,2007,0,2591670,0
+1997,Mongolia,MNG,Pertussis,2008,0,2628131,0
+1998,Mongolia,MNG,Pertussis,2009,0,2668289,0
+1999,Mongolia,MNG,Pertussis,2010,0,2712650,0
+2000,Mongolia,MNG,Pertussis,2011,0,2761516,0
+2001,Mongolia,MNG,Pertussis,2012,0,2814226,0
+2002,Mongolia,MNG,Pertussis,2013,0,2869107,0
+2003,Mongolia,MNG,Pertussis,2014,0,2923896,0
+2004,Mongolia,MNG,Pertussis,2015,0,2976877,0
+2005,Mongolia,MNG,Pertussis,2016,0,3027398,0
+2006,Mozambique,MOZ,Pertussis,2000,94,18067687,0.000520266
+2007,Mozambique,MOZ,Pertussis,2001,599,18588758,0.003222378
+2008,Mozambique,MOZ,Pertussis,2002,11,19139658,5.75E-05
+2009,Mozambique,MOZ,Pertussis,2003,13,19716598,6.59E-05
+2010,Mozambique,MOZ,Pertussis,2004,12,20312705,5.91E-05
+2011,Mozambique,MOZ,Pertussis,2005,12,20923070,5.74E-05
+2012,Mozambique,MOZ,Pertussis,2006,-1,21547463,-4.64E-06
+2013,Mozambique,MOZ,Pertussis,2007,-1,22188387,-4.51E-06
+2014,Mozambique,MOZ,Pertussis,2008,0,22846758,0
+2015,Mozambique,MOZ,Pertussis,2009,-1,23524063,-4.25E-06
+2016,Mozambique,MOZ,Pertussis,2010,0,24221405,0
+2017,Mozambique,MOZ,Pertussis,2011,-1,24939005,-4.01E-06
+2018,Mozambique,MOZ,Pertussis,2012,-1,25676606,-3.89E-06
+2019,Mozambique,MOZ,Pertussis,2013,-1,26434372,-3.78E-06
+2020,Mozambique,MOZ,Pertussis,2014,-1,27212382,-3.67E-06
+2021,Mozambique,MOZ,Pertussis,2015,0,28010691,0
+2022,Mozambique,MOZ,Pertussis,2016,-1,28829476,-3.47E-06
+2023,Mauritania,MRT,Pertussis,2000,-1,2709359,-3.69E-05
+2024,Mauritania,MRT,Pertussis,2001,-1,2790729,-3.58E-05
+2025,Mauritania,MRT,Pertussis,2002,-1,2873228,-3.48E-05
+2026,Mauritania,MRT,Pertussis,2003,-1,2957117,-3.38E-05
+2027,Mauritania,MRT,Pertussis,2004,-1,3042823,-3.29E-05
+2028,Mauritania,MRT,Pertussis,2005,87,3130720,0.002778913
+2029,Mauritania,MRT,Pertussis,2006,-1,3220653,-3.10E-05
+2030,Mauritania,MRT,Pertussis,2007,0,3312665,0
+2031,Mauritania,MRT,Pertussis,2008,0,3407541,0
+2032,Mauritania,MRT,Pertussis,2009,-1,3506288,-2.85E-05
+2033,Mauritania,MRT,Pertussis,2010,-1,3609543,-2.77E-05
+2034,Mauritania,MRT,Pertussis,2011,-1,3717672,-2.69E-05
+2035,Mauritania,MRT,Pertussis,2012,30,3830239,0.000783241
+2036,Mauritania,MRT,Pertussis,2013,-1,3946170,-2.53E-05
+2037,Mauritania,MRT,Pertussis,2014,-1,4063920,-2.46E-05
+2038,Mauritania,MRT,Pertussis,2015,0,4182341,0
+2039,Mauritania,MRT,Pertussis,2016,0,4301018,0
+2040,Mauritius,MUS,Pertussis,2000,0,1186873,0
+2041,Mauritius,MUS,Pertussis,2001,0,1196287,0
+2042,Mauritius,MUS,Pertussis,2002,-1,1204621,-8.30E-05
+2043,Mauritius,MUS,Pertussis,2003,0,1213370,0
+2044,Mauritius,MUS,Pertussis,2004,0,1221003,0
+2045,Mauritius,MUS,Pertussis,2005,0,1228254,0
+2046,Mauritius,MUS,Pertussis,2006,0,1233996,0
+2047,Mauritius,MUS,Pertussis,2007,1,1239630,8.07E-05
+2048,Mauritius,MUS,Pertussis,2008,0,1244121,0
+2049,Mauritius,MUS,Pertussis,2009,1,1247429,8.02E-05
+2050,Mauritius,MUS,Pertussis,2010,1,1250400,8.00E-05
+2051,Mauritius,MUS,Pertussis,2011,0,1252404,0
+2052,Mauritius,MUS,Pertussis,2012,0,1255882,0
+2053,Mauritius,MUS,Pertussis,2013,0,1258653,0
+2054,Mauritius,MUS,Pertussis,2014,1,1260934,7.93E-05
+2055,Mauritius,MUS,Pertussis,2015,-1,1262605,-7.92E-05
+2056,Mauritius,MUS,Pertussis,2016,-1,1263473,-7.91E-05
+2057,Malawi,MWI,Pertussis,2000,365,11376172,0.003208461
+2058,Malawi,MWI,Pertussis,2001,0,11695863,0
+2059,Malawi,MWI,Pertussis,2002,0,12013711,0
+2060,Malawi,MWI,Pertussis,2003,0,12336687,0
+2061,Malawi,MWI,Pertussis,2004,0,12676038,0
+2062,Malawi,MWI,Pertussis,2005,0,13039711,0
+2063,Malawi,MWI,Pertussis,2006,0,13429262,0
+2064,Malawi,MWI,Pertussis,2007,0,13840969,0
+2065,Malawi,MWI,Pertussis,2008,0,14271234,0
+2066,Malawi,MWI,Pertussis,2009,0,14714602,0
+2067,Malawi,MWI,Pertussis,2010,0,15167095,0
+2068,Malawi,MWI,Pertussis,2011,-1,15627618,-6.40E-06
+2069,Malawi,MWI,Pertussis,2012,-1,16097305,-6.21E-06
+2070,Malawi,MWI,Pertussis,2013,0,16577147,0
+2071,Malawi,MWI,Pertussis,2014,0,17068838,0
+2072,Malawi,MWI,Pertussis,2015,0,17573607,0
+2073,Malawi,MWI,Pertussis,2016,0,18091575,0
+2074,Malaysia,MYS,Pertussis,2000,42,23185608,0.000181147
+2075,Malaysia,MYS,Pertussis,2001,26,23698907,0.00010971
+2076,Malaysia,MYS,Pertussis,2002,6,24198811,2.48E-05
+2077,Malaysia,MYS,Pertussis,2003,28,24688703,0.000113412
+2078,Malaysia,MYS,Pertussis,2004,40,25174109,0.000158893
+2079,Malaysia,MYS,Pertussis,2005,8,25659393,3.12E-05
+2080,Malaysia,MYS,Pertussis,2006,6,26143566,2.30E-05
+2081,Malaysia,MYS,Pertussis,2007,15,26625845,5.63E-05
+2082,Malaysia,MYS,Pertussis,2008,11,27111069,4.06E-05
+2083,Malaysia,MYS,Pertussis,2009,5,27605383,1.81E-05
+2084,Malaysia,MYS,Pertussis,2010,41,28112289,0.000145844
+2085,Malaysia,MYS,Pertussis,2011,248,28635128,0.000866069
+2086,Malaysia,MYS,Pertussis,2012,217,29170456,0.000743903
+2087,Malaysia,MYS,Pertussis,2013,222,29706724,0.000747306
+2088,Malaysia,MYS,Pertussis,2014,500,30228017,0.001654095
+2089,Malaysia,MYS,Pertussis,2015,939,30723155,0.003056327
+2090,Malaysia,MYS,Pertussis,2016,298,31187265,0.000955518
+2091,Namibia,NAM,Pertussis,2000,30,1899257,0.001579565
+2092,Namibia,NAM,Pertussis,2001,45,1933596,0.00232727
+2093,Namibia,NAM,Pertussis,2002,10,1962147,0.000509646
+2094,Namibia,NAM,Pertussis,2003,22,1986535,0.001107456
+2095,Namibia,NAM,Pertussis,2004,7,2009228,0.000348393
+2096,Namibia,NAM,Pertussis,2005,8,2032196,0.000393663
+2097,Namibia,NAM,Pertussis,2006,-1,2055734,-4.86E-05
+2098,Namibia,NAM,Pertussis,2007,0,2079915,0
+2099,Namibia,NAM,Pertussis,2008,15,2106375,0.000712124
+2100,Namibia,NAM,Pertussis,2009,0,2137040,0
+2101,Namibia,NAM,Pertussis,2010,0,2173170,0
+2102,Namibia,NAM,Pertussis,2011,16,2215621,0.000722145
+2103,Namibia,NAM,Pertussis,2012,2,2263934,8.83E-05
+2104,Namibia,NAM,Pertussis,2013,0,2316520,0
+2105,Namibia,NAM,Pertussis,2014,0,2370992,0
+2106,Namibia,NAM,Pertussis,2015,0,2425561,0
+2107,Namibia,NAM,Pertussis,2016,0,2479713,0
+2108,Niger (the),NER,Pertussis,2000,5585,11352973,0.049194163
+2109,Niger (the),NER,Pertussis,2001,2709,11771976,0.023012279
+2110,Niger (the),NER,Pertussis,2002,2613,12206002,0.021407501
+2111,Niger (the),NER,Pertussis,2003,2109,12656870,0.016662887
+2112,Niger (the),NER,Pertussis,2004,2159,13127012,0.016447003
+2113,Niger (the),NER,Pertussis,2005,1206,13618449,0.008855634
+2114,Niger (the),NER,Pertussis,2006,1985,14132064,0.014046073
+2115,Niger (the),NER,Pertussis,2007,3204,14668338,0.021842965
+2116,Niger (the),NER,Pertussis,2008,1199,15228525,0.007873382
+2117,Niger (the),NER,Pertussis,2009,1354,15813913,0.008562081
+2118,Niger (the),NER,Pertussis,2010,30,16425578,0.000182642
+2119,Niger (the),NER,Pertussis,2011,983,17064636,0.005760451
+2120,Niger (the),NER,Pertussis,2012,0,17731634,0
+2121,Niger (the),NER,Pertussis,2013,884,18426372,0.004797472
+2122,Niger (the),NER,Pertussis,2014,0,19148219,0
+2123,Niger (the),NER,Pertussis,2015,0,19896965,0
+2124,Niger (the),NER,Pertussis,2016,482,20672987,0.002331545
+2125,Nigeria,NGA,Pertussis,2000,38910,122352009,0.031801685
+2126,Nigeria,NGA,Pertussis,2001,34517,125463434,0.027511602
+2127,Nigeria,NGA,Pertussis,2002,11894,128666710,0.009244038
+2128,Nigeria,NGA,Pertussis,2003,-1,131972533,-7.58E-07
+2129,Nigeria,NGA,Pertussis,2004,10976,135393616,0.008106734
+2130,Nigeria,NGA,Pertussis,2005,15609,138939478,0.011234388
+2131,Nigeria,NGA,Pertussis,2006,10997,142614094,0.007711019
+2132,Nigeria,NGA,Pertussis,2007,12573,146417024,0.008587116
+2133,Nigeria,NGA,Pertussis,2008,13240,150347390,0.008806272
+2134,Nigeria,NGA,Pertussis,2009,11281,154402181,0.007306244
+2135,Nigeria,NGA,Pertussis,2010,-1,158578261,-6.31E-07
+2136,Nigeria,NGA,Pertussis,2011,0,162877076,0
+2137,Nigeria,NGA,Pertussis,2012,11628,167297284,0.006950501
+2138,Nigeria,NGA,Pertussis,2013,8530,171829303,0.004964229
+2139,Nigeria,NGA,Pertussis,2014,9559,176460502,0.005417076
+2140,Nigeria,NGA,Pertussis,2015,6592,181181744,0.003638336
+2141,Nigeria,NGA,Pertussis,2016,-1,185989640,-5.38E-07
+2142,Nicaragua,NIC,Pertussis,2000,11,5026796,0.000218827
+2143,Nicaragua,NIC,Pertussis,2001,0,5100750,0
+2144,Nicaragua,NIC,Pertussis,2002,0,5171734,0
+2145,Nicaragua,NIC,Pertussis,2003,0,5240879,0
+2146,Nicaragua,NIC,Pertussis,2004,0,5309703,0
+2147,Nicaragua,NIC,Pertussis,2005,0,5379328,0
+2148,Nicaragua,NIC,Pertussis,2006,148,5450211,0.002715491
+2149,Nicaragua,NIC,Pertussis,2007,51,5522106,0.000923561
+2150,Nicaragua,NIC,Pertussis,2008,25,5594506,0.000446867
+2151,Nicaragua,NIC,Pertussis,2009,11,5666581,0.000194121
+2152,Nicaragua,NIC,Pertussis,2010,24,5737723,0.000418284
+2153,Nicaragua,NIC,Pertussis,2011,87,5807820,0.00149798
+2154,Nicaragua,NIC,Pertussis,2012,68,5877108,0.001157032
+2155,Nicaragua,NIC,Pertussis,2013,0,5945747,0
+2156,Nicaragua,NIC,Pertussis,2014,0,6013997,0
+2157,Nicaragua,NIC,Pertussis,2015,36,6082035,0.000591907
+2158,Nicaragua,NIC,Pertussis,2016,90,6149928,0.001463432
+2159,Netherlands (the),NLD,Pertussis,2000,4836,15925513,0.030366369
+2160,Netherlands (the),NLD,Pertussis,2001,-1,16046180,-6.23E-06
+2161,Netherlands (the),NLD,Pertussis,2002,5880,16148929,0.036411083
+2162,Netherlands (the),NLD,Pertussis,2003,-1,16225302,-6.16E-06
+2163,Netherlands (the),NLD,Pertussis,2004,9113,16281779,0.055970542
+2164,Netherlands (the),NLD,Pertussis,2005,6535,16319868,0.040043216
+2165,Netherlands (the),NLD,Pertussis,2006,4298,16346101,0.026293732
+2166,Netherlands (the),NLD,Pertussis,2007,7325,16381696,0.04471454
+2167,Netherlands (the),NLD,Pertussis,2008,8661,16445593,0.052664565
+2168,Netherlands (the),NLD,Pertussis,2009,6202,16530388,0.037518781
+2169,Netherlands (the),NLD,Pertussis,2010,2912,16615394,0.017525916
+2170,Netherlands (the),NLD,Pertussis,2011,6726,16693074,0.040292159
+2171,Netherlands (the),NLD,Pertussis,2012,13552,16754962,0.080883502
+2172,Netherlands (the),NLD,Pertussis,2013,2858,16804432,0.017007418
+2173,Netherlands (the),NLD,Pertussis,2014,8960,16865008,0.053127754
+2174,Netherlands (the),NLD,Pertussis,2015,6566,16939923,0.038760507
+2175,Netherlands (the),NLD,Pertussis,2016,3542,17018408,0.020812758
+2176,Norway,NOR,Pertussis,2000,3417,4490967,0.076086063
+2177,Norway,NOR,Pertussis,2001,2574,4513751,0.057025742
+2178,Norway,NOR,Pertussis,2002,3170,4538159,0.069852114
+2179,Norway,NOR,Pertussis,2003,2765,4564855,0.060571475
+2180,Norway,NOR,Pertussis,2004,7737,4591910,0.168491978
+2181,Norway,NOR,Pertussis,2005,5536,4623291,0.119741543
+2182,Norway,NOR,Pertussis,2006,6587,4660677,0.141331399
+2183,Norway,NOR,Pertussis,2007,-1,4709153,-2.12E-05
+2184,Norway,NOR,Pertussis,2008,3893,4768212,0.08164486
+2185,Norway,NOR,Pertussis,2009,5546,4828726,0.114854311
+2186,Norway,NOR,Pertussis,2010,3565,4889252,0.072915039
+2187,Norway,NOR,Pertussis,2011,3695,4953088,0.074599926
+2188,Norway,NOR,Pertussis,2012,4231,5018573,0.084306834
+2189,Norway,NOR,Pertussis,2013,2608,5079623,0.051342393
+2190,Norway,NOR,Pertussis,2014,3032,5137232,0.05902011
+2191,Norway,NOR,Pertussis,2015,1902,5188607,0.036657238
+2192,Norway,NOR,Pertussis,2016,2207,5232929,0.042175233
+2193,Nepal,NPL,Pertussis,2000,6021,23740911,0.025361285
+2194,Nepal,NPL,Pertussis,2001,5908,24161777,0.024451844
+2195,Nepal,NPL,Pertussis,2002,4683,24566342,0.019062667
+2196,Nepal,NPL,Pertussis,2003,4479,24950623,0.017951456
+2197,Nepal,NPL,Pertussis,2004,3708,25309449,0.014650655
+2198,Nepal,NPL,Pertussis,2005,2170,25640287,0.008463244
+2199,Nepal,NPL,Pertussis,2006,1092,25940618,0.004209614
+2200,Nepal,NPL,Pertussis,2007,879,26214847,0.003353062
+2201,Nepal,NPL,Pertussis,2008,2297,26475859,0.008675828
+2202,Nepal,NPL,Pertussis,2009,2357,26741103,0.008814147
+2203,Nepal,NPL,Pertussis,2010,2293,27023137,0.008485321
+2204,Nepal,NPL,Pertussis,2011,1733,27327147,0.006341679
+2205,Nepal,NPL,Pertussis,2012,1595,27649925,0.005768551
+2206,Nepal,NPL,Pertussis,2013,3431,27985310,0.012260004
+2207,Nepal,NPL,Pertussis,2014,6096,28323241,0.021522961
+2208,Nepal,NPL,Pertussis,2015,4416,28656282,0.015410234
+2209,Nepal,NPL,Pertussis,2016,4890,28982771,0.016872093
+2210,Nauru,NRU,Pertussis,2000,0,10042,0
+2211,Nauru,NRU,Pertussis,2001,0,10053,0
+2212,Nauru,NRU,Pertussis,2002,0,10073,0
+2213,Nauru,NRU,Pertussis,2003,-1,10096,-0.009904913
+2214,Nauru,NRU,Pertussis,2004,0,10113,0
+2215,Nauru,NRU,Pertussis,2005,0,10115,0
+2216,Nauru,NRU,Pertussis,2006,0,10101,0
+2217,Nauru,NRU,Pertussis,2007,0,10075,0
+2218,Nauru,NRU,Pertussis,2008,0,10047,0
+2219,Nauru,NRU,Pertussis,2009,0,10028,0
+2220,Nauru,NRU,Pertussis,2010,0,10025,0
+2221,Nauru,NRU,Pertussis,2011,0,10057,0
+2222,Nauru,NRU,Pertussis,2012,-1,10279,-0.009728573
+2223,Nauru,NRU,Pertussis,2013,-1,10821,-0.00924129
+2224,Nauru,NRU,Pertussis,2014,-1,11853,-0.008436683
+2225,Nauru,NRU,Pertussis,2015,-1,12475,-0.008016032
+2226,Nauru,NRU,Pertussis,2016,-1,13049,-0.007663422
+2227,New Zealand,NZL,Pertussis,2000,4143,3857700,0.107395598
+2228,New Zealand,NZL,Pertussis,2001,4143,3880500,0.106764592
+2229,New Zealand,NZL,Pertussis,2002,1068,3948500,0.027048246
+2230,New Zealand,NZL,Pertussis,2003,589,4027200,0.014625546
+2231,New Zealand,NZL,Pertussis,2004,3489,4087500,0.085357798
+2232,New Zealand,NZL,Pertussis,2005,2720,4133900,0.065797431
+2233,New Zealand,NZL,Pertussis,2006,1122,4184600,0.026812599
+2234,New Zealand,NZL,Pertussis,2007,331,4223800,0.007836545
+2235,New Zealand,NZL,Pertussis,2008,-1,4259800,-2.35E-05
+2236,New Zealand,NZL,Pertussis,2009,656,4302600,0.015246595
+2237,New Zealand,NZL,Pertussis,2010,462,4350700,0.010618981
+2238,New Zealand,NZL,Pertussis,2011,1992,4384000,0.045437956
+2239,New Zealand,NZL,Pertussis,2012,5598,4408100,0.126993489
+2240,New Zealand,NZL,Pertussis,2013,3396,4442100,0.076450328
+2241,New Zealand,NZL,Pertussis,2014,1099,4509700,0.024369692
+2242,New Zealand,NZL,Pertussis,2015,1168,4595700,0.025415062
+2243,New Zealand,NZL,Pertussis,2016,1096,4692700,0.023355424
+2244,Oman,OMN,Pertussis,2000,190,2267991,0.008377458
+2245,Oman,OMN,Pertussis,2001,54,2294787,0.00235316
+2246,Oman,OMN,Pertussis,2002,96,2334285,0.004112608
+2247,Oman,OMN,Pertussis,2003,149,2385255,0.006246712
+2248,Oman,OMN,Pertussis,2004,76,2444751,0.003108701
+2249,Oman,OMN,Pertussis,2005,36,2511269,0.001433538
+2250,Oman,OMN,Pertussis,2006,39,2582991,0.001509878
+2251,Oman,OMN,Pertussis,2007,75,2662762,0.002816624
+2252,Oman,OMN,Pertussis,2008,58,2759014,0.0021022
+2253,Oman,OMN,Pertussis,2009,38,2882942,0.001318098
+2254,Oman,OMN,Pertussis,2010,32,3041460,0.001052126
+2255,Oman,OMN,Pertussis,2011,88,3237268,0.002718342
+2256,Oman,OMN,Pertussis,2012,165,3464644,0.004762394
+2257,Oman,OMN,Pertussis,2013,309,3711481,0.008325517
+2258,Oman,OMN,Pertussis,2014,165,3960925,0.004165694
+2259,Oman,OMN,Pertussis,2015,120,4199810,0.002857272
+2260,Oman,OMN,Pertussis,2016,223,4424762,0.005039819
+2261,Pakistan,PAK,Pertussis,2000,160,138523285,0.000115504
+2262,Pakistan,PAK,Pertussis,2001,109,141601437,7.70E-05
+2263,Pakistan,PAK,Pertussis,2002,233,144654143,0.000161074
+2264,Pakistan,PAK,Pertussis,2003,167,147703401,0.000113064
+2265,Pakistan,PAK,Pertussis,2004,97,150780300,6.43E-05
+2266,Pakistan,PAK,Pertussis,2005,133,153909667,8.64E-05
+2267,Pakistan,PAK,Pertussis,2006,313,157093993,0.000199244
+2268,Pakistan,PAK,Pertussis,2007,267,160332974,0.000166528
+2269,Pakistan,PAK,Pertussis,2008,169,163644603,0.000103273
+2270,Pakistan,PAK,Pertussis,2009,164,167049580,9.82E-05
+2271,Pakistan,PAK,Pertussis,2010,109,170560182,6.39E-05
+2272,Pakistan,PAK,Pertussis,2011,156,174184265,8.96E-05
+2273,Pakistan,PAK,Pertussis,2012,60,177911533,3.37E-05
+2274,Pakistan,PAK,Pertussis,2013,250,181712595,0.00013758
+2275,Pakistan,PAK,Pertussis,2014,0,185546257,0
+2276,Pakistan,PAK,Pertussis,2015,0,189380513,0
+2277,Pakistan,PAK,Pertussis,2016,0,193203476,0
+2278,Panama,PAN,Pertussis,2000,66,3030347,0.002177968
+2279,Panama,PAN,Pertussis,2001,7,3089684,0.00022656
+2280,Panama,PAN,Pertussis,2002,88,3149265,0.002794303
+2281,Panama,PAN,Pertussis,2003,11,3209174,0.000342767
+2282,Panama,PAN,Pertussis,2004,12,3269541,0.000367024
+2283,Panama,PAN,Pertussis,2005,28,3330465,0.000840723
+2284,Panama,PAN,Pertussis,2006,132,3391905,0.003891618
+2285,Panama,PAN,Pertussis,2007,78,3453807,0.002258377
+2286,Panama,PAN,Pertussis,2008,108,3516268,0.003071438
+2287,Panama,PAN,Pertussis,2009,101,3579385,0.002821714
+2288,Panama,PAN,Pertussis,2010,22,3643222,0.000603861
+2289,Panama,PAN,Pertussis,2011,36,3707782,0.000970931
+2290,Panama,PAN,Pertussis,2012,47,3772938,0.001245714
+2291,Panama,PAN,Pertussis,2013,42,3838462,0.001094188
+2292,Panama,PAN,Pertussis,2014,19,3903986,0.000486682
+2293,Panama,PAN,Pertussis,2015,9,3969249,0.000226743
+2294,Panama,PAN,Pertussis,2016,3,4034119,7.44E-05
+2295,Peru,PER,Pertussis,2000,68,25914879,0.000262398
+2296,Peru,PER,Pertussis,2001,24,26261363,9.14E-05
+2297,Peru,PER,Pertussis,2002,54,26601467,0.000202996
+2298,Peru,PER,Pertussis,2003,68,26937738,0.000252434
+2299,Peru,PER,Pertussis,2004,201,27273194,0.000736987
+2300,Peru,PER,Pertussis,2005,127,27610410,0.000459971
+2301,Peru,PER,Pertussis,2006,84,27949944,0.000300537
+2302,Peru,PER,Pertussis,2007,47,28292724,0.00016612
+2303,Peru,PER,Pertussis,2008,59,28641980,0.000205991
+2304,Peru,PER,Pertussis,2009,254,29001507,0.000875817
+2305,Peru,PER,Pertussis,2010,64,29373646,0.000217882
+2306,Peru,PER,Pertussis,2011,56,29759989,0.000188172
+2307,Peru,PER,Pertussis,2012,1173,30158966,0.003889391
+2308,Peru,PER,Pertussis,2013,1373,30565716,0.004491961
+2309,Peru,PER,Pertussis,2014,236,30973354,0.000761945
+2310,Peru,PER,Pertussis,2015,119,31376671,0.000379263
+2311,Peru,PER,Pertussis,2016,143,31773839,0.000450056
+2312,Philippines (the),PHL,Pertussis,2000,23,77991569,2.95E-05
+2313,Philippines (the),PHL,Pertussis,2001,16,79665315,2.01E-05
+2314,Philippines (the),PHL,Pertussis,2002,8,81352060,9.83E-06
+2315,Philippines (the),PHL,Pertussis,2003,9,83031954,1.08E-05
+2316,Philippines (the),PHL,Pertussis,2004,10,84678493,1.18E-05
+2317,Philippines (the),PHL,Pertussis,2005,20,86274237,2.32E-05
+2318,Philippines (the),PHL,Pertussis,2006,41,87809419,4.67E-05
+2319,Philippines (the),PHL,Pertussis,2007,17,89293490,1.90E-05
+2320,Philippines (the),PHL,Pertussis,2008,46,90751864,5.07E-05
+2321,Philippines (the),PHL,Pertussis,2009,2,92220879,2.17E-06
+2322,Philippines (the),PHL,Pertussis,2010,62,93726624,6.61E-05
+2323,Philippines (the),PHL,Pertussis,2011,-1,95277940,-1.05E-06
+2324,Philippines (the),PHL,Pertussis,2012,0,96866642,0
+2325,Philippines (the),PHL,Pertussis,2013,23,98481032,2.34E-05
+2326,Philippines (the),PHL,Pertussis,2014,0,100102249,0
+2327,Philippines (the),PHL,Pertussis,2015,5,101716359,4.92E-06
+2328,Philippines (the),PHL,Pertussis,2016,29,103320222,2.81E-05
+2329,Palau,PLW,Pertussis,2000,0,19175,0
+2330,Palau,PLW,Pertussis,2001,-1,19404,-0.005153577
+2331,Palau,PLW,Pertussis,2002,0,19574,0
+2332,Palau,PLW,Pertussis,2003,-1,19700,-0.005076142
+2333,Palau,PLW,Pertussis,2004,0,19804,0
+2334,Palau,PLW,Pertussis,2005,0,19906,0
+2335,Palau,PLW,Pertussis,2006,0,20012,0
+2336,Palau,PLW,Pertussis,2007,0,20116,0
+2337,Palau,PLW,Pertussis,2008,0,20228,0
+2338,Palau,PLW,Pertussis,2009,0,20342,0
+2339,Palau,PLW,Pertussis,2010,0,20470,0
+2340,Palau,PLW,Pertussis,2011,0,20599,0
+2341,Palau,PLW,Pertussis,2012,0,20758,0
+2342,Palau,PLW,Pertussis,2013,0,20920,0
+2343,Palau,PLW,Pertussis,2014,0,21094,0
+2344,Palau,PLW,Pertussis,2015,0,21288,0
+2345,Palau,PLW,Pertussis,2016,0,21503,0
+2346,Papua New Guinea,PNG,Pertussis,2000,2280,5572222,0.04091725
+2347,Papua New Guinea,PNG,Pertussis,2001,2099,5716152,0.036720507
+2348,Papua New Guinea,PNG,Pertussis,2002,5002,5862316,0.08532464
+2349,Papua New Guinea,PNG,Pertussis,2003,2123,6010724,0.035320204
+2350,Papua New Guinea,PNG,Pertussis,2004,2050,6161517,0.033271027
+2351,Papua New Guinea,PNG,Pertussis,2005,2692,6314709,0.042630626
+2352,Papua New Guinea,PNG,Pertussis,2006,3051,6470272,0.047154123
+2353,Papua New Guinea,PNG,Pertussis,2007,-1,6627922,-1.51E-05
+2354,Papua New Guinea,PNG,Pertussis,2008,-1,6787187,-1.47E-05
+2355,Papua New Guinea,PNG,Pertussis,2009,2932,6947447,0.042202553
+2356,Papua New Guinea,PNG,Pertussis,2010,4949,7108239,0.069623433
+2357,Papua New Guinea,PNG,Pertussis,2011,4625,7269348,0.063623313
+2358,Papua New Guinea,PNG,Pertussis,2012,6472,7430836,0.087096526
+2359,Papua New Guinea,PNG,Pertussis,2013,3188,7592865,0.041986786
+2360,Papua New Guinea,PNG,Pertussis,2014,0,7755785,0
+2361,Papua New Guinea,PNG,Pertussis,2015,0,7919825,0
+2362,Papua New Guinea,PNG,Pertussis,2016,0,8084991,0
+2363,Poland,POL,Pertussis,2000,2269,38258629,0.005930688
+2364,Poland,POL,Pertussis,2001,2411,38248076,0.006303585
+2365,Poland,POL,Pertussis,2002,1788,38230364,0.004676911
+2366,Poland,POL,Pertussis,2003,2034,38204570,0.00532397
+2367,Poland,POL,Pertussis,2004,2954,38182222,0.007736585
+2368,Poland,POL,Pertussis,2005,1925,38165445,0.00504383
+2369,Poland,POL,Pertussis,2006,1525,38141267,0.003998294
+2370,Poland,POL,Pertussis,2007,1987,38120560,0.00521241
+2371,Poland,POL,Pertussis,2008,-1,38125759,-2.62E-06
+2372,Poland,POL,Pertussis,2009,2390,38151603,0.006264481
+2373,Poland,POL,Pertussis,2010,1266,38042794,0.003327831
+2374,Poland,POL,Pertussis,2011,-1,38063255,-2.63E-06
+2375,Poland,POL,Pertussis,2012,4682,38063164,0.012300606
+2376,Poland,POL,Pertussis,2013,2183,38040196,0.005738667
+2377,Poland,POL,Pertussis,2014,-1,38011735,-2.63E-06
+2378,Poland,POL,Pertussis,2015,-1,37986412,-2.63E-06
+2379,Poland,POL,Pertussis,2016,-1,37948016,-2.64E-06
+2380,Democratic People's Republic of Korea (the),PRK,Pertussis,2000,304,22929075,0.001325828
+2381,Democratic People's Republic of Korea (the),PRK,Pertussis,2001,87,23131810,0.000376105
+2382,Democratic People's Republic of Korea (the),PRK,Pertussis,2002,1087,23336681,0.004657903
+2383,Democratic People's Republic of Korea (the),PRK,Pertussis,2003,1084,23538540,0.004605213
+2384,Democratic People's Republic of Korea (the),PRK,Pertussis,2004,1930,23729498,0.008133337
+2385,Democratic People's Republic of Korea (the),PRK,Pertussis,2005,493,23904167,0.002062402
+2386,Democratic People's Republic of Korea (the),PRK,Pertussis,2006,409,24061097,0.001699839
+2387,Democratic People's Republic of Korea (the),PRK,Pertussis,2007,1250,24203289,0.005164587
+2388,Democratic People's Republic of Korea (the),PRK,Pertussis,2008,395,24335146,0.001623167
+2389,Democratic People's Republic of Korea (the),PRK,Pertussis,2009,8,24463021,3.27E-05
+2390,Democratic People's Republic of Korea (the),PRK,Pertussis,2010,0,24591599,0
+2391,Democratic People's Republic of Korea (the),PRK,Pertussis,2011,13,24722298,5.26E-05
+2392,Democratic People's Republic of Korea (the),PRK,Pertussis,2012,8,24854034,3.22E-05
+2393,Democratic People's Republic of Korea (the),PRK,Pertussis,2013,0,24985976,0
+2394,Democratic People's Republic of Korea (the),PRK,Pertussis,2014,0,25116363,0
+2395,Democratic People's Republic of Korea (the),PRK,Pertussis,2015,0,25243917,0
+2396,Democratic People's Republic of Korea (the),PRK,Pertussis,2016,0,25368620,0
+2397,Portugal,PRT,Pertussis,2000,22,10289898,0.000213802
+2398,Portugal,PRT,Pertussis,2001,-1,10362722,-9.65E-06
+2399,Portugal,PRT,Pertussis,2002,2,10419631,1.92E-05
+2400,Portugal,PRT,Pertussis,2003,4,10458821,3.82E-05
+2401,Portugal,PRT,Pertussis,2004,38,10483861,0.000362462
+2402,Portugal,PRT,Pertussis,2005,78,10503330,0.000742622
+2403,Portugal,PRT,Pertussis,2006,22,10522288,0.00020908
+2404,Portugal,PRT,Pertussis,2007,22,10542964,0.00020867
+2405,Portugal,PRT,Pertussis,2008,69,10558177,0.000653522
+2406,Portugal,PRT,Pertussis,2009,68,10568247,0.000643437
+2407,Portugal,PRT,Pertussis,2010,14,10573100,0.000132411
+2408,Portugal,PRT,Pertussis,2011,32,10557560,0.0003031
+2409,Portugal,PRT,Pertussis,2012,224,10514844,0.002130322
+2410,Portugal,PRT,Pertussis,2013,103,10457295,0.000984958
+2411,Portugal,PRT,Pertussis,2014,73,10401062,0.000701851
+2412,Portugal,PRT,Pertussis,2015,230,10358076,0.00222049
+2413,Portugal,PRT,Pertussis,2016,-1,10324611,-9.69E-06
+2414,Paraguay,PRY,Pertussis,2000,24,5302700,0.0004526
+2415,Paraguay,PRY,Pertussis,2001,65,5406624,0.001202229
+2416,Paraguay,PRY,Pertussis,2002,36,5508611,0.000653522
+2417,Paraguay,PRY,Pertussis,2003,48,5607950,0.000855928
+2418,Paraguay,PRY,Pertussis,2004,40,5703740,0.000701294
+2419,Paraguay,PRY,Pertussis,2005,13,5795494,0.000224312
+2420,Paraguay,PRY,Pertussis,2006,6,5882796,0.000101992
+2421,Paraguay,PRY,Pertussis,2007,8,5966159,0.00013409
+2422,Paraguay,PRY,Pertussis,2008,7,6047117,0.000115758
+2423,Paraguay,PRY,Pertussis,2009,1,6127837,1.63E-05
+2424,Paraguay,PRY,Pertussis,2010,1,6209877,1.61E-05
+2425,Paraguay,PRY,Pertussis,2011,11,6293783,0.000174776
+2426,Paraguay,PRY,Pertussis,2012,44,6379219,0.00068974
+2427,Paraguay,PRY,Pertussis,2013,81,6465740,0.001252757
+2428,Paraguay,PRY,Pertussis,2014,101,6552584,0.001541377
+2429,Paraguay,PRY,Pertussis,2015,32,6639119,0.000481992
+2430,Paraguay,PRY,Pertussis,2016,31,6725308,0.000460945
+2431,Qatar,QAT,Pertussis,2000,1,592267,0.000168843
+2432,Qatar,QAT,Pertussis,2001,4,616886,0.000648418
+2433,Qatar,QAT,Pertussis,2002,8,645659,0.001239044
+2434,Qatar,QAT,Pertussis,2003,4,688586,0.000580901
+2435,Qatar,QAT,Pertussis,2004,-1,758855,-0.000131777
+2436,Qatar,QAT,Pertussis,2005,7,864863,0.000809377
+2437,Qatar,QAT,Pertussis,2006,15,1010382,0.001484587
+2438,Qatar,QAT,Pertussis,2007,11,1189633,0.000924655
+2439,Qatar,QAT,Pertussis,2008,-1,1389342,-7.20E-05
+2440,Qatar,QAT,Pertussis,2009,9,1590780,0.00056576
+2441,Qatar,QAT,Pertussis,2010,11,1779676,0.00061809
+2442,Qatar,QAT,Pertussis,2011,0,1952054,0
+2443,Qatar,QAT,Pertussis,2012,0,2109568,0
+2444,Qatar,QAT,Pertussis,2013,0,2250473,0
+2445,Qatar,QAT,Pertussis,2014,0,2374419,0
+2446,Qatar,QAT,Pertussis,2015,0,2481539,0
+2447,Qatar,QAT,Pertussis,2016,0,2569804,0
+2448,Romania,ROU,Pertussis,2000,493,22442971,0.002196679
+2449,Romania,ROU,Pertussis,2001,209,22131970,0.000944335
+2450,Romania,ROU,Pertussis,2002,90,21730496,0.000414164
+2451,Romania,ROU,Pertussis,2003,94,21574326,0.000435703
+2452,Romania,ROU,Pertussis,2004,231,21451748,0.001076835
+2453,Romania,ROU,Pertussis,2005,57,21319685,0.000267359
+2454,Romania,ROU,Pertussis,2006,33,21193760,0.000155706
+2455,Romania,ROU,Pertussis,2007,35,20882982,0.000167601
+2456,Romania,ROU,Pertussis,2008,51,20537875,0.000248322
+2457,Romania,ROU,Pertussis,2009,10,20367487,4.91E-05
+2458,Romania,ROU,Pertussis,2010,29,20246871,0.000143232
+2459,Romania,ROU,Pertussis,2011,86,20147528,0.000426851
+2460,Romania,ROU,Pertussis,2012,82,20058035,0.000408814
+2461,Romania,ROU,Pertussis,2013,57,19983693,0.000285233
+2462,Romania,ROU,Pertussis,2014,87,19908979,0.000436989
+2463,Romania,ROU,Pertussis,2015,93,19815481,0.00046933
+2464,Romania,ROU,Pertussis,2016,72,19705301,0.000365384
+2465,Russian Federation (the),RUS,Pertussis,2000,29983,146596557,0.020452731
+2466,Russian Federation (the),RUS,Pertussis,2001,12073,145976083,0.008270533
+2467,Russian Federation (the),RUS,Pertussis,2002,5455,145306046,0.003754145
+2468,Russian Federation (the),RUS,Pertussis,2003,12523,144648257,0.008657553
+2469,Russian Federation (the),RUS,Pertussis,2004,11085,144067054,0.007694334
+2470,Russian Federation (the),RUS,Pertussis,2005,4644,143518523,0.003235819
+2471,Russian Federation (the),RUS,Pertussis,2006,8208,143049528,0.005737873
+2472,Russian Federation (the),RUS,Pertussis,2007,8116,142805088,0.005683271
+2473,Russian Federation (the),RUS,Pertussis,2008,3557,142742350,0.002491902
+2474,Russian Federation (the),RUS,Pertussis,2009,4056,142785342,0.002840628
+2475,Russian Federation (the),RUS,Pertussis,2010,4795,142849449,0.003356681
+2476,Russian Federation (the),RUS,Pertussis,2011,4733,142960868,0.003310696
+2477,Russian Federation (the),RUS,Pertussis,2012,7220,143201676,0.00504184
+2478,Russian Federation (the),RUS,Pertussis,2013,4510,143506911,0.003142706
+2479,Russian Federation (the),RUS,Pertussis,2014,4705,143819666,0.003271458
+2480,Russian Federation (the),RUS,Pertussis,2015,6452,144096870,0.004477543
+2481,Russian Federation (the),RUS,Pertussis,2016,8232,144342396,0.005703106
+2482,Rwanda,RWA,Pertussis,2000,0,8025703,0
+2483,Rwanda,RWA,Pertussis,2001,23,8329406,0.00027613
+2484,Rwanda,RWA,Pertussis,2002,0,8536205,0
+2485,Rwanda,RWA,Pertussis,2003,0,8680346,0
+2486,Rwanda,RWA,Pertussis,2004,0,8818438,0
+2487,Rwanda,RWA,Pertussis,2005,0,8991735,0
+2488,Rwanda,RWA,Pertussis,2006,-1,9206580,-1.09E-05
+2489,Rwanda,RWA,Pertussis,2007,-1,9447402,-1.06E-05
+2490,Rwanda,RWA,Pertussis,2008,-1,9708169,-1.03E-05
+2491,Rwanda,RWA,Pertussis,2009,-1,9977446,-1.00E-05
+2492,Rwanda,RWA,Pertussis,2010,0,10246842,0
+2493,Rwanda,RWA,Pertussis,2011,0,10516071,0
+2494,Rwanda,RWA,Pertussis,2012,0,10788853,0
+2495,Rwanda,RWA,Pertussis,2013,-1,11065151,-9.04E-06
+2496,Rwanda,RWA,Pertussis,2014,-1,11345357,-8.81E-06
+2497,Rwanda,RWA,Pertussis,2015,0,11629553,0
+2498,Rwanda,RWA,Pertussis,2016,0,11917508,0
+2499,Saudi Arabia,SAU,Pertussis,2000,-1,20764312,-4.82E-06
+2500,Saudi Arabia,SAU,Pertussis,2001,35,21303592,0.000164292
+2501,Saudi Arabia,SAU,Pertussis,2002,42,21906308,0.000191726
+2502,Saudi Arabia,SAU,Pertussis,2003,120,22556425,0.000531999
+2503,Saudi Arabia,SAU,Pertussis,2004,64,23228890,0.000275519
+2504,Saudi Arabia,SAU,Pertussis,2005,21,23905654,8.78E-05
+2505,Saudi Arabia,SAU,Pertussis,2006,34,24578301,0.000138333
+2506,Saudi Arabia,SAU,Pertussis,2007,68,25252569,0.00026928
+2507,Saudi Arabia,SAU,Pertussis,2008,30,25940770,0.000115648
+2508,Saudi Arabia,SAU,Pertussis,2009,1,26661492,3.75E-06
+2509,Saudi Arabia,SAU,Pertussis,2010,0,27425676,0
+2510,Saudi Arabia,SAU,Pertussis,2011,13,28238020,4.60E-05
+2511,Saudi Arabia,SAU,Pertussis,2012,6,29086357,2.06E-05
+2512,Saudi Arabia,SAU,Pertussis,2013,0,29944476,0
+2513,Saudi Arabia,SAU,Pertussis,2014,1,30776722,3.25E-06
+2514,Saudi Arabia,SAU,Pertussis,2015,11,31557144,3.49E-05
+2515,Saudi Arabia,SAU,Pertussis,2016,7,32275687,2.17E-05
+2516,Sudan (the),SDN,Pertussis,2000,80,27250535,0.000293572
+2517,Sudan (the),SDN,Pertussis,2001,645,27945005,0.002308105
+2518,Sudan (the),SDN,Pertussis,2002,213,28679565,0.000742689
+2519,Sudan (the),SDN,Pertussis,2003,232,29435944,0.000788152
+2520,Sudan (the),SDN,Pertussis,2004,192,30186341,0.000636049
+2521,Sudan (the),SDN,Pertussis,2005,90,30911914,0.00029115
+2522,Sudan (the),SDN,Pertussis,2006,39,31607064,0.00012339
+2523,Sudan (the),SDN,Pertussis,2007,57,32282526,0.000176566
+2524,Sudan (the),SDN,Pertussis,2008,34,32955496,0.000103169
+2525,Sudan (the),SDN,Pertussis,2009,6,33650619,1.78E-05
+2526,Sudan (the),SDN,Pertussis,2010,209,34385963,0.000607806
+2527,Sudan (the),SDN,Pertussis,2011,132,35167314,0.000375349
+2528,Sudan (the),SDN,Pertussis,2012,109,35990192,0.00030286
+2529,Sudan (the),SDN,Pertussis,2013,119,36849918,0.000322932
+2530,Sudan (the),SDN,Pertussis,2014,141,37737913,0.00037363
+2531,Sudan (the),SDN,Pertussis,2015,-1,38647803,-2.59E-06
+2532,Sudan (the),SDN,Pertussis,2016,-1,39578828,-2.53E-06
+2533,Senegal,SEN,Pertussis,2000,0,9884052,0
+2534,Senegal,SEN,Pertussis,2001,-1,10134497,-9.87E-06
+2535,Senegal,SEN,Pertussis,2002,0,10396861,0
+2536,Senegal,SEN,Pertussis,2003,-1,10670990,-9.37E-06
+2537,Senegal,SEN,Pertussis,2004,21,10955944,0.000191677
+2538,Senegal,SEN,Pertussis,2005,-1,11251266,-8.89E-06
+2539,Senegal,SEN,Pertussis,2006,7,11556763,6.06E-05
+2540,Senegal,SEN,Pertussis,2007,50,11873557,0.000421104
+2541,Senegal,SEN,Pertussis,2008,45,12203957,0.000368733
+2542,Senegal,SEN,Pertussis,2009,0,12550917,0
+2543,Senegal,SEN,Pertussis,2010,-1,12916229,-7.74E-06
+2544,Senegal,SEN,Pertussis,2011,-1,13300910,-7.52E-06
+2545,Senegal,SEN,Pertussis,2012,-1,13703513,-7.30E-06
+2546,Senegal,SEN,Pertussis,2013,-1,14120320,-7.08E-06
+2547,Senegal,SEN,Pertussis,2014,1,14546111,6.87E-06
+2548,Senegal,SEN,Pertussis,2015,0,14976994,0
+2549,Senegal,SEN,Pertussis,2016,-1,15411614,-6.49E-06
+2550,Singapore,SGP,Pertussis,2000,2,4027887,4.97E-05
+2551,Singapore,SGP,Pertussis,2001,1,4138012,2.42E-05
+2552,Singapore,SGP,Pertussis,2002,0,4175950,0
+2553,Singapore,SGP,Pertussis,2003,1,4114826,2.43E-05
+2554,Singapore,SGP,Pertussis,2004,0,4166664,0
+2555,Singapore,SGP,Pertussis,2005,2,4265762,4.69E-05
+2556,Singapore,SGP,Pertussis,2006,2,4401365,4.54E-05
+2557,Singapore,SGP,Pertussis,2007,38,4588599,0.000828139
+2558,Singapore,SGP,Pertussis,2008,33,4839396,0.000681903
+2559,Singapore,SGP,Pertussis,2009,13,4987573,0.000260648
+2560,Singapore,SGP,Pertussis,2010,8,5076732,0.000157582
+2561,Singapore,SGP,Pertussis,2011,29,5183688,0.000559447
+2562,Singapore,SGP,Pertussis,2012,24,5312437,0.00045177
+2563,Singapore,SGP,Pertussis,2013,17,5399162,0.000314864
+2564,Singapore,SGP,Pertussis,2014,-1,5469724,-1.83E-05
+2565,Singapore,SGP,Pertussis,2015,-1,5535002,-1.81E-05
+2566,Singapore,SGP,Pertussis,2016,-1,5607283,-1.78E-05
+2567,Solomon Islands,SLB,Pertussis,2000,-1,412609,-0.00024236
+2568,Solomon Islands,SLB,Pertussis,2001,61,423853,0.014391782
+2569,Solomon Islands,SLB,Pertussis,2002,0,435262,0
+2570,Solomon Islands,SLB,Pertussis,2003,0,446769,0
+2571,Solomon Islands,SLB,Pertussis,2004,0,458324,0
+2572,Solomon Islands,SLB,Pertussis,2005,191,469885,0.040648244
+2573,Solomon Islands,SLB,Pertussis,2006,24,481422,0.004985231
+2574,Solomon Islands,SLB,Pertussis,2007,35,492940,0.007100256
+2575,Solomon Islands,SLB,Pertussis,2008,0,504477,0
+2576,Solomon Islands,SLB,Pertussis,2009,0,516079,0
+2577,Solomon Islands,SLB,Pertussis,2010,0,527790,0
+2578,Solomon Islands,SLB,Pertussis,2011,0,539614,0
+2579,Solomon Islands,SLB,Pertussis,2012,0,551531,0
+2580,Solomon Islands,SLB,Pertussis,2013,0,563513,0
+2581,Solomon Islands,SLB,Pertussis,2014,-1,575504,-0.000173761
+2582,Solomon Islands,SLB,Pertussis,2015,-1,587482,-0.000170218
+2583,Solomon Islands,SLB,Pertussis,2016,-1,599419,-0.000166828
+2584,Sierra Leone,SLE,Pertussis,2000,0,4564297,0
+2585,Sierra Leone,SLE,Pertussis,2001,-1,4739147,-2.11E-05
+2586,Sierra Leone,SLE,Pertussis,2002,-1,4957216,-2.02E-05
+2587,Sierra Leone,SLE,Pertussis,2003,0,5199549,0
+2588,Sierra Leone,SLE,Pertussis,2004,-1,5439695,-1.84E-05
+2589,Sierra Leone,SLE,Pertussis,2005,-1,5658379,-1.77E-05
+2590,Sierra Leone,SLE,Pertussis,2006,-1,5848692,-1.71E-05
+2591,Sierra Leone,SLE,Pertussis,2007,0,6015417,0
+2592,Sierra Leone,SLE,Pertussis,2008,-1,6165372,-1.62E-05
+2593,Sierra Leone,SLE,Pertussis,2009,-1,6310260,-1.58E-05
+2594,Sierra Leone,SLE,Pertussis,2010,-1,6458720,-1.55E-05
+2595,Sierra Leone,SLE,Pertussis,2011,23,6611692,0.000347869
+2596,Sierra Leone,SLE,Pertussis,2012,-1,6766103,-1.48E-05
+2597,Sierra Leone,SLE,Pertussis,2013,-1,6922079,-1.44E-05
+2598,Sierra Leone,SLE,Pertussis,2014,-1,7079162,-1.41E-05
+2599,Sierra Leone,SLE,Pertussis,2015,-1,7237025,-1.38E-05
+2600,Sierra Leone,SLE,Pertussis,2016,-1,7396190,-1.35E-05
+2601,El Salvador,SLV,Pertussis,2000,3,5867626,5.11E-05
+2602,El Salvador,SLV,Pertussis,2001,6,5905962,0.000101592
+2603,El Salvador,SLV,Pertussis,2002,6,5940303,0.000101005
+2604,El Salvador,SLV,Pertussis,2003,8,5971535,0.000133969
+2605,El Salvador,SLV,Pertussis,2004,1,6000775,1.67E-05
+2606,El Salvador,SLV,Pertussis,2005,5,6028961,8.29E-05
+2607,El Salvador,SLV,Pertussis,2006,5,6056478,8.26E-05
+2608,El Salvador,SLV,Pertussis,2007,2,6083475,3.29E-05
+2609,El Salvador,SLV,Pertussis,2008,5,6110301,8.18E-05
+2610,El Salvador,SLV,Pertussis,2009,2,6137276,3.26E-05
+2611,El Salvador,SLV,Pertussis,2010,2,6164626,3.24E-05
+2612,El Salvador,SLV,Pertussis,2011,7,6192560,0.000113039
+2613,El Salvador,SLV,Pertussis,2012,37,6221246,0.000594736
+2614,El Salvador,SLV,Pertussis,2013,7,6250777,0.000111986
+2615,El Salvador,SLV,Pertussis,2014,0,6281189,0
+2616,El Salvador,SLV,Pertussis,2015,0,6312478,0
+2617,El Salvador,SLV,Pertussis,2016,13,6344722,0.000204895
+2618,San Marino,SMR,Pertussis,2000,0,27418,0
+2619,San Marino,SMR,Pertussis,2001,-1,27762,-0.003602046
+2620,San Marino,SMR,Pertussis,2002,-1,28121,-0.003556061
+2621,San Marino,SMR,Pertussis,2003,0,28494,0
+2622,San Marino,SMR,Pertussis,2004,0,28866,0
+2623,San Marino,SMR,Pertussis,2005,0,29240,0
+2624,San Marino,SMR,Pertussis,2006,0,29614,0
+2625,San Marino,SMR,Pertussis,2007,0,29977,0
+2626,San Marino,SMR,Pertussis,2008,-1,30351,-0.003294784
+2627,San Marino,SMR,Pertussis,2009,0,30723,0
+2628,San Marino,SMR,Pertussis,2010,0,31110,0
+2629,San Marino,SMR,Pertussis,2011,0,31504,0
+2630,San Marino,SMR,Pertussis,2012,0,31914,0
+2631,San Marino,SMR,Pertussis,2013,-1,32303,-0.003095688
+2632,San Marino,SMR,Pertussis,2014,-1,32657,-0.003062131
+2633,San Marino,SMR,Pertussis,2015,-1,32960,-0.003033981
+2634,San Marino,SMR,Pertussis,2016,13,33203,0.039153089
+2635,Somalia,SOM,Pertussis,2000,-1,9011479,-1.11E-05
+2636,Somalia,SOM,Pertussis,2001,-1,9290823,-1.08E-05
+2637,Somalia,SOM,Pertussis,2002,-1,9564167,-1.05E-05
+2638,Somalia,SOM,Pertussis,2003,-1,9836397,-1.02E-05
+2639,Somalia,SOM,Pertussis,2004,-1,10116228,-9.89E-06
+2640,Somalia,SOM,Pertussis,2005,-1,10409925,-9.61E-06
+2641,Somalia,SOM,Pertussis,2006,-1,10718317,-9.33E-06
+2642,Somalia,SOM,Pertussis,2007,1347,11038596,0.012202639
+2643,Somalia,SOM,Pertussis,2008,-1,11369276,-8.80E-06
+2644,Somalia,SOM,Pertussis,2009,823,11707990,0.007029388
+2645,Somalia,SOM,Pertussis,2010,665,12053223,0.005517197
+2646,Somalia,SOM,Pertussis,2011,3028,12404725,0.024410053
+2647,Somalia,SOM,Pertussis,2012,3784,12763776,0.029646399
+2648,Somalia,SOM,Pertussis,2013,1001,13132349,0.007622399
+2649,Somalia,SOM,Pertussis,2014,-1,13513125,-7.40E-06
+2650,Somalia,SOM,Pertussis,2015,-1,13908129,-7.19E-06
+2651,Somalia,SOM,Pertussis,2016,-1,14317996,-6.98E-06
+2652,Serbia,SRB,Pertussis,2000,24,7516346,0.000319304
+2653,Serbia,SRB,Pertussis,2001,7,7503433,9.33E-05
+2654,Serbia,SRB,Pertussis,2002,72,7496522,0.000960445
+2655,Serbia,SRB,Pertussis,2003,14,7480591,0.000187151
+2656,Serbia,SRB,Pertussis,2004,78,7463157,0.001045134
+2657,Serbia,SRB,Pertussis,2005,4,7440769,5.38E-05
+2658,Serbia,SRB,Pertussis,2006,5,7411569,6.75E-05
+2659,Serbia,SRB,Pertussis,2007,3,7381579,4.06E-05
+2660,Serbia,SRB,Pertussis,2008,6,7350222,8.16E-05
+2661,Serbia,SRB,Pertussis,2009,5,7320807,6.83E-05
+2662,Serbia,SRB,Pertussis,2010,1,7291436,1.37E-05
+2663,Serbia,SRB,Pertussis,2011,25,7234099,0.000345586
+2664,Serbia,SRB,Pertussis,2012,51,7199077,0.000708424
+2665,Serbia,SRB,Pertussis,2013,39,7164132,0.000544379
+2666,Serbia,SRB,Pertussis,2014,281,7130576,0.003940776
+2667,Serbia,SRB,Pertussis,2015,89,7095383,0.001254337
+2668,Serbia,SRB,Pertussis,2016,148,7057412,0.002097086
+2669,South Sudan,SSD,Pertussis,2000,-1,6700656,-1.49E-05
+2670,South Sudan,SSD,Pertussis,2001,-1,6974442,-1.43E-05
+2671,South Sudan,SSD,Pertussis,2002,-1,7237276,-1.38E-05
+2672,South Sudan,SSD,Pertussis,2003,-1,7501642,-1.33E-05
+2673,South Sudan,SSD,Pertussis,2004,-1,7787655,-1.28E-05
+2674,South Sudan,SSD,Pertussis,2005,-1,8108877,-1.23E-05
+2675,South Sudan,SSD,Pertussis,2006,-1,8468152,-1.18E-05
+2676,South Sudan,SSD,Pertussis,2007,-1,8856800,-1.13E-05
+2677,South Sudan,SSD,Pertussis,2008,-1,9263136,-1.08E-05
+2678,South Sudan,SSD,Pertussis,2009,-1,9670667,-1.03E-05
+2679,South Sudan,SSD,Pertussis,2010,-1,10067192,-9.93E-06
+2680,South Sudan,SSD,Pertussis,2011,-1,10448857,-9.57E-06
+2681,South Sudan,SSD,Pertussis,2012,-1,10818258,-9.24E-06
+2682,South Sudan,SSD,Pertussis,2013,-1,11177490,-8.95E-06
+2683,South Sudan,SSD,Pertussis,2014,0,11530971,0
+2684,South Sudan,SSD,Pertussis,2015,3,11882136,2.52E-05
+2685,South Sudan,SSD,Pertussis,2016,-1,12230730,-8.18E-06
+2686,Sao Tome and Principe,STP,Pertussis,2000,0,138606,0
+2687,Sao Tome and Principe,STP,Pertussis,2001,0,141622,0
+2688,Sao Tome and Principe,STP,Pertussis,2002,0,144889,0
+2689,Sao Tome and Principe,STP,Pertussis,2003,0,148372,0
+2690,Sao Tome and Principe,STP,Pertussis,2004,0,151969,0
+2691,Sao Tome and Principe,STP,Pertussis,2005,0,155630,0
+2692,Sao Tome and Principe,STP,Pertussis,2006,0,159328,0
+2693,Sao Tome and Principe,STP,Pertussis,2007,0,163101,0
+2694,Sao Tome and Principe,STP,Pertussis,2008,0,166913,0
+2695,Sao Tome and Principe,STP,Pertussis,2009,0,170813,0
+2696,Sao Tome and Principe,STP,Pertussis,2010,0,174776,0
+2697,Sao Tome and Principe,STP,Pertussis,2011,0,178800,0
+2698,Sao Tome and Principe,STP,Pertussis,2012,0,182889,0
+2699,Sao Tome and Principe,STP,Pertussis,2013,0,187045,0
+2700,Sao Tome and Principe,STP,Pertussis,2014,0,191266,0
+2701,Sao Tome and Principe,STP,Pertussis,2015,0,195553,0
+2702,Sao Tome and Principe,STP,Pertussis,2016,0,199910,0
+2703,Suriname,SUR,Pertussis,2000,0,472390,0
+2704,Suriname,SUR,Pertussis,2001,5,477740,0.001046594
+2705,Suriname,SUR,Pertussis,2002,0,483044,0
+2706,Suriname,SUR,Pertussis,2003,2,488332,0.000409557
+2707,Suriname,SUR,Pertussis,2004,0,493630,0
+2708,Suriname,SUR,Pertussis,2005,0,498946,0
+2709,Suriname,SUR,Pertussis,2006,0,504307,0
+2710,Suriname,SUR,Pertussis,2007,0,509705,0
+2711,Suriname,SUR,Pertussis,2008,0,515148,0
+2712,Suriname,SUR,Pertussis,2009,1,520619,0.000192079
+2713,Suriname,SUR,Pertussis,2010,0,526103,0
+2714,Suriname,SUR,Pertussis,2011,0,531589,0
+2715,Suriname,SUR,Pertussis,2012,1,537077,0.000186193
+2716,Suriname,SUR,Pertussis,2013,3,542540,0.000552955
+2717,Suriname,SUR,Pertussis,2014,13,547928,0.002372574
+2718,Suriname,SUR,Pertussis,2015,0,553208,0
+2719,Suriname,SUR,Pertussis,2016,-1,558368,-0.000179093
+2720,Slovakia,SVK,Pertussis,2000,43,5388720,0.000797963
+2721,Slovakia,SVK,Pertussis,2001,3,5378867,5.58E-05
+2722,Slovakia,SVK,Pertussis,2002,36,5376912,0.000669529
+2723,Slovakia,SVK,Pertussis,2003,47,5373374,0.000874683
+2724,Slovakia,SVK,Pertussis,2004,21,5372280,0.000390895
+2725,Slovakia,SVK,Pertussis,2005,17,5372807,0.000316408
+2726,Slovakia,SVK,Pertussis,2006,21,5373054,0.000390839
+2727,Slovakia,SVK,Pertussis,2007,21,5374622,0.000390725
+2728,Slovakia,SVK,Pertussis,2008,105,5379233,0.001951951
+2729,Slovakia,SVK,Pertussis,2009,288,5386406,0.005346793
+2730,Slovakia,SVK,Pertussis,2010,1379,5391428,0.025577639
+2731,Slovakia,SVK,Pertussis,2011,936,5398384,0.017338522
+2732,Slovakia,SVK,Pertussis,2012,950,5407579,0.017567936
+2733,Slovakia,SVK,Pertussis,2013,907,5413393,0.016754741
+2734,Slovakia,SVK,Pertussis,2014,1123,5418649,0.020724723
+2735,Slovakia,SVK,Pertussis,2015,334,5423801,0.006158043
+2736,Slovakia,SVK,Pertussis,2016,289,5428704,0.005323554
+2737,Slovenia,SVN,Pertussis,2000,-1,1988925,-5.03E-05
+2738,Slovenia,SVN,Pertussis,2001,77,1992060,0.003865345
+2739,Slovenia,SVN,Pertussis,2002,29,1994530,0.001453977
+2740,Slovenia,SVN,Pertussis,2003,180,1995733,0.009019243
+2741,Slovenia,SVN,Pertussis,2004,113,1997012,0.005658454
+2742,Slovenia,SVN,Pertussis,2005,75,2000474,0.003749111
+2743,Slovenia,SVN,Pertussis,2006,551,2006868,0.027455717
+2744,Slovenia,SVN,Pertussis,2007,706,2018122,0.034983019
+2745,Slovenia,SVN,Pertussis,2008,181,2021316,0.008954562
+2746,Slovenia,SVN,Pertussis,2009,442,2039669,0.021670183
+2747,Slovenia,SVN,Pertussis,2010,610,2048583,0.02977668
+2748,Slovenia,SVN,Pertussis,2011,284,2052843,0.013834472
+2749,Slovenia,SVN,Pertussis,2012,178,2057159,0.00865271
+2750,Slovenia,SVN,Pertussis,2013,169,2059953,0.008204071
+2751,Slovenia,SVN,Pertussis,2014,399,2061980,0.019350333
+2752,Slovenia,SVN,Pertussis,2015,68,2063531,0.003295322
+2753,Slovenia,SVN,Pertussis,2016,127,2064845,0.006150583
+2754,Sweden,SWE,Pertussis,2000,2705,8872109,0.030488805
+2755,Sweden,SWE,Pertussis,2001,979,8895960,0.011004996
+2756,Sweden,SWE,Pertussis,2002,1350,8924958,0.015126122
+2757,Sweden,SWE,Pertussis,2003,664,8958229,0.007412179
+2758,Sweden,SWE,Pertussis,2004,1371,8993531,0.015244291
+2759,Sweden,SWE,Pertussis,2005,1360,9029572,0.015061622
+2760,Sweden,SWE,Pertussis,2006,795,9080505,0.00875502
+2761,Sweden,SWE,Pertussis,2007,689,9148092,0.007531625
+2762,Sweden,SWE,Pertussis,2008,459,9219637,0.004978504
+2763,Sweden,SWE,Pertussis,2009,281,9298515,0.003021988
+2764,Sweden,SWE,Pertussis,2010,266,9378126,0.002836388
+2765,Sweden,SWE,Pertussis,2011,177,9449213,0.001873172
+2766,Sweden,SWE,Pertussis,2012,289,9519374,0.003035914
+2767,Sweden,SWE,Pertussis,2013,237,9600379,0.002468653
+2768,Sweden,SWE,Pertussis,2014,703,9696110,0.00725033
+2769,Sweden,SWE,Pertussis,2015,603,9799186,0.006153572
+2770,Sweden,SWE,Pertussis,2016,679,9903122,0.006856424
+2771,Swaziland,SWZ,Pertussis,2000,0,1061468,0
+2772,Swaziland,SWZ,Pertussis,2001,0,1072927,0
+2773,Swaziland,SWZ,Pertussis,2002,0,1080930,0
+2774,Swaziland,SWZ,Pertussis,2003,0,1087392,0
+2775,Swaziland,SWZ,Pertussis,2004,0,1095053,0
+2776,Swaziland,SWZ,Pertussis,2005,0,1105873,0
+2777,Swaziland,SWZ,Pertussis,2006,1,1120514,8.92E-05
+2778,Swaziland,SWZ,Pertussis,2007,0,1138434,0
+2779,Swaziland,SWZ,Pertussis,2008,0,1158897,0
+2780,Swaziland,SWZ,Pertussis,2009,0,1180675,0
+2781,Swaziland,SWZ,Pertussis,2010,6,1202843,0.000498818
+2782,Swaziland,SWZ,Pertussis,2011,0,1225258,0
+2783,Swaziland,SWZ,Pertussis,2012,0,1248158,0
+2784,Swaziland,SWZ,Pertussis,2013,0,1271456,0
+2785,Swaziland,SWZ,Pertussis,2014,0,1295097,0
+2786,Swaziland,SWZ,Pertussis,2015,0,1319011,0
+2787,Swaziland,SWZ,Pertussis,2016,0,1343098,0
+2788,Seychelles,SYC,Pertussis,2000,-1,81131,-0.001232574
+2789,Seychelles,SYC,Pertussis,2001,0,81202,0
+2790,Seychelles,SYC,Pertussis,2002,0,83723,0
+2791,Seychelles,SYC,Pertussis,2003,0,82781,0
+2792,Seychelles,SYC,Pertussis,2004,0,82475,0
+2793,Seychelles,SYC,Pertussis,2005,0,82858,0
+2794,Seychelles,SYC,Pertussis,2006,0,84600,0
+2795,Seychelles,SYC,Pertussis,2007,0,85033,0
+2796,Seychelles,SYC,Pertussis,2008,0,86956,0
+2797,Seychelles,SYC,Pertussis,2009,0,87298,0
+2798,Seychelles,SYC,Pertussis,2010,2,89770,0.002227916
+2799,Seychelles,SYC,Pertussis,2011,5,87441,0.005718141
+2800,Seychelles,SYC,Pertussis,2012,0,88303,0
+2801,Seychelles,SYC,Pertussis,2013,0,89949,0
+2802,Seychelles,SYC,Pertussis,2014,0,91359,0
+2803,Seychelles,SYC,Pertussis,2015,0,93419,0
+2804,Seychelles,SYC,Pertussis,2016,0,94677,0
+2805,Syrian Arab Republic (the),SYR,Pertussis,2000,124,16410848,0.000755598
+2806,Syrian Arab Republic (the),SYR,Pertussis,2001,240,16766899,0.001431392
+2807,Syrian Arab Republic (the),SYR,Pertussis,2002,476,17087901,0.002785597
+2808,Syrian Arab Republic (the),SYR,Pertussis,2003,309,17415266,0.001774305
+2809,Syrian Arab Republic (the),SYR,Pertussis,2004,268,17806638,0.001505057
+2810,Syrian Arab Republic (the),SYR,Pertussis,2005,-1,18294611,-5.47E-06
+2811,Syrian Arab Republic (the),SYR,Pertussis,2006,212,18914977,0.001120805
+2812,Syrian Arab Republic (the),SYR,Pertussis,2007,140,19632806,0.000713092
+2813,Syrian Arab Republic (the),SYR,Pertussis,2008,59,20325443,0.000290277
+2814,Syrian Arab Republic (the),SYR,Pertussis,2009,19,20824893,9.12E-05
+2815,Syrian Arab Republic (the),SYR,Pertussis,2010,70,21018834,0.000333035
+2816,Syrian Arab Republic (the),SYR,Pertussis,2011,90,20863993,0.000431365
+2817,Syrian Arab Republic (the),SYR,Pertussis,2012,4,20420701,1.96E-05
+2818,Syrian Arab Republic (the),SYR,Pertussis,2013,35,19809141,0.000176686
+2819,Syrian Arab Republic (the),SYR,Pertussis,2014,-1,19203090,-5.21E-06
+2820,Syrian Arab Republic (the),SYR,Pertussis,2015,29,18734987,0.000154791
+2821,Syrian Arab Republic (the),SYR,Pertussis,2016,20,18430453,0.000108516
+2822,Chad,TCD,Pertussis,2000,-1,8342559,-1.20E-05
+2823,Chad,TCD,Pertussis,2001,-1,8663012,-1.15E-05
+2824,Chad,TCD,Pertussis,2002,-1,9001689,-1.11E-05
+2825,Chad,TCD,Pertussis,2003,-1,9353201,-1.07E-05
+2826,Chad,TCD,Pertussis,2004,-1,9710043,-1.03E-05
+2827,Chad,TCD,Pertussis,2005,-1,10067009,-9.93E-06
+2828,Chad,TCD,Pertussis,2006,-1,10421597,-9.60E-06
+2829,Chad,TCD,Pertussis,2007,-1,10775708,-9.28E-06
+2830,Chad,TCD,Pertussis,2008,-1,11133861,-8.98E-06
+2831,Chad,TCD,Pertussis,2009,-1,11502786,-8.69E-06
+2832,Chad,TCD,Pertussis,2010,-1,11887202,-8.41E-06
+2833,Chad,TCD,Pertussis,2011,-1,12288651,-8.14E-06
+2834,Chad,TCD,Pertussis,2012,-1,12705135,-7.87E-06
+2835,Chad,TCD,Pertussis,2013,-1,13133589,-7.61E-06
+2836,Chad,TCD,Pertussis,2014,-1,13569438,-7.37E-06
+2837,Chad,TCD,Pertussis,2015,-1,14009413,-7.14E-06
+2838,Chad,TCD,Pertussis,2016,-1,14452543,-6.92E-06
+2839,Togo,TGO,Pertussis,2000,115,4970367,0.002313712
+2840,Togo,TGO,Pertussis,2001,628,5111770,0.012285373
+2841,Togo,TGO,Pertussis,2002,177,5251472,0.003370484
+2842,Togo,TGO,Pertussis,2003,71,5391401,0.001316912
+2843,Togo,TGO,Pertussis,2004,88,5534598,0.001589998
+2844,Togo,TGO,Pertussis,2005,-1,5683268,-1.76E-05
+2845,Togo,TGO,Pertussis,2006,-1,5837792,-1.71E-05
+2846,Togo,TGO,Pertussis,2007,27,5997385,0.000450196
+2847,Togo,TGO,Pertussis,2008,156,6161796,0.002531729
+2848,Togo,TGO,Pertussis,2009,72,6330472,0.001137356
+2849,Togo,TGO,Pertussis,2010,53,6502952,0.000815014
+2850,Togo,TGO,Pertussis,2011,34,6679282,0.000509037
+2851,Togo,TGO,Pertussis,2012,32,6859482,0.000466508
+2852,Togo,TGO,Pertussis,2013,30,7042948,0.000425958
+2853,Togo,TGO,Pertussis,2014,38,7228915,0.000525667
+2854,Togo,TGO,Pertussis,2015,23,7416802,0.000310107
+2855,Togo,TGO,Pertussis,2016,11,7606374,0.000144616
+2856,Thailand,THA,Pertussis,2000,93,62958021,0.000147717
+2857,Thailand,THA,Pertussis,2001,72,63543322,0.000113309
+2858,Thailand,THA,Pertussis,2002,15,64073164,2.34E-05
+2859,Thailand,THA,Pertussis,2003,24,64554952,3.72E-05
+2860,Thailand,THA,Pertussis,2004,21,65002231,3.23E-05
+2861,Thailand,THA,Pertussis,2005,23,65425470,3.52E-05
+2862,Thailand,THA,Pertussis,2006,72,65824164,0.000109382
+2863,Thailand,THA,Pertussis,2007,23,66195615,3.47E-05
+2864,Thailand,THA,Pertussis,2008,16,66545760,2.40E-05
+2865,Thailand,THA,Pertussis,2009,25,66881867,3.74E-05
+2866,Thailand,THA,Pertussis,2010,6,67208808,8.93E-06
+2867,Thailand,THA,Pertussis,2011,12,67530130,1.78E-05
+2868,Thailand,THA,Pertussis,2012,14,67843979,2.06E-05
+2869,Thailand,THA,Pertussis,2013,24,68143065,3.52E-05
+2870,Thailand,THA,Pertussis,2014,14,68416772,2.05E-05
+2871,Thailand,THA,Pertussis,2015,51,68657600,7.43E-05
+2872,Thailand,THA,Pertussis,2016,84,68863514,0.00012198
+2873,Tajikistan,TJK,Pertussis,2000,13,6216205,0.000209131
+2874,Tajikistan,TJK,Pertussis,2001,24,6327125,0.000379319
+2875,Tajikistan,TJK,Pertussis,2002,53,6447688,0.000822
+2876,Tajikistan,TJK,Pertussis,2003,23,6576877,0.00034971
+2877,Tajikistan,TJK,Pertussis,2004,74,6712841,0.001102365
+2878,Tajikistan,TJK,Pertussis,2005,22,6854176,0.000320972
+2879,Tajikistan,TJK,Pertussis,2006,22,7000557,0.000314261
+2880,Tajikistan,TJK,Pertussis,2007,46,7152385,0.000643142
+2881,Tajikistan,TJK,Pertussis,2008,7,7309728,9.58E-05
+2882,Tajikistan,TJK,Pertussis,2009,6,7472819,8.03E-05
+2883,Tajikistan,TJK,Pertussis,2010,12,7641630,0.000157035
+2884,Tajikistan,TJK,Pertussis,2011,56,7815949,0.000716484
+2885,Tajikistan,TJK,Pertussis,2012,5,7995062,6.25E-05
+2886,Tajikistan,TJK,Pertussis,2013,2,8177809,2.45E-05
+2887,Tajikistan,TJK,Pertussis,2014,6,8362745,7.17E-05
+2888,Tajikistan,TJK,Pertussis,2015,-1,8548651,-1.17E-05
+2889,Tajikistan,TJK,Pertussis,2016,6,8734951,6.87E-05
+2890,Turkmenistan,TKM,Pertussis,2000,11,4516131,0.000243571
+2891,Turkmenistan,TKM,Pertussis,2001,8,4564080,0.000175282
+2892,Turkmenistan,TKM,Pertussis,2002,49,4610002,0.001062906
+2893,Turkmenistan,TKM,Pertussis,2003,0,4655741,0
+2894,Turkmenistan,TKM,Pertussis,2004,3,4703398,6.38E-05
+2895,Turkmenistan,TKM,Pertussis,2005,0,4754641,0
+2896,Turkmenistan,TKM,Pertussis,2006,0,4810105,0
+2897,Turkmenistan,TKM,Pertussis,2007,0,4870137,0
+2898,Turkmenistan,TKM,Pertussis,2008,0,4935762,0
+2899,Turkmenistan,TKM,Pertussis,2009,0,5007950,0
+2900,Turkmenistan,TKM,Pertussis,2010,0,5087210,0
+2901,Turkmenistan,TKM,Pertussis,2011,0,5174061,0
+2902,Turkmenistan,TKM,Pertussis,2012,0,5267839,0
+2903,Turkmenistan,TKM,Pertussis,2013,0,5366277,0
+2904,Turkmenistan,TKM,Pertussis,2014,0,5466241,0
+2905,Turkmenistan,TKM,Pertussis,2015,0,5565284,0
+2906,Turkmenistan,TKM,Pertussis,2016,2,5662544,3.53E-05
+2907,Timor-Leste,TLS,Pertussis,2000,-1,871607,-0.000114731
+2908,Timor-Leste,TLS,Pertussis,2001,-1,892531,-0.000112041
+2909,Timor-Leste,TLS,Pertussis,2002,0,923825,0
+2910,Timor-Leste,TLS,Pertussis,2003,0,960852,0
+2911,Timor-Leste,TLS,Pertussis,2004,0,996698,0
+2912,Timor-Leste,TLS,Pertussis,2005,0,1026484,0
+2913,Timor-Leste,TLS,Pertussis,2006,26,1048621,0.002479447
+2914,Timor-Leste,TLS,Pertussis,2007,0,1064973,0
+2915,Timor-Leste,TLS,Pertussis,2008,0,1078110,0
+2916,Timor-Leste,TLS,Pertussis,2009,0,1092021,0
+2917,Timor-Leste,TLS,Pertussis,2010,0,1109591,0
+2918,Timor-Leste,TLS,Pertussis,2011,4,1131523,0.000353506
+2919,Timor-Leste,TLS,Pertussis,2012,0,1156760,0
+2920,Timor-Leste,TLS,Pertussis,2013,0,1184366,0
+2921,Timor-Leste,TLS,Pertussis,2014,0,1212814,0
+2922,Timor-Leste,TLS,Pertussis,2015,5,1240977,0.000402908
+2923,Timor-Leste,TLS,Pertussis,2016,6,1268671,0.000472936
+2924,Tonga,TON,Pertussis,2000,0,98082,0
+2925,Tonga,TON,Pertussis,2001,1,98611,0.001014086
+2926,Tonga,TON,Pertussis,2002,2,99184,0.002016454
+2927,Tonga,TON,Pertussis,2003,0,99789,0
+2928,Tonga,TON,Pertussis,2004,0,100406,0
+2929,Tonga,TON,Pertussis,2005,9,101041,0.008907275
+2930,Tonga,TON,Pertussis,2006,2,101689,0.001966781
+2931,Tonga,TON,Pertussis,2007,0,102357,0
+2932,Tonga,TON,Pertussis,2008,0,103005,0
+2933,Tonga,TON,Pertussis,2009,5,103604,0.004826068
+2934,Tonga,TON,Pertussis,2010,0,104137,0
+2935,Tonga,TON,Pertussis,2011,0,104577,0
+2936,Tonga,TON,Pertussis,2012,4,104951,0.003811302
+2937,Tonga,TON,Pertussis,2013,0,105328,0
+2938,Tonga,TON,Pertussis,2014,-1,105782,-0.00094534
+2939,Tonga,TON,Pertussis,2015,-1,106364,-0.000940168
+2940,Tonga,TON,Pertussis,2016,0,107122,0
+2941,Trinidad and Tobago,TTO,Pertussis,2000,0,1267984,0
+2942,Trinidad and Tobago,TTO,Pertussis,2001,0,1272380,0
+2943,Trinidad and Tobago,TTO,Pertussis,2002,0,1277837,0
+2944,Trinidad and Tobago,TTO,Pertussis,2003,0,1284052,0
+2945,Trinidad and Tobago,TTO,Pertussis,2004,0,1290535,0
+2946,Trinidad and Tobago,TTO,Pertussis,2005,0,1296934,0
+2947,Trinidad and Tobago,TTO,Pertussis,2006,0,1303144,0
+2948,Trinidad and Tobago,TTO,Pertussis,2007,0,1309260,0
+2949,Trinidad and Tobago,TTO,Pertussis,2008,0,1315372,0
+2950,Trinidad and Tobago,TTO,Pertussis,2009,0,1321618,0
+2951,Trinidad and Tobago,TTO,Pertussis,2010,0,1328100,0
+2952,Trinidad and Tobago,TTO,Pertussis,2011,0,1334788,0
+2953,Trinidad and Tobago,TTO,Pertussis,2012,0,1341588,0
+2954,Trinidad and Tobago,TTO,Pertussis,2013,0,1348248,0
+2955,Trinidad and Tobago,TTO,Pertussis,2014,0,1354493,0
+2956,Trinidad and Tobago,TTO,Pertussis,2015,0,1360092,0
+2957,Trinidad and Tobago,TTO,Pertussis,2016,0,1364962,0
+2958,Tunisia,TUN,Pertussis,2000,1,9699197,1.03E-05
+2959,Tunisia,TUN,Pertussis,2001,0,9785701,0
+2960,Tunisia,TUN,Pertussis,2002,1,9864326,1.01E-05
+2961,Tunisia,TUN,Pertussis,2003,2,9939678,2.01E-05
+2962,Tunisia,TUN,Pertussis,2004,1,10017601,9.98E-06
+2963,Tunisia,TUN,Pertussis,2005,6,10102482,5.94E-05
+2964,Tunisia,TUN,Pertussis,2006,8,10196136,7.85E-05
+2965,Tunisia,TUN,Pertussis,2007,6,10298087,5.83E-05
+2966,Tunisia,TUN,Pertussis,2008,12,10407336,0.000115303
+2967,Tunisia,TUN,Pertussis,2009,8,10521834,7.60E-05
+2968,Tunisia,TUN,Pertussis,2010,4,10639931,3.76E-05
+2969,Tunisia,TUN,Pertussis,2011,0,10761467,0
+2970,Tunisia,TUN,Pertussis,2012,0,10886668,0
+2971,Tunisia,TUN,Pertussis,2013,88,11014558,0.000798943
+2972,Tunisia,TUN,Pertussis,2014,145,11143908,0.001301159
+2973,Tunisia,TUN,Pertussis,2015,4,11273661,3.55E-05
+2974,Tunisia,TUN,Pertussis,2016,7,11403248,6.14E-05
+2975,Turkey,TUR,Pertussis,2000,510,63240121,0.00080645
+2976,Turkey,TUR,Pertussis,2001,182,64191474,0.000283527
+2977,Turkey,TUR,Pertussis,2002,193,65143054,0.000296271
+2978,Turkey,TUR,Pertussis,2003,255,66085803,0.000385862
+2979,Turkey,TUR,Pertussis,2004,389,67007855,0.000580529
+2980,Turkey,TUR,Pertussis,2005,272,67903406,0.000400569
+2981,Turkey,TUR,Pertussis,2006,57,68763405,8.29E-05
+2982,Turkey,TUR,Pertussis,2007,63,69597281,9.05E-05
+2983,Turkey,TUR,Pertussis,2008,17,70440032,2.41E-05
+2984,Turkey,TUR,Pertussis,2009,11,71339185,1.54E-05
+2985,Turkey,TUR,Pertussis,2010,48,72326914,6.64E-05
+2986,Turkey,TUR,Pertussis,2011,242,73409455,0.000329658
+2987,Turkey,TUR,Pertussis,2012,18,74569867,2.41E-05
+2988,Turkey,TUR,Pertussis,2013,33,75787333,4.35E-05
+2989,Turkey,TUR,Pertussis,2014,68,77030628,8.83E-05
+2990,Turkey,TUR,Pertussis,2015,322,78271472,0.000411389
+2991,Turkey,TUR,Pertussis,2016,22,79512426,2.77E-05
+2992,Tuvalu,TUV,Pertussis,2000,-1,9420,-0.010615711
+2993,Tuvalu,TUV,Pertussis,2001,0,9512,0
+2994,Tuvalu,TUV,Pertussis,2002,0,9635,0
+2995,Tuvalu,TUV,Pertussis,2003,0,9767,0
+2996,Tuvalu,TUV,Pertussis,2004,0,9894,0
+2997,Tuvalu,TUV,Pertussis,2005,0,10027,0
+2998,Tuvalu,TUV,Pertussis,2006,0,10137,0
+2999,Tuvalu,TUV,Pertussis,2007,0,10243,0
+3000,Tuvalu,TUV,Pertussis,2008,0,10340,0
+3001,Tuvalu,TUV,Pertussis,2009,0,10441,0
+3002,Tuvalu,TUV,Pertussis,2010,0,10531,0
+3003,Tuvalu,TUV,Pertussis,2011,0,10628,0
+3004,Tuvalu,TUV,Pertussis,2012,0,10725,0
+3005,Tuvalu,TUV,Pertussis,2013,-1,10819,-0.009242998
+3006,Tuvalu,TUV,Pertussis,2014,-1,10908,-0.009167583
+3007,Tuvalu,TUV,Pertussis,2015,-1,11001,-0.009090083
+3008,Tuvalu,TUV,Pertussis,2016,-1,11097,-0.009011445
+3009,United Republic of Tanzania,TZA,Pertussis,2000,-1,34178042,-2.93E-06
+3010,United Republic of Tanzania,TZA,Pertussis,2001,0,35117019,0
+3011,United Republic of Tanzania,TZA,Pertussis,2002,1,36105808,2.77E-06
+3012,United Republic of Tanzania,TZA,Pertussis,2003,33,37149072,8.88E-05
+3013,United Republic of Tanzania,TZA,Pertussis,2004,0,38249984,0
+3014,United Republic of Tanzania,TZA,Pertussis,2005,0,39410545,0
+3015,United Republic of Tanzania,TZA,Pertussis,2006,0,40634948,0
+3016,United Republic of Tanzania,TZA,Pertussis,2007,0,41923715,0
+3017,United Republic of Tanzania,TZA,Pertussis,2008,0,43270144,0
+3018,United Republic of Tanzania,TZA,Pertussis,2009,0,44664231,0
+3019,United Republic of Tanzania,TZA,Pertussis,2010,0,46098591,0
+3020,United Republic of Tanzania,TZA,Pertussis,2011,0,47570902,0
+3021,United Republic of Tanzania,TZA,Pertussis,2012,0,49082997,0
+3022,United Republic of Tanzania,TZA,Pertussis,2013,0,50636595,0
+3023,United Republic of Tanzania,TZA,Pertussis,2014,-1,52234869,-1.91E-06
+3024,United Republic of Tanzania,TZA,Pertussis,2015,-1,53879957,-1.86E-06
+3025,United Republic of Tanzania,TZA,Pertussis,2016,-1,55572201,-1.80E-06
+3026,Uganda,UGA,Pertussis,2000,-1,24039274,-4.16E-06
+3027,Uganda,UGA,Pertussis,2001,-1,24854892,-4.02E-06
+3028,Uganda,UGA,Pertussis,2002,-1,25718048,-3.89E-06
+3029,Uganda,UGA,Pertussis,2003,-1,26624820,-3.76E-06
+3030,Uganda,UGA,Pertussis,2004,-1,27568436,-3.63E-06
+3031,Uganda,UGA,Pertussis,2005,0,28543940,0
+3032,Uganda,UGA,Pertussis,2006,-1,29550662,-3.38E-06
+3033,Uganda,UGA,Pertussis,2007,-1,30590487,-3.27E-06
+3034,Uganda,UGA,Pertussis,2008,-1,31663896,-3.16E-06
+3035,Uganda,UGA,Pertussis,2009,-1,32771895,-3.05E-06
+3036,Uganda,UGA,Pertussis,2010,-1,33915133,-2.95E-06
+3037,Uganda,UGA,Pertussis,2011,-1,35093648,-2.85E-06
+3038,Uganda,UGA,Pertussis,2012,-1,36306796,-2.75E-06
+3039,Uganda,UGA,Pertussis,2013,-1,37553726,-2.66E-06
+3040,Uganda,UGA,Pertussis,2014,-1,38833338,-2.58E-06
+3041,Uganda,UGA,Pertussis,2015,-1,40144870,-2.49E-06
+3042,Uganda,UGA,Pertussis,2016,-1,41487965,-2.41E-06
+3043,Ukraine,UKR,Pertussis,2000,2243,49175848,0.004561182
+3044,Ukraine,UKR,Pertussis,2001,2210,48683865,0.004539492
+3045,Ukraine,UKR,Pertussis,2002,411,48202500,0.000852653
+3046,Ukraine,UKR,Pertussis,2003,778,47812950,0.001627174
+3047,Ukraine,UKR,Pertussis,2004,2241,47451600,0.004722707
+3048,Ukraine,UKR,Pertussis,2005,1518,47105150,0.003222578
+3049,Ukraine,UKR,Pertussis,2006,2459,46787750,0.005255649
+3050,Ukraine,UKR,Pertussis,2007,2198,46509350,0.004725931
+3051,Ukraine,UKR,Pertussis,2008,1025,46258200,0.002215823
+3052,Ukraine,UKR,Pertussis,2009,-1,46053300,-2.17E-06
+3053,Ukraine,UKR,Pertussis,2010,1067,45870700,0.002326104
+3054,Ukraine,UKR,Pertussis,2011,2937,45706100,0.006425838
+3055,Ukraine,UKR,Pertussis,2012,2286,45593300,0.005013895
+3056,Ukraine,UKR,Pertussis,2013,-1,45489600,-2.20E-06
+3057,Ukraine,UKR,Pertussis,2014,-1,45271947,-2.21E-06
+3058,Ukraine,UKR,Pertussis,2015,2426,45154029,0.005372721
+3059,Ukraine,UKR,Pertussis,2016,3132,45004645,0.006959282
+3060,Uruguay,URY,Pertussis,2000,0,3321245,0
+3061,Uruguay,URY,Pertussis,2001,6,3327103,0.000180337
+3062,Uruguay,URY,Pertussis,2002,5,3327773,0.000150251
+3063,Uruguay,URY,Pertussis,2003,1,3325637,3.01E-05
+3064,Uruguay,URY,Pertussis,2004,0,3324096,0
+3065,Uruguay,URY,Pertussis,2005,0,3325612,0
+3066,Uruguay,URY,Pertussis,2006,15,3331043,0.000450309
+3067,Uruguay,URY,Pertussis,2007,26,3339741,0.000778503
+3068,Uruguay,URY,Pertussis,2008,128,3350824,0.003819956
+3069,Uruguay,URY,Pertussis,2009,9,3362755,0.000267638
+3070,Uruguay,URY,Pertussis,2010,36,3374415,0.001066852
+3071,Uruguay,URY,Pertussis,2011,639,3385624,0.018873921
+3072,Uruguay,URY,Pertussis,2012,598,3396777,0.017604924
+3073,Uruguay,URY,Pertussis,2013,323,3408005,0.009477686
+3074,Uruguay,URY,Pertussis,2014,0,3419546,0
+3075,Uruguay,URY,Pertussis,2015,777,3431552,0.022642816
+3076,Uruguay,URY,Pertussis,2016,371,3444006,0.010772339
+3077,United States of America (the),USA,Pertussis,2000,7867,282162411,0.002788111
+3078,United States of America (the),USA,Pertussis,2001,7580,284968955,0.002659939
+3079,United States of America (the),USA,Pertussis,2002,9771,287625193,0.003397129
+3080,United States of America (the),USA,Pertussis,2003,11647,290107933,0.004014713
+3081,United States of America (the),USA,Pertussis,2004,25827,292805298,0.008820537
+3082,United States of America (the),USA,Pertussis,2005,25616,295516599,0.00866821
+3083,United States of America (the),USA,Pertussis,2006,15632,298379912,0.005238959
+3084,United States of America (the),USA,Pertussis,2007,10454,301231207,0.003470424
+3085,United States of America (the),USA,Pertussis,2008,13213,304093966,0.004345039
+3086,United States of America (the),USA,Pertussis,2009,0,306771529,0
+3087,United States of America (the),USA,Pertussis,2010,27550,309348193,0.008905822
+3088,United States of America (the),USA,Pertussis,2011,18719,311663358,0.00600616
+3089,United States of America (the),USA,Pertussis,2012,48277,313998379,0.01537492
+3090,United States of America (the),USA,Pertussis,2013,28639,316204908,0.009057102
+3091,United States of America (the),USA,Pertussis,2014,32971,318563456,0.0103499
+3092,United States of America (the),USA,Pertussis,2015,20679,320896618,0.006444131
+3093,United States of America (the),USA,Pertussis,2016,-1,323127513,-3.09E-07
+3094,Uzbekistan,UZB,Pertussis,2000,77,24650400,0.000312368
+3095,Uzbekistan,UZB,Pertussis,2001,57,24964450,0.000228325
+3096,Uzbekistan,UZB,Pertussis,2002,78,25271850,0.000308644
+3097,Uzbekistan,UZB,Pertussis,2003,40,25567650,0.000156448
+3098,Uzbekistan,UZB,Pertussis,2004,35,25864350,0.000135321
+3099,Uzbekistan,UZB,Pertussis,2005,126,26167000,0.000481523
+3100,Uzbekistan,UZB,Pertussis,2006,115,26488250,0.000434155
+3101,Uzbekistan,UZB,Pertussis,2007,106,26868000,0.000394521
+3102,Uzbekistan,UZB,Pertussis,2008,31,27302800,0.000113541
+3103,Uzbekistan,UZB,Pertussis,2009,35,27767400,0.000126047
+3104,Uzbekistan,UZB,Pertussis,2010,33,28562400,0.000115537
+3105,Uzbekistan,UZB,Pertussis,2011,36,29339400,0.000122702
+3106,Uzbekistan,UZB,Pertussis,2012,62,29774500,0.000208232
+3107,Uzbekistan,UZB,Pertussis,2013,42,30243200,0.000138874
+3108,Uzbekistan,UZB,Pertussis,2014,69,30757700,0.000224334
+3109,Uzbekistan,UZB,Pertussis,2015,0,31298900,0
+3110,Uzbekistan,UZB,Pertussis,2016,103,31848200,0.000323409
+3111,Saint Vincent and the Grenadines,VCT,Pertussis,2000,0,107898,0
+3112,Saint Vincent and the Grenadines,VCT,Pertussis,2001,0,107988,0
+3113,Saint Vincent and the Grenadines,VCT,Pertussis,2002,0,108146,0
+3114,Saint Vincent and the Grenadines,VCT,Pertussis,2003,0,108350,0
+3115,Saint Vincent and the Grenadines,VCT,Pertussis,2004,0,108559,0
+3116,Saint Vincent and the Grenadines,VCT,Pertussis,2005,0,108744,0
+3117,Saint Vincent and the Grenadines,VCT,Pertussis,2006,0,108907,0
+3118,Saint Vincent and the Grenadines,VCT,Pertussis,2007,0,109047,0
+3119,Saint Vincent and the Grenadines,VCT,Pertussis,2008,0,109165,0
+3120,Saint Vincent and the Grenadines,VCT,Pertussis,2009,0,109253,0
+3121,Saint Vincent and the Grenadines,VCT,Pertussis,2010,0,109315,0
+3122,Saint Vincent and the Grenadines,VCT,Pertussis,2011,0,109341,0
+3123,Saint Vincent and the Grenadines,VCT,Pertussis,2012,0,109328,0
+3124,Saint Vincent and the Grenadines,VCT,Pertussis,2013,0,109320,0
+3125,Saint Vincent and the Grenadines,VCT,Pertussis,2014,0,109357,0
+3126,Saint Vincent and the Grenadines,VCT,Pertussis,2015,0,109455,0
+3127,Saint Vincent and the Grenadines,VCT,Pertussis,2016,0,109643,0
+3128,Venezuela (Bolivarian Republic of),VEN,Pertussis,2000,555,24488340,0.002266385
+3129,Venezuela (Bolivarian Republic of),VEN,Pertussis,2001,474,24948476,0.001899916
+3130,Venezuela (Bolivarian Republic of),VEN,Pertussis,2002,372,25408700,0.001464065
+3131,Venezuela (Bolivarian Republic of),VEN,Pertussis,2003,408,25868523,0.001577206
+3132,Venezuela (Bolivarian Republic of),VEN,Pertussis,2004,715,26327225,0.00271582
+3133,Venezuela (Bolivarian Republic of),VEN,Pertussis,2005,836,26784161,0.003121248
+3134,Venezuela (Bolivarian Republic of),VEN,Pertussis,2006,1183,27239168,0.004343011
+3135,Venezuela (Bolivarian Republic of),VEN,Pertussis,2007,-1,27691965,-3.61E-06
+3136,Venezuela (Bolivarian Republic of),VEN,Pertussis,2008,0,28141701,0
+3137,Venezuela (Bolivarian Republic of),VEN,Pertussis,2009,0,28587323,0
+3138,Venezuela (Bolivarian Republic of),VEN,Pertussis,2010,0,29028033,0
+3139,Venezuela (Bolivarian Republic of),VEN,Pertussis,2011,3,29463291,1.02E-05
+3140,Venezuela (Bolivarian Republic of),VEN,Pertussis,2012,8,29893080,2.68E-05
+3141,Venezuela (Bolivarian Republic of),VEN,Pertussis,2013,6,30317848,1.98E-05
+3142,Venezuela (Bolivarian Republic of),VEN,Pertussis,2014,1,30738378,3.25E-06
+3143,Venezuela (Bolivarian Republic of),VEN,Pertussis,2015,0,31155134,0
+3144,Venezuela (Bolivarian Republic of),VEN,Pertussis,2016,2,31568179,6.34E-06
+3145,Viet Nam,VNM,Pertussis,2000,1426,77630900,0.001836897
+3146,Viet Nam,VNM,Pertussis,2001,1242,78620500,0.001579741
+3147,Viet Nam,VNM,Pertussis,2002,662,79537700,0.00083231
+3148,Viet Nam,VNM,Pertussis,2003,716,80467400,0.000889801
+3149,Viet Nam,VNM,Pertussis,2004,328,81436400,0.000402768
+3150,Viet Nam,VNM,Pertussis,2005,194,82392100,0.000235459
+3151,Viet Nam,VNM,Pertussis,2006,144,83311200,0.000172846
+3152,Viet Nam,VNM,Pertussis,2007,183,84218500,0.000217292
+3153,Viet Nam,VNM,Pertussis,2008,280,85118700,0.000328952
+3154,Viet Nam,VNM,Pertussis,2009,122,86025000,0.000141819
+3155,Viet Nam,VNM,Pertussis,2010,81,86932500,9.32E-05
+3156,Viet Nam,VNM,Pertussis,2011,105,87860300,0.000119508
+3157,Viet Nam,VNM,Pertussis,2012,98,88809200,0.000110349
+3158,Viet Nam,VNM,Pertussis,2013,54,89759500,6.02E-05
+3159,Viet Nam,VNM,Pertussis,2014,90,90728900,9.92E-05
+3160,Viet Nam,VNM,Pertussis,2015,309,91713300,0.00033692
+3161,Viet Nam,VNM,Pertussis,2016,267,92701100,0.000288022
+3162,Vanuatu,VUT,Pertussis,2000,36,185063,0.019452835
+3163,Vanuatu,VUT,Pertussis,2001,-1,189290,-0.00052829
+3164,Vanuatu,VUT,Pertussis,2002,6,193956,0.003093485
+3165,Vanuatu,VUT,Pertussis,2003,-1,198964,-0.000502603
+3166,Vanuatu,VUT,Pertussis,2004,-1,204143,-0.000489853
+3167,Vanuatu,VUT,Pertussis,2005,11,209370,0.005253857
+3168,Vanuatu,VUT,Pertussis,2006,0,214634,0
+3169,Vanuatu,VUT,Pertussis,2007,0,219953,0
+3170,Vanuatu,VUT,Pertussis,2008,0,225340,0
+3171,Vanuatu,VUT,Pertussis,2009,0,230785,0
+3172,Vanuatu,VUT,Pertussis,2010,0,236295,0
+3173,Vanuatu,VUT,Pertussis,2011,0,241871,0
+3174,Vanuatu,VUT,Pertussis,2012,-1,247485,-0.000404065
+3175,Vanuatu,VUT,Pertussis,2013,-1,253142,-0.000395035
+3176,Vanuatu,VUT,Pertussis,2014,-1,258850,-0.000386324
+3177,Vanuatu,VUT,Pertussis,2015,-1,264603,-0.000377925
+3178,Vanuatu,VUT,Pertussis,2016,-1,270402,-0.00036982
+3179,Samoa,WSM,Pertussis,2000,-1,174610,-0.000572705
+3180,Samoa,WSM,Pertussis,2001,-1,175566,-0.000569586
+3181,Samoa,WSM,Pertussis,2002,-1,176582,-0.000566309
+3182,Samoa,WSM,Pertussis,2003,2,177662,0.001125733
+3183,Samoa,WSM,Pertussis,2004,0,178781,0
+3184,Samoa,WSM,Pertussis,2005,0,179929,0
+3185,Samoa,WSM,Pertussis,2006,0,181094,0
+3186,Samoa,WSM,Pertussis,2007,-1,182286,-0.000548588
+3187,Samoa,WSM,Pertussis,2008,53,183526,0.028878742
+3188,Samoa,WSM,Pertussis,2009,0,184826,0
+3189,Samoa,WSM,Pertussis,2010,22,186205,0.011814935
+3190,Samoa,WSM,Pertussis,2011,0,187665,0
+3191,Samoa,WSM,Pertussis,2012,0,189194,0
+3192,Samoa,WSM,Pertussis,2013,-1,190757,-0.000524227
+3193,Samoa,WSM,Pertussis,2014,-1,192290,-0.000520048
+3194,Samoa,WSM,Pertussis,2015,-1,193759,-0.000516105
+3195,Samoa,WSM,Pertussis,2016,-1,195125,-0.000512492
+3196,Yemen,YEM,Pertussis,2000,-1,17874725,-5.59E-06
+3197,Yemen,YEM,Pertussis,2001,-1,18390135,-5.44E-06
+3198,Yemen,YEM,Pertussis,2002,-1,18919179,-5.29E-06
+3199,Yemen,YEM,Pertussis,2003,-1,19462086,-5.14E-06
+3200,Yemen,YEM,Pertussis,2004,2200,20017068,0.010990621
+3201,Yemen,YEM,Pertussis,2005,1294,20582927,0.006286764
+3202,Yemen,YEM,Pertussis,2006,3476,21160534,0.016426807
+3203,Yemen,YEM,Pertussis,2007,2760,21751605,0.012688719
+3204,Yemen,YEM,Pertussis,2008,1229,22356391,0.005497309
+3205,Yemen,YEM,Pertussis,2009,2500,22974929,0.010881426
+3206,Yemen,YEM,Pertussis,2010,2534,23606779,0.010734205
+3207,Yemen,YEM,Pertussis,2011,2280,24252206,0.009401207
+3208,Yemen,YEM,Pertussis,2012,4699,24909969,0.018863934
+3209,Yemen,YEM,Pertussis,2013,2529,25576322,0.009888052
+3210,Yemen,YEM,Pertussis,2014,-1,26246327,-3.81E-06
+3211,Yemen,YEM,Pertussis,2015,-1,26916207,-3.72E-06
+3212,Yemen,YEM,Pertussis,2016,-1,27584213,-3.63E-06
+3213,South Africa,ZAF,Pertussis,2000,8,44896856,1.78E-05
+3214,South Africa,ZAF,Pertussis,2001,24,45312937,5.30E-05
+3215,South Africa,ZAF,Pertussis,2002,5,45855482.88,1.09E-05
+3216,South Africa,ZAF,Pertussis,2003,8,46418193.9,1.72E-05
+3217,South Africa,ZAF,Pertussis,2004,-1,47001700.99,-2.13E-06
+3218,South Africa,ZAF,Pertussis,2005,-1,47606670.24,-2.10E-06
+3219,South Africa,ZAF,Pertussis,2006,-1,48233804.48,-2.07E-06
+3220,South Africa,ZAF,Pertussis,2007,-1,48883844.99,-2.05E-06
+3221,South Africa,ZAF,Pertussis,2008,-1,49557573.3,-2.02E-06
+3222,South Africa,ZAF,Pertussis,2009,4,50255813.11,7.96E-06
+3223,South Africa,ZAF,Pertussis,2010,-1,50979432.36,-1.96E-06
+3224,South Africa,ZAF,Pertussis,2011,181,51729345.36,0.000349898
+3225,South Africa,ZAF,Pertussis,2012,-1,52506515.08,-1.90E-06
+3226,South Africa,ZAF,Pertussis,2013,116,53311955.61,0.000217587
+3227,South Africa,ZAF,Pertussis,2014,230,54146734.74,0.000424772
+3228,South Africa,ZAF,Pertussis,2015,103,55011976.68,0.000187232
+3229,South Africa,ZAF,Pertussis,2016,40,55908865,7.15E-05
+3230,Zambia,ZMB,Pertussis,2000,0,10531221,0
+3231,Zambia,ZMB,Pertussis,2001,953,10824125,0.008804407
+3232,Zambia,ZMB,Pertussis,2002,595,11120409,0.005350523
+3233,Zambia,ZMB,Pertussis,2003,391,11421984,0.003423223
+3234,Zambia,ZMB,Pertussis,2004,180,11731746,0.001534298
+3235,Zambia,ZMB,Pertussis,2005,185,12052156,0.001534995
+3236,Zambia,ZMB,Pertussis,2006,120,12383446,0.000969036
+3237,Zambia,ZMB,Pertussis,2007,34,12725974,0.00026717
+3238,Zambia,ZMB,Pertussis,2008,162,13082517,0.001238294
+3239,Zambia,ZMB,Pertussis,2009,681,13456417,0.005060783
+3240,Zambia,ZMB,Pertussis,2010,0,13850033,0
+3241,Zambia,ZMB,Pertussis,2011,0,14264756,0
+3242,Zambia,ZMB,Pertussis,2012,0,14699937,0
+3243,Zambia,ZMB,Pertussis,2013,0,15153210,0
+3244,Zambia,ZMB,Pertussis,2014,-1,15620974,-6.40E-06
+3245,Zambia,ZMB,Pertussis,2015,0,16100587,0
+3246,Zambia,ZMB,Pertussis,2016,0,16591390,0
+3247,Zimbabwe,ZWE,Pertussis,2000,8,12222251,6.55E-05
+3248,Zimbabwe,ZWE,Pertussis,2001,0,12366165,0
+3249,Zimbabwe,ZWE,Pertussis,2002,0,12500525,0
+3250,Zimbabwe,ZWE,Pertussis,2003,0,12633897,0
+3251,Zimbabwe,ZWE,Pertussis,2004,9,12777511,7.04E-05
+3252,Zimbabwe,ZWE,Pertussis,2005,0,12940032,0
+3253,Zimbabwe,ZWE,Pertussis,2006,0,13124267,0
+3254,Zimbabwe,ZWE,Pertussis,2007,0,13329909,0
+3255,Zimbabwe,ZWE,Pertussis,2008,0,13558469,0
+3256,Zimbabwe,ZWE,Pertussis,2009,0,13810599,0
+3257,Zimbabwe,ZWE,Pertussis,2010,0,14086317,0
+3258,Zimbabwe,ZWE,Pertussis,2011,0,14386649,0
+3259,Zimbabwe,ZWE,Pertussis,2012,0,14710826,0
+3260,Zimbabwe,ZWE,Pertussis,2013,0,15054506,0
+3261,Zimbabwe,ZWE,Pertussis,2014,0,15411675,0
+3262,Zimbabwe,ZWE,Pertussis,2015,0,15777451,0
+3263,Zimbabwe,ZWE,Pertussis,2016,3,16150362,1.86E-05
