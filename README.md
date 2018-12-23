@@ -1,34 +1,14 @@
 # Overview
 
-The main goal of this assignment is to educate people on the importance and efficacy of vaccines in reducing disease rates. We accomplished this by making a two maps one for showing disease prevalence and one for showing either vaccine percentage or the prevalence of a disease of a different type or time depending on what mode is selected. Disease maps are shown in red because it is a threatening color, where vaccine maps are shown in green. Tooltips give additional information to aid understanding and show particular values.
+The main goal of this project is to illustrate people on the importance and efficacy of vaccines in reducing disease rates. 
+It used two visualizations: one for showing disease prevalence and one for showing either vaccine percentage or the prevalence of a disease of a different type or time depending on what mode is selected. 
+Disease maps are shown in red because it is a threatening color, where vaccine maps are shown in green. 
+Tooltips give additional information to aid understanding and show particular values.
 
 # Github Pages
 
-https://russbdavis.github.io/Data-Vis-Final/
+https://RussellMDavis.github.io/D3-Herd-Immunity-Vis/
 
-Additionally, the repo where our work was conducted can be found at https://github.com/RussBDavis/Data-Vis-Final.
-
-# Screen-shots
-
-![Disease Vs. Vaccine](img/DiseaseVsVaccineFinal.png)
-
-![Disease Vs. Disease Final](img/DiseaseVsDiseaseFinal.png)
-
-# Process Book
-
-Our process book can be found at: 
-
-[Process Book](ProcessBook/ProcessBook.md).
-
-# Video
-
-A video detailing the intended use of our visualization can be found at:
-
-https://youtu.be/HjUolx54Beo. 
-
-The rough draft of the script for this video can be found at:
-
-[Video Script](Script.pdf).
 
 # Data
 
@@ -49,5 +29,4 @@ https://www.daniweb.com/programming/web-development/threads/490815/how-do-i-inse
 https://bl.ocks.org/jkeohan/b8a3a9510036e40d3a4e
 https://bost.ocks.org/mike/map/
 
-In addition we all reference previous assignments we had done from this class to leverage previous knowledge.
 
